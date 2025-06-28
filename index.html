@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Events API</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .endpoint { background: #f5f5f5; padding: 15px; margin: 10px 0; border-radius: 5px; }
+        code { background: #eee; padding: 2px 5px; }
+    </style>
+</head>
+<body>
+    <h1>Events API Service</h1>
+    <p>Verfügbare Endpoints:</p>
+    
+    <div class="endpoint">
+        <h2>Alle Locations</h2>
+        <code>GET /api.js?all=true</code>
+        <p>Gibt alle Events aller Locations zurück</p>
+    </div>
+    
+    <div class="endpoint">
+        <h2>Einzelne Location</h2>
+        <code>GET /api.js?location=velodrom</code>
+        <p>Mögliche Werte: velodrom, huxleys, max-schmeling</p>
+    </div>
+    
+    <div class="endpoint">
+        <h2>Metadaten</h2>
+        <code>GET /api.js?meta=true</code>
+        <p>Informationen über die API</p>
+    </div>
+    
+    <footer>
+        <p>API Powered by GitHub Pages</p>
+    </footer>
+</body>
+</html>
