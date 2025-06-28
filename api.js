@@ -7,7 +7,7 @@ async function handleRequest(request) {
   const params = url.searchParams
   
   try {
-    // Alle Events abrufen
+    // View all events
     if (params.get('all') === 'true') {
       const [velodrom, huxleys, maxschmeling] = await Promise.all([
         fetchData('velodrom'),
@@ -26,7 +26,7 @@ async function handleRequest(request) {
       })
     }
     
-    // Einzelne Location
+    // Single location
     const location = params.get('location')
     if (location && ['velodrom', 'huxleys', 'maxschmeling'].includes(location)) {
       const data = await fetchData(location)
@@ -37,14 +37,14 @@ async function handleRequest(request) {
       })
     }
     
-    // Metadaten
+    // Metadata
     if (params.get('meta') === 'true') {
       return jsonResponse({
         status: 'success',
         meta: {
           name: "Events API",
-          version: "1.0",
-          description: "Kostenlose Events API für Velodrom, Huxleys und Max-Schmeling",
+          version: "1.0.0",
+          description: "Events API for Velodrom, Huxleys und Max-Schmeling",
           endpoints: [
             "/api.js?all=true",
             "/api.js?location=velodrom",
@@ -56,10 +56,10 @@ async function handleRequest(request) {
       })
     }
     
-    // Standardantwort
+    // Standard response
     return jsonResponse({
       status: 'error',
-      message: 'Ungültige Anfrage. Verfügbare Parameter: all, location, meta',
+      message: 'Invalid request. Available parameters: all, location, meta',
       usage: {
         all_events: "/api.js?all=true",
         single_location: "/api.js?location=velodrom",
@@ -75,10 +75,10 @@ async function handleRequest(request) {
   }
 }
 
-// Hilfsfunktionen
+// Helper functions
 async function fetchData(location) {
   const response = await fetch(`https://raw.githubusercontent.com/nxtagi/events.api/main/data/${location}.json`)
-  if (!response.ok) throw new Error(`Daten für ${location} nicht gefunden`)
+  if (!response.ok) throw new Error(`Data for ${location} not found`)
   return await response.json()
 }
 
