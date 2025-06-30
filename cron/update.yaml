@@ -14,14 +14,14 @@ jobs:
     - name: Update hux
       run: |
         curl -L -o data/hux.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/hux.json"
+        
+    - name: Update max
+      run: |
+        curl -L -o data/max.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/max.json"
 
     - name: Update vel
       run: |
         curl -L -o data/vel.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/vel.json"
-        
-    - name: Update msh
-      run: |
-        curl -L -o data/msh.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/msh.json"
         
     - name: Commit changes
       run: |
