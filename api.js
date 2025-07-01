@@ -59,10 +59,11 @@ async function handleRequest(request) {
     }
 
     if (params.get('all') === 'true') {
-      const [hux, max, vel] = await Promise.all([
+      const [hux, max, vel, wuh] = await Promise.all([
         fetchData('hux'),
         fetchData('max'),
-        fetchData('vel')
+        fetchData('vel'),
+        fetchData('wuh')
       ])
       
       return jsonResponse({
@@ -70,14 +71,15 @@ async function handleRequest(request) {
         data: {
           hux,
           max,
-          vel
+          vel,
+          wuh
         },
         timestamp: new Date().toISOString()
       }, 200, securityHeaders)
     }
     
     const location = params.get('location')
-    if (location && ['hux', 'max', 'vel'].includes(location)) {
+    if (location && ['hux', 'max', 'vel', 'wuh'].includes(location)) {
       const data = await fetchData(location)
       return jsonResponse({
         status: 'success',
@@ -98,6 +100,7 @@ async function handleRequest(request) {
             "/api.js?location=hux",
             "/api.js?location=max",
             "/api.js?location=vel",
+            "/api.js?location=wuh",
             "/api.js?meta=true"
           ]
         }

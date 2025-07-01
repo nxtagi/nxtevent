@@ -9,7 +9,7 @@ Returns all events of all locations
 ### Single Location
 ```
 GET /api.js?location=hux
-Possible values: hux, max, vel
+Possible values: hux, max, vel, wuh
 ```
 
 ### Metadata
