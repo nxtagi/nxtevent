@@ -11,20 +11,11 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Update hux
+    - name: Update data
       run: |
         curl -L -o data/hux.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/hux.json"
-        
-    - name: Update max
-      run: |
         curl -L -o data/max.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/max.json"
-
-    - name: Update vel
-      run: |
         curl -L -o data/vel.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/vel.json"
-
-    - name: Update wuh
-      run: |
         curl -L -o data/wuh.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/wuh.json"
         
     - name: Commit changes
