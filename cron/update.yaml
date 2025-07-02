@@ -11,17 +11,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Update data
+    - name: Commit placeholder
       run: |
-        curl -L -o data/hux.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/hux.json"
-        curl -L -o data/max.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/max.json"
-        curl -L -o data/vel.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/vel.json"
-        curl -L -o data/wuh.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/wuh.json"
-        
-    - name: Commit changes
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@users.noreply.github.com"
-        git add data/
-        git diff --quiet && git diff --staged --quiet || git commit -m "Automatic update: $(date +'%Y-%m-%d %H:%M')"
-        git push
+        echo "No external updates needed"
