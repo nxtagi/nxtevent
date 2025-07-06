@@ -1,0 +1,898 @@
+[
+  {
+    "title": "ENHYPEN",
+    "category": "Konzert",
+    "date": "2025-09-01",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Chris Tall",
+    "category": "Comedy",
+    "date": "2025-09-05",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Ricky Gervais",
+    "category": "Comedy",
+    "date": "2025-09-06",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Eisbären Berlin - Dresdner Eislöwen",
+    "category": "Eishockey",
+    "date": "2025-09-09",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Drake",
+    "category": "Konzert",
+    "date": "2025-09-11",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Drake",
+    "category": "Konzert",
+    "date": "2025-09-12",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Drake",
+    "category": "Konzert",
+    "date": "2025-09-14",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Ayliva",
+    "category": "Konzert",
+    "date": "2025-09-15",
+    "entryTime": "18:00",
+    "beginTime": "19:45"
+  },
+  {
+    "title": "Ayliva",
+    "category": "Konzert",
+    "date": "2025-09-16",
+    "entryTime": "18:00",
+    "beginTime": "19:45"
+  },
+  {
+    "title": "Ayliva",
+    "category": "Konzert",
+    "date": "2025-09-18",
+    "entryTime": "18:00",
+    "beginTime": "19:45"
+  },
+  {
+    "title": "Yalin",
+    "category": "Konzert",
+    "date": "2025-09-24",
+    "entryTime": "18:30",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "ZEIT Verbrechen",
+    "category": "Show",
+    "date": "2025-09-25",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Eisbären Berlin - Straubing Tigers",
+    "category": "Eishockey",
+    "date": "2025-09-26",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Montez",
+    "category": "Konzert",
+    "date": "2025-09-27",
+    "entryTime": "17:45",
+    "beginTime": "19:45"
+  },
+  {
+    "title": "Eisbären Berlin - Schwenninger Wild Wings",
+    "category": "Eishockey",
+    "date": "2025-09-28",
+    "entryTime": "12:30",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "OneRepublic",
+    "category": "Konzert",
+    "date": "2025-10-02",
+    "entryTime": "17:00",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "Volbeat",
+    "category": "Konzert",
+    "date": "2025-10-04",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "Eisbären Berlin - ERC Ingolstadt",
+    "category": "Eishockey",
+    "date": "2025-10-05",
+    "entryTime": "12:30",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "Eisbären Berlin - HC Frölunda Göteborg",
+    "category": "Eishockey",
+    "date": "2025-10-07",
+    "entryTime": "18:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Eisbären Berlin - Nürnberg Ice Tigers",
+    "category": "Eishockey",
+    "date": "2025-10-12",
+    "entryTime": "12:30",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "Sting",
+    "category": "Konzert",
+    "date": "2025-10-16",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Eisbären Berlin - Grizzlys Wolfsburg",
+    "category": "Eishockey",
+    "date": "2025-10-17",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "One Vision of Queen - feat. Marc Martel",
+    "category": "Konzert",
+    "date": "2025-10-18",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Simply Red",
+    "category": "Konzert",
+    "date": "2025-10-19",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Katy Perry",
+    "category": "Konzert",
+    "date": "2025-10-21",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Hans Zimmer Live - The Next Level",
+    "category": "Konzert",
+    "date": "2025-10-23",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Hans Zimmer Live - The Next Level",
+    "category": "Konzert",
+    "date": "2025-10-24",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Eisbären Berlin - Augsburger Panther",
+    "category": "Eishockey",
+    "date": "2025-10-25",
+    "entryTime": "18:30",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "The Offspring",
+    "category": "Konzert",
+    "date": "2025-10-27",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Eisbären Berlin - Adler Mannheim",
+    "category": "Eishockey",
+    "date": "2025-10-29",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "FiNCH",
+    "category": "Konzert",
+    "date": "2025-10-31",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Eisbären Berlin - Fischtown Pinguins Bremerhaven",
+    "category": "Eishockey",
+    "date": "2025-11-02",
+    "entryTime": "12:30",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "Il Volo",
+    "category": "Konzert",
+    "date": "2025-11-03",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Lady Gaga",
+    "category": "Konzert",
+    "date": "2025-11-04",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Lady Gaga",
+    "category": "Konzert",
+    "date": "2025-11-05",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Let's Dance",
+    "category": "Show",
+    "date": "2025-11-07",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Nina Chuba",
+    "category": "Konzert",
+    "date": "2025-11-09",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Mumford & Sons",
+    "category": "Konzert",
+    "date": "2025-11-10",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "SDP",
+    "category": "Konzert",
+    "date": "2025-11-12",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "SDP",
+    "category": "Konzert",
+    "date": "2025-11-13",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Sabaton",
+    "category": "Konzert",
+    "date": "2025-11-15",
+    "entryTime": "17:00",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "Eisbären Berlin - Löwen Frankfurt",
+    "category": "Eishockey",
+    "date": "2025-11-16",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "Jamiroquai",
+    "category": "Konzert",
+    "date": "2025-11-19",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Tom Odell",
+    "category": "Konzert",
+    "date": "2025-11-20",
+    "entryTime": "18:00",
+    "beginTime": "18:30"
+  },
+  {
+    "title": "Eisbären Berlin - EHC Red Bull München",
+    "category": "Eishockey",
+    "date": "2025-11-21",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Die Schlagernacht des Jahres",
+    "category": "Konzert",
+    "date": "2025-11-22",
+    "entryTime": "16:30",
+    "beginTime": "18:00"
+  },
+  {
+    "title": "Big Time Rush",
+    "category": "Konzert",
+    "date": "2025-11-23",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Kontra K",
+    "category": "Konzert",
+    "date": "2025-11-24",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Kontra K",
+    "category": "Konzert",
+    "date": "2025-11-25",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Kontra K",
+    "category": "Konzert",
+    "date": "2025-11-26",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Kontra K",
+    "category": "Konzert",
+    "date": "2025-11-27",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Electric Callboy",
+    "category": "Konzert",
+    "date": "2025-11-28",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "We love MMA",
+    "category": "Sport",
+    "date": "2025-11-29",
+    "entryTime": "18:00",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "Eisbären Berlin - Kölner Haie",
+    "category": "Eishockey",
+    "date": "2025-11-30",
+    "entryTime": "12:30",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "Kerstin Ott",
+    "category": "Konzert",
+    "date": "2025-12-03",
+    "entryTime": "18:30",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Eisbären Berlin - Iserlohn Roosters",
+    "category": "Eishockey",
+    "date": "2025-12-05",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Luciano",
+    "category": "Konzert",
+    "date": "2025-12-06",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Eisbären Berlin - Dresdner Eislöwen",
+    "category": "Eishockey",
+    "date": "2025-12-07",
+    "entryTime": "18:00",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "Eisbären Berlin - Schwenninger Wild Wings",
+    "category": "Eishockey",
+    "date": "2025-12-14",
+    "entryTime": "12:30",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "Böhse Onkelz",
+    "category": "Konzert",
+    "date": "2025-12-17",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Böhse Onkelz",
+    "category": "Konzert",
+    "date": "2025-12-18",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Eisbären Berlin - Kölner Haie",
+    "category": "Eishockey",
+    "date": "2025-12-21",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "Eisbären Berlin - Grizzlys Wolfsburg",
+    "category": "Eishockey",
+    "date": "2025-12-26",
+    "entryTime": "15:00",
+    "beginTime": "16:30"
+  },
+  {
+    "title": "Eisbären Berlin - Nürnberg Ice Tigers",
+    "category": "Eishockey",
+    "date": "2025-12-28",
+    "entryTime": "12:30",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "Eisbären Berlin - Löwen Frankfurt",
+    "category": "Eishockey",
+    "date": "2026-01-02",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Eisbären Berlin - Augsburger Panther",
+    "category": "Eishockey",
+    "date": "2026-01-04",
+    "entryTime": "12:30",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "Bushido",
+    "category": "Konzert",
+    "date": "2026-01-12",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "CAVALLUNA - Tor zur Anderswelt",
+    "category": "Show",
+    "date": "2026-01-17",
+    "entryTime": "12:30",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "CAVALLUNA - Tor zur Anderswelt",
+    "category": "Show",
+    "date": "2026-01-17",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "CAVALLUNA - Tor zur Anderswelt",
+    "category": "Show",
+    "date": "2026-01-18",
+    "entryTime": "11:30",
+    "beginTime": "13:00"
+  },
+  {
+    "title": "CAVALLUNA - Tor zur Anderswelt",
+    "category": "Show",
+    "date": "2026-01-18",
+    "entryTime": "16:00",
+    "beginTime": "17:30"
+  },
+  {
+    "title": "Eisbären Berlin - ERC Ingolstadt",
+    "category": "Eishockey",
+    "date": "2026-01-23",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Feuerwerk der Turnkunst - VIVA",
+    "category": "Show",
+    "date": "2026-01-25",
+    "entryTime": "12:30",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "Feuerwerk der Turnkunst - VIVA",
+    "category": "Show",
+    "date": "2026-01-25",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "reezy",
+    "category": "Konzert",
+    "date": "2026-01-26",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Apache 207",
+    "category": "Konzert",
+    "date": "2026-01-28",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Apache 207",
+    "category": "Konzert",
+    "date": "2026-01-29",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Apache 207",
+    "category": "Konzert",
+    "date": "2026-01-30",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Apache 207",
+    "category": "Konzert",
+    "date": "2026-02-01",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Apache 207",
+    "category": "Konzert",
+    "date": "2026-02-02",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "NIGHT of the JUMPs",
+    "category": "Show",
+    "date": "2026-02-07",
+    "entryTime": "12:00",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "NIGHT of the JUMPs",
+    "category": "Show",
+    "date": "2026-02-07",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "NEUES DATUM: Dr. Jordan B. Peterson",
+    "category": "Show",
+    "date": "2026-02-11",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Michelle",
+    "category": "Konzert",
+    "date": "2026-02-15",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "90s Super Show",
+    "category": "Konzert",
+    "date": "2026-02-21",
+    "entryTime": "15:00",
+    "beginTime": "17:00"
+  },
+  {
+    "title": "Ben Zucker",
+    "category": "Konzert",
+    "date": "2026-02-22",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Eisbären Berlin - Straubing Tigers",
+    "category": "Eishockey",
+    "date": "2026-02-25",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Eisbären Berlin - Iserlohn Roosters",
+    "category": "Eishockey",
+    "date": "2026-02-27",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "André Rieu",
+    "category": "Konzert",
+    "date": "2026-02-28",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Eisbären Berlin - Fischtown Pinguins Bremerhaven",
+    "category": "Eishockey",
+    "date": "2026-03-01",
+    "entryTime": "12:30",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "Eros Ramazzotti",
+    "category": "Konzert",
+    "date": "2026-03-02",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "ISTAF INDOOR",
+    "category": "Sport",
+    "date": "2026-03-06",
+    "entryTime": "16:30",
+    "beginTime": "16:45"
+  },
+  {
+    "title": "Bushido",
+    "category": "Konzert",
+    "date": "2026-03-07",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Felix Lobrecht",
+    "category": "Comedy",
+    "date": "2026-03-10",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Felix Lobrecht",
+    "category": "Comedy",
+    "date": "2026-03-11",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Neuer Termin: PlayStation: The Concert",
+    "category": "Konzert",
+    "date": "2026-03-12",
+    "entryTime": "18:30",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Eisbären Berlin - Adler Mannheim",
+    "category": "Eishockey",
+    "date": "2026-03-13",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Sarah Connor",
+    "category": "Konzert",
+    "date": "2026-03-14",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Eisbären Berlin - EHC Red Bull München",
+    "category": "Eishockey",
+    "date": "2026-03-15",
+    "entryTime": "12:30",
+    "beginTime": "14:00"
+  },
+  {
+    "title": "Der Herr der Ringe: Die Gefährten – in Concert Live to Film",
+    "category": "Konzert",
+    "date": "2026-03-19",
+    "entryTime": "16:30",
+    "beginTime": "18:30"
+  },
+  {
+    "title": "Clueso",
+    "category": "Konzert",
+    "date": "2026-03-21",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Kaya Yanar",
+    "category": "Comedy",
+    "date": "2026-03-28",
+    "entryTime": "18:30",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Neuer Termin: 7 vs. Wild",
+    "category": "Show",
+    "date": "2026-04-07",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Santiano",
+    "category": "Konzert",
+    "date": "2026-04-11",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Howard Carpendale",
+    "category": "Konzert",
+    "date": "2026-04-16",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "ABBAMANIA THE SHOW",
+    "category": "Konzert",
+    "date": "2026-04-18",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Nico Stank",
+    "category": "Comedy",
+    "date": "2026-04-25",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Johannes Oerding",
+    "category": "Konzert",
+    "date": "2026-05-02",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Michael Patrick Kelly",
+    "category": "Konzert",
+    "date": "2026-05-08",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Ehrlich Brothers: Diamonds",
+    "category": "Show",
+    "date": "2026-05-09",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "Ehrlich Brothers: Diamonds",
+    "category": "Show",
+    "date": "2026-05-10",
+    "entryTime": "keine Daten",
+    "beginTime": "11:00"
+  },
+  {
+    "title": "Ehrlich Brothers: Diamonds",
+    "category": "Show",
+    "date": "2026-05-10",
+    "entryTime": "15:30",
+    "beginTime": "17:00"
+  },
+  {
+    "title": "FREI.WILD",
+    "category": "Konzert",
+    "date": "2026-05-15",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Schiller",
+    "category": "Konzert",
+    "date": "2026-05-16",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Zucchero",
+    "category": "Konzert",
+    "date": "2026-06-05",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Tutty Tran",
+    "category": "Comedy",
+    "date": "2026-06-06",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "6K UNITED!",
+    "category": "Konzert",
+    "date": "2026-06-11",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "6K UNITED!",
+    "category": "Konzert",
+    "date": "2026-06-12",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "DJ BoBo",
+    "category": "Konzert",
+    "date": "2026-06-13",
+    "entryTime": "18:30",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "6K UNITED!",
+    "category": "Konzert",
+    "date": "2026-07-02",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "DIKKA",
+    "category": "Konzert",
+    "date": "2026-07-04",
+    "entryTime": "15:00",
+    "beginTime": "17:00"
+  },
+  {
+    "title": "Beatrice Egli",
+    "category": "Konzert",
+    "date": "2026-10-24",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "The World of Hans Zimmer",
+    "category": "Konzert",
+    "date": "2026-10-29",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Disney in Concert",
+    "category": "Konzert",
+    "date": "2026-11-03",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Tokio Hotel",
+    "category": "Konzert",
+    "date": "2026-11-07",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Felix Lobrecht",
+    "category": "Comedy",
+    "date": "2026-11-27",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Chris Tall",
+    "category": "Comedy",
+    "date": "2026-11-28",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
+    "title": "Sascha Grammel",
+    "category": "Comedy",
+    "date": "2026-12-11",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  }
+]
