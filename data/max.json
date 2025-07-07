@@ -1,70 +1,80 @@
 [
   {
     "title": "Rhine-Ruhr 2025 FISU",
-    "category": "FISU",
+    "category": "Volleyball",
+    "section": "FISU",
     "date": "2025-07-16",
     "entryTime": "09:00",
     "beginTime": "10:00"
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
-    "category": "FISU",
+    "category": "Volleyball",
+    "section": "FISU",
     "date": "2025-07-17",
     "entryTime": "10:00",
     "beginTime": "11:00"
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
-    "category": "FISU",
+    "category": "Volleyball",
+    "section": "FISU",
     "date": "2025-07-18",
     "entryTime": "10:00",
     "beginTime": "11:00"
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
-    "category": "FISU",
+    "category": "Volleyball",
+    "section": "FISU",
     "date": "2025-07-19",
     "entryTime": "10:00",
     "beginTime": "11:00"
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
-    "category": "FISU",
+    "category": "Volleyball",
+    "section": "FISU",
     "date": "2025-07-20",
     "entryTime": "10:00",
     "beginTime": "11:00"
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
-    "category": "FISU",
+    "category": "Volleyball",
+    "section": "FISU",
     "date": "2025-07-20",
     "entryTime": "10:00",
     "beginTime": "11:00"
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
-    "category": "FISU",
+    "category": "Volleyball",
+    "section": "FISU",
     "date": "2025-07-21",
     "entryTime": "10:00",
     "beginTime": "11:00"
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
-    "category": "FISU",
+    "category": "Volleyball",
+    "section": "FISU",
     "date": "2025-07-22",
     "entryTime": "10:00",
     "beginTime": "11:00"
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
-    "category": "FISU",
+    "category": "Volleyball",
+    "section": "FISU",
     "date": "2025-07-23",
     "entryTime": "10:00",
     "beginTime": "11:00"
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
-    "category": "FISU",
+    "category": "Volleyball",
+    "section": "FISU",
     "date": "2025-07-24",
     "entryTime": "16:00",
     "beginTime": "17:00"
@@ -72,6 +82,7 @@
   {
     "title": "Lil Baby",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-09-12",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -79,6 +90,7 @@
   {
     "title": "Parcels",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-10-04",
     "entryTime": "18:00",
     "beginTime": "20:00"
@@ -86,20 +98,39 @@
   {
     "title": "Jeremias",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-10-17",
     "entryTime": "18:30",
     "beginTime": "20:00"
   },
   {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2025-10-21",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
     "title": "ONE OK ROCK",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-10-24",
     "entryTime": "18:30",
     "beginTime": "20:00"
   },
   {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2025-10-29",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
     "title": "Berlin Tattoo 2025",
     "category": "Event",
+    "section": "Show",
     "date": "2025-11-08",
     "entryTime": "13:00",
     "beginTime": "14:30"
@@ -107,6 +138,7 @@
   {
     "title": "Berlin Tattoo 2025",
     "category": "Event",
+    "section": "Show",
     "date": "2025-11-08",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -114,13 +146,23 @@
   {
     "title": "Berlin Tattoo 2025",
     "category": "Event",
+    "section": "Show",
     "date": "2025-11-09",
     "entryTime": "13:00",
     "beginTime": "14:30"
   },
   {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2025-11-12",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
     "title": "Dimash Qudaibergen",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-11-14",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -128,13 +170,31 @@
   {
     "title": "Marilyn Manson",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-11-17",
     "entryTime": "18:00",
     "beginTime": "20:00"
   },
   {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2025-11-23",
+    "entryTime": "13:30",
+    "beginTime": "15:00"
+  },
+  {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2025-12-03",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
     "title": "Lorde",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-12-05",
     "entryTime": "18:00",
     "beginTime": "20:00"
@@ -142,13 +202,23 @@
   {
     "title": "TREAM",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-12-10",
     "entryTime": "18:30",
     "beginTime": "20:00"
   },
   {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2025-12-13",
+    "entryTime": "16:30",
+    "beginTime": "18:00"
+  },
+  {
     "title": "Karat - 50 Jahre",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-12-19",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -156,6 +226,7 @@
   {
     "title": "01099",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-12-20",
     "entryTime": "18:00",
     "beginTime": "19:00"
@@ -163,13 +234,63 @@
   {
     "title": "Feine Sahne Fischfilet",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-12-22",
     "entryTime": "18:00",
     "beginTime": "20:00"
   },
   {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2025-12-28",
+    "entryTime": "13:30",
+    "beginTime": "15:00"
+  },
+  {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2026-01-11",
+    "entryTime": "13:30",
+    "beginTime": "15:00"
+  },
+  {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2026-01-18",
+    "entryTime": "13:30",
+    "beginTime": "15:00"
+  },
+  {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2026-01-31",
+    "entryTime": "16:30",
+    "beginTime": "18:00"
+  },
+  {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2026-02-08",
+    "entryTime": "13:30",
+    "beginTime": "15:00"
+  },
+  {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2026-02-22",
+    "entryTime": "13:30",
+    "beginTime": "15:00"
+  },
+  {
     "title": "Zartmann",
     "category": "Event",
+    "section": "Konzert",
     "date": "2026-03-06",
     "entryTime": "18:00",
     "beginTime": "19:30"
@@ -177,13 +298,23 @@
   {
     "title": "Kraftklub",
     "category": "Event",
+    "section": "Konzert",
     "date": "2026-03-11",
     "entryTime": "18:00",
     "beginTime": "20:00"
   },
   {
+    "title": "VBL 2025/ 2026",
+    "category": "Volleyball",
+    "section": "VBL",
+    "date": "2026-03-14",
+    "entryTime": "16:30",
+    "beginTime": "18:00"
+  },
+  {
     "title": "Samu Haber",
     "category": "Event",
+    "section": "Konzert",
     "date": "2026-04-02",
     "entryTime": "18:00",
     "beginTime": "20:00"
@@ -191,6 +322,7 @@
   {
     "title": "Kaffkiez",
     "category": "Event",
+    "section": "Konzert",
     "date": "2026-04-24",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -198,6 +330,7 @@
   {
     "title": "Bosse",
     "category": "Event",
+    "section": "Konzert",
     "date": "2026-05-16",
     "entryTime": "19:00",
     "beginTime": "20:00"
@@ -205,6 +338,7 @@
   {
     "title": "Nena",
     "category": "Event",
+    "section": "Konzert",
     "date": "2026-10-02",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -212,6 +346,7 @@
   {
     "title": "Arena Tour 2026",
     "category": "Event",
+    "section": "Konzert",
     "date": "2026-10-30",
     "entryTime": "18:30",
     "beginTime": "19:30"

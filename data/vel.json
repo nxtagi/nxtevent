@@ -2,6 +2,7 @@
   {
     "title": "Grönemeyer",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-09-11",
     "entryTime": "18:00",
     "beginTime": "20:00"
@@ -9,6 +10,7 @@
   {
     "title": "Grönemeyer",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-09-12",
     "entryTime": "18:00",
     "beginTime": "20:00"
@@ -16,6 +18,7 @@
   {
     "title": "Boris Brejcha",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-09-20",
     "entryTime": "21:00",
     "beginTime": "22:00"
@@ -23,6 +26,7 @@
   {
     "title": "Little Simz",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-09-23",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -30,6 +34,7 @@
   {
     "title": "Meute",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-10-11",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -37,6 +42,7 @@
   {
     "title": "Loyle Carner",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-10-15",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -44,6 +50,7 @@
   {
     "title": "Disturbed & Megadeth",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-10-18",
     "entryTime": "18:00",
     "beginTime": "20:00"
@@ -51,6 +58,7 @@
   {
     "title": "Turnstile",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-11-14",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -58,6 +66,7 @@
   {
     "title": "Tiefbasskommando",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-11-29",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -65,6 +74,7 @@
   {
     "title": "Black Coffee",
     "category": "Event",
+    "section": "Konzert",
     "date": "2025-12-13",
     "entryTime": "21:00",
     "beginTime": "21:30"
@@ -72,6 +82,7 @@
   {
     "title": "Schlagerchampions 2026",
     "category": "Event",
+    "section": "Show",
     "date": "2026-01-10",
     "entryTime": "17:30",
     "beginTime": "20:15"
@@ -79,6 +90,7 @@
   {
     "title": "Architects",
     "category": "Event",
+    "section": "Konzert",
     "date": "2026-01-22",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -86,6 +98,7 @@
   {
     "title": "Slaughter to Prevail",
     "category": "Event",
+    "section": "Konzert",
     "date": "2026-01-24",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -93,6 +106,7 @@
   {
     "title": "Original Sixdays Weekend",
     "category": "Event",
+    "section": "Konzert",
     "date": "2026-01-30",
     "entryTime": "18:00",
     "beginTime": "19:00"
@@ -100,6 +114,7 @@
   {
     "title": "Original Sixdays Weekend",
     "category": "Event",
+    "section": "Konzert",
     "date": "2026-01-31",
     "entryTime": "18:00",
     "beginTime": "19:00"
@@ -107,6 +122,7 @@
   {
     "title": "Shindy",
     "category": "Event",
+    "section": "Konzert",
     "date": "2026-02-20",
     "entryTime": "19:00",
     "beginTime": "20:00"
@@ -114,6 +130,7 @@
   {
     "title": "Disney On Ice",
     "category": "Event",
+    "section": "Show",
     "date": "2026-03-13",
     "entryTime": "17:30",
     "beginTime": "18:30"
@@ -121,6 +138,7 @@
   {
     "title": "Disney On Ice",
     "category": "Event",
+    "section": "Show",
     "date": "2026-03-14",
     "entryTime": "10:00",
     "beginTime": "11:00"
@@ -128,6 +146,7 @@
   {
     "title": "Disney On Ice",
     "category": "Event",
+    "section": "Show",
     "date": "2026-03-14",
     "entryTime": "14:00",
     "beginTime": "15:00"
@@ -135,6 +154,7 @@
   {
     "title": "Disney On Ice",
     "category": "Event",
+    "section": "Show",
     "date": "2026-03-14",
     "entryTime": "18:00",
     "beginTime": "19:00"
@@ -142,6 +162,7 @@
   {
     "title": "Disney On Ice",
     "category": "Event",
+    "section": "Show",
     "date": "2026-03-15",
     "entryTime": "10:00",
     "beginTime": "11:00"
@@ -149,6 +170,7 @@
   {
     "title": "Disney On Ice",
     "category": "Event",
+    "section": "Show",
     "date": "2026-03-15",
     "entryTime": "14:00",
     "beginTime": "15:00"
