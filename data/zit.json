@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Cypress Hill",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-07-09",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "PATTI SMITH QUARTET",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-07-11",
+    "entryTime": "17:30",
+    "beginTime": "19:30"
+  },
+  {
+    "title": "Wanda",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-07-12",
+    "entryTime": "17:00",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "Lynyrd Skynyrd",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-07-13",
+    "entryTime": "18:00",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "Brunch Electronik Day 1",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-07-26",
+    "entryTime": "12:00",
+    "beginTime": "13:00"
+  },
+  {
+    "title": "Brunch Electronik Day 2",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-07-27",
+    "entryTime": "12:00",
+    "beginTime": "13:00"
+  },
+  {
+    "title": "Paula Hartmann",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-08-01",
+    "entryTime": "17:00",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "FONTAINES D.C.",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-08-05",
+    "entryTime": "17:00",
+    "beginTime": "19:00"
+  },
+  {
+    "title": "THE SMASHING PUMPKINS",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-08-06",
+    "entryTime": "17:30",
+    "beginTime": "19:00"
+  }
+]
