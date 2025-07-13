@@ -26,7 +26,9 @@
   {
     "title": "Eisbären Berlin - Dresdner Eislöwen",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Dresden",
     "date": "2025-09-09",
     "entryTime": "18:00",
     "beginTime": "19:30"
@@ -98,7 +100,9 @@
   {
     "title": "Eisbären Berlin - Straubing Tigers",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Straubing",
     "date": "2025-09-26",
     "entryTime": "18:00",
     "beginTime": "19:30"
@@ -114,7 +118,9 @@
   {
     "title": "Eisbären Berlin - Schwenninger Wild Wings",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Schwenningen",
     "date": "2025-09-28",
     "entryTime": "12:30",
     "beginTime": "14:00"
@@ -138,7 +144,9 @@
   {
     "title": "Eisbären Berlin - ERC Ingolstadt",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Ingolstadt",
     "date": "2025-10-05",
     "entryTime": "12:30",
     "beginTime": "14:00"
@@ -146,7 +154,9 @@
   {
     "title": "Eisbären Berlin - HC Frölunda Göteborg",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Göteborg",
     "date": "2025-10-07",
     "entryTime": "18:30",
     "beginTime": "19:30"
@@ -154,7 +164,9 @@
   {
     "title": "Eisbären Berlin - Nürnberg Ice Tigers",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Nürnberg",
     "date": "2025-10-12",
     "entryTime": "12:30",
     "beginTime": "14:00"
@@ -170,7 +182,9 @@
   {
     "title": "Eisbären Berlin - Grizzlys Wolfsburg",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Wolfsburg",
     "date": "2025-10-17",
     "entryTime": "18:00",
     "beginTime": "19:30"
@@ -218,7 +232,9 @@
   {
     "title": "Eisbären Berlin - Augsburger Panther",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Augsburg",
     "date": "2025-10-25",
     "entryTime": "18:30",
     "beginTime": "20:00"
@@ -234,7 +250,9 @@
   {
     "title": "Eisbären Berlin - Adler Mannheim",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Mannheim",
     "date": "2025-10-29",
     "entryTime": "18:00",
     "beginTime": "19:30"
@@ -250,7 +268,9 @@
   {
     "title": "Eisbären Berlin - Fischtown Pinguins Bremerhaven",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Bremerhaven",
     "date": "2025-11-02",
     "entryTime": "12:30",
     "beginTime": "14:00"
@@ -330,7 +350,9 @@
   {
     "title": "Eisbären Berlin - Löwen Frankfurt",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Frankfurt",
     "date": "2025-11-16",
     "entryTime": "17:30",
     "beginTime": "19:00"
@@ -354,7 +376,9 @@
   {
     "title": "Eisbären Berlin - EHC Red Bull München",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "München",
     "date": "2025-11-21",
     "entryTime": "18:00",
     "beginTime": "19:30"
@@ -417,7 +441,7 @@
   },
   {
     "title": "We love MMA",
-    "category": "Sport",
+    "category": "MMA",
     "section": "MMA",
     "date": "2025-11-29",
     "entryTime": "18:00",
@@ -426,7 +450,9 @@
   {
     "title": "Eisbären Berlin - Kölner Haie",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Köln",
     "date": "2025-11-30",
     "entryTime": "12:30",
     "beginTime": "14:00"
@@ -442,7 +468,9 @@
   {
     "title": "Eisbären Berlin - Iserlohn Roosters",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Iserlohn",
     "date": "2025-12-05",
     "entryTime": "18:00",
     "beginTime": "19:30"
@@ -458,7 +486,9 @@
   {
     "title": "Eisbären Berlin - Dresdner Eislöwen",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Dresden",
     "date": "2025-12-07",
     "entryTime": "18:00",
     "beginTime": "14:00"
@@ -466,7 +496,9 @@
   {
     "title": "Eisbären Berlin - Schwenninger Wild Wings",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Schwenningen",
     "date": "2025-12-14",
     "entryTime": "12:30",
     "beginTime": "14:00"
@@ -490,7 +522,9 @@
   {
     "title": "Eisbären Berlin - Kölner Haie",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Köln",
     "date": "2025-12-21",
     "entryTime": "17:30",
     "beginTime": "19:00"
@@ -498,7 +532,9 @@
   {
     "title": "Eisbären Berlin - Grizzlys Wolfsburg",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Wolfsburg",
     "date": "2025-12-26",
     "entryTime": "15:00",
     "beginTime": "16:30"
@@ -506,7 +542,9 @@
   {
     "title": "Eisbären Berlin - Nürnberg Ice Tigers",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Nürnberg",
     "date": "2025-12-28",
     "entryTime": "12:30",
     "beginTime": "14:00"
@@ -514,7 +552,9 @@
   {
     "title": "Eisbären Berlin - Löwen Frankfurt",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Frankfurt",
     "date": "2026-01-02",
     "entryTime": "18:00",
     "beginTime": "19:30"
@@ -522,7 +562,9 @@
   {
     "title": "Eisbären Berlin - Augsburger Panther",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Augsburg",
     "date": "2026-01-04",
     "entryTime": "12:30",
     "beginTime": "14:00"
@@ -570,7 +612,9 @@
   {
     "title": "Eisbären Berlin - ERC Ingolstadt",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Ingolstadt",
     "date": "2026-01-23",
     "entryTime": "18:00",
     "beginTime": "19:30"
@@ -690,7 +734,9 @@
   {
     "title": "Eisbären Berlin - Straubing Tigers",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Straubing",
     "date": "2026-02-25",
     "entryTime": "18:00",
     "beginTime": "19:30"
@@ -698,7 +744,9 @@
   {
     "title": "Eisbären Berlin - Iserlohn Roosters",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Iserlohn",
     "date": "2026-02-27",
     "entryTime": "18:00",
     "beginTime": "19:30"
@@ -714,7 +762,9 @@
   {
     "title": "Eisbären Berlin - Fischtown Pinguins Bremerhaven",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Bremerhaven",
     "date": "2026-03-01",
     "entryTime": "12:30",
     "beginTime": "14:00"
@@ -729,7 +779,7 @@
   },
   {
     "title": "ISTAF INDOOR",
-    "category": "Sport",
+    "category": "Leichtathletik",
     "section": "ISTAF",
     "date": "2026-03-06",
     "entryTime": "16:30",
@@ -770,7 +820,9 @@
   {
     "title": "Eisbären Berlin - Adler Mannheim",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "Mannheim",
     "date": "2026-03-13",
     "entryTime": "18:00",
     "beginTime": "19:30"
@@ -786,7 +838,9 @@
   {
     "title": "Eisbären Berlin - EHC Red Bull München",
     "category": "Eishockey",
-    "section": "EHC",
+    "section": "DEL",
+    "home": "Berlin",
+    "away": "München",
     "date": "2026-03-15",
     "entryTime": "12:30",
     "beginTime": "14:00"
