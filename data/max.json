@@ -5,7 +5,9 @@
     "section": "FISU",
     "date": "2025-07-16",
     "entryTime": "09:00",
-    "beginTime": "10:00"
+    "beginTime": "10:00",
+    "home": "",
+    "away": ""
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
@@ -13,7 +15,9 @@
     "section": "FISU",
     "date": "2025-07-17",
     "entryTime": "10:00",
-    "beginTime": "11:00"
+    "beginTime": "11:00",
+    "home": "",
+    "away": ""
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
@@ -21,7 +25,9 @@
     "section": "FISU",
     "date": "2025-07-18",
     "entryTime": "10:00",
-    "beginTime": "11:00"
+    "beginTime": "11:00",
+    "home": "",
+    "away": ""
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
@@ -29,7 +35,9 @@
     "section": "FISU",
     "date": "2025-07-19",
     "entryTime": "10:00",
-    "beginTime": "11:00"
+    "beginTime": "11:00",
+    "home": "",
+    "away": ""
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
@@ -37,7 +45,9 @@
     "section": "FISU",
     "date": "2025-07-20",
     "entryTime": "10:00",
-    "beginTime": "11:00"
+    "beginTime": "11:00",
+    "home": "",
+    "away": ""
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
@@ -45,7 +55,9 @@
     "section": "FISU",
     "date": "2025-07-20",
     "entryTime": "10:00",
-    "beginTime": "11:00"
+    "beginTime": "11:00",
+    "home": "",
+    "away": ""
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
@@ -53,7 +65,9 @@
     "section": "FISU",
     "date": "2025-07-21",
     "entryTime": "10:00",
-    "beginTime": "11:00"
+    "beginTime": "11:00",
+    "home": "",
+    "away": ""
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
@@ -61,7 +75,9 @@
     "section": "FISU",
     "date": "2025-07-22",
     "entryTime": "10:00",
-    "beginTime": "11:00"
+    "beginTime": "11:00",
+    "home": "",
+    "away": ""
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
@@ -69,7 +85,9 @@
     "section": "FISU",
     "date": "2025-07-23",
     "entryTime": "10:00",
-    "beginTime": "11:00"
+    "beginTime": "11:00",
+    "home": "",
+    "away": ""
   },
   {
     "title": "Rhine-Ruhr 2025 FISU",
@@ -77,7 +95,9 @@
     "section": "FISU",
     "date": "2025-07-24",
     "entryTime": "16:00",
-    "beginTime": "17:00"
+    "beginTime": "17:00",
+    "home": "",
+    "away": ""
   },
   {
     "title": "Lil Baby",
@@ -108,8 +128,10 @@
     "category": "Volleyball",
     "section": "VBL",
     "date": "2025-10-21",
-    "entryTime": "18:00",
-    "beginTime": "19:30"
+    "entryTime": "18:30",
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Friedrichshafen"
   },
   {
     "title": "ONE OK ROCK",
@@ -124,8 +146,10 @@
     "category": "Volleyball",
     "section": "VBL",
     "date": "2025-10-29",
-    "entryTime": "18:00",
-    "beginTime": "19:30"
+    "entryTime": "18:30",
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Warnemünde"
   },
   {
     "title": "Berlin Tattoo 2025",
@@ -156,8 +180,10 @@
     "category": "Volleyball",
     "section": "VBL",
     "date": "2025-11-12",
-    "entryTime": "18:00",
-    "beginTime": "19:30"
+    "entryTime": "18:30",
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Lüneburg"
   },
   {
     "title": "Dimash Qudaibergen",
@@ -180,16 +206,20 @@
     "category": "Volleyball",
     "section": "VBL",
     "date": "2025-11-23",
-    "entryTime": "13:30",
-    "beginTime": "15:00"
+    "entryTime": "14:00",
+    "beginTime": "15:00",
+    "home": "Berlin",
+    "away": "Dachau"
   },
   {
     "title": "VBL 2025/ 2026",
     "category": "Volleyball",
     "section": "VBL",
     "date": "2025-12-03",
-    "entryTime": "18:00",
-    "beginTime": "19:30"
+    "entryTime": "18:30",
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Ludwigsburg"
   },
   {
     "title": "Lorde",
@@ -212,8 +242,10 @@
     "category": "Volleyball",
     "section": "VBL",
     "date": "2025-12-13",
-    "entryTime": "16:30",
-    "beginTime": "18:00"
+    "entryTime": "17:00",
+    "beginTime": "18:00",
+    "home": "Berlin",
+    "away": "München"
   },
   {
     "title": "Karat - 50 Jahre",
@@ -244,48 +276,68 @@
     "category": "Volleyball",
     "section": "VBL",
     "date": "2025-12-28",
-    "entryTime": "13:30",
-    "beginTime": "15:00"
+    "entryTime": "14:00",
+    "beginTime": "15:00",
+    "home": "Berlin",
+    "away": "Herrsching"
   },
   {
     "title": "VBL 2025/ 2026",
     "category": "Volleyball",
     "section": "VBL",
     "date": "2026-01-11",
-    "entryTime": "13:30",
-    "beginTime": "15:00"
+    "entryTime": "14:00",
+    "beginTime": "15:00",
+    "home": "Berlin",
+    "away": "Düren"
   },
   {
     "title": "VBL 2025/ 2026",
     "category": "Volleyball",
     "section": "VBL",
     "date": "2026-01-18",
-    "entryTime": "13:30",
-    "beginTime": "15:00"
+    "entryTime": "14:00",
+    "beginTime": "15:00",
+    "home": "Berlin",
+    "away": "Giesen"
   },
   {
     "title": "VBL 2025/ 2026",
     "category": "Volleyball",
     "section": "VBL",
     "date": "2026-01-31",
-    "entryTime": "16:30",
-    "beginTime": "18:00"
+    "entryTime": "17:00",
+    "beginTime": "18:00",
+    "home": "Berlin",
+    "away": "Freiburg"
+  },
+  {
+    "title": "Deftones",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-02-06",
+    "entryTime": "18:00",
+    "beginTime": "19:30"
   },
   {
     "title": "VBL 2025/ 2026",
     "category": "Volleyball",
     "section": "VBL",
     "date": "2026-02-08",
-    "entryTime": "13:30",
-    "beginTime": "15:00"
+    "entryTime": "14:00",
+    "beginTime": "15:00",
+    "home": "Berlin",
+    "away": "Karlsruhe"
   },
   {
     "title": "VBL 2025/ 2026",
     "category": "Volleyball",
     "section": "VBL",
     "date": "2026-02-22",
-    "entryTime": "13:30",
-    "beginTime": "15:00"
+    "entryTime": "14:00",
+    "beginTime": "15:00",
+    "home": "Berlin",
+    "away": "Bitterfeld"
   },
   {
     "title": "Zartmann",
@@ -308,8 +360,10 @@
     "category": "Volleyball",
     "section": "VBL",
     "date": "2026-03-14",
-    "entryTime": "16:30",
-    "beginTime": "18:00"
+    "entryTime": "17:00",
+    "beginTime": "18:00",
+    "home": "Berlin",
+    "away": "Wusterhausen"
   },
   {
     "title": "Samu Haber",

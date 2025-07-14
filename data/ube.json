@@ -27,11 +27,11 @@
     "title": "Eisbären Berlin - Dresdner Eislöwen",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Dresden",
     "date": "2025-09-09",
     "entryTime": "18:00",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Dresden"
   },
   {
     "title": "Drake",
@@ -101,11 +101,11 @@
     "title": "Eisbären Berlin - Straubing Tigers",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Straubing",
     "date": "2025-09-26",
     "entryTime": "18:00",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Straubing"
   },
   {
     "title": "Montez",
@@ -119,11 +119,11 @@
     "title": "Eisbären Berlin - Schwenninger Wild Wings",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Schwenningen",
     "date": "2025-09-28",
     "entryTime": "12:30",
-    "beginTime": "14:00"
+    "beginTime": "14:00",
+    "home": "Berlin",
+    "away": "Schwenningen"
   },
   {
     "title": "OneRepublic",
@@ -145,31 +145,31 @@
     "title": "Eisbären Berlin - ERC Ingolstadt",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Ingolstadt",
     "date": "2025-10-05",
     "entryTime": "12:30",
-    "beginTime": "14:00"
+    "beginTime": "14:00",
+    "home": "Berlin",
+    "away": "Ingolstadt"
   },
   {
     "title": "Eisbären Berlin - HC Frölunda Göteborg",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Göteborg",
     "date": "2025-10-07",
     "entryTime": "18:30",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Göteborg"
   },
   {
     "title": "Eisbären Berlin - Nürnberg Ice Tigers",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Nürnberg",
     "date": "2025-10-12",
     "entryTime": "12:30",
-    "beginTime": "14:00"
+    "beginTime": "14:00",
+    "home": "Berlin",
+    "away": "Nürnberg"
   },
   {
     "title": "Sting",
@@ -183,11 +183,11 @@
     "title": "Eisbären Berlin - Grizzlys Wolfsburg",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Wolfsburg",
     "date": "2025-10-17",
     "entryTime": "18:00",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Wolfsburg"
   },
   {
     "title": "One Vision of Queen - feat. Marc Martel",
@@ -233,11 +233,11 @@
     "title": "Eisbären Berlin - Augsburger Panther",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Augsburg",
     "date": "2025-10-25",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "home": "Berlin",
+    "away": "Augsburg"
   },
   {
     "title": "The Offspring",
@@ -251,11 +251,11 @@
     "title": "Eisbären Berlin - Adler Mannheim",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Mannheim",
     "date": "2025-10-29",
     "entryTime": "18:00",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Mannheim"
   },
   {
     "title": "FiNCH",
@@ -269,11 +269,11 @@
     "title": "Eisbären Berlin - Fischtown Pinguins Bremerhaven",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Bremerhaven",
     "date": "2025-11-02",
     "entryTime": "12:30",
-    "beginTime": "14:00"
+    "beginTime": "14:00",
+    "home": "Berlin",
+    "away": "Bremerhaven"
   },
   {
     "title": "Il Volo",
@@ -351,11 +351,11 @@
     "title": "Eisbären Berlin - Löwen Frankfurt",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Frankfurt",
     "date": "2025-11-16",
     "entryTime": "17:30",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "home": "Berlin",
+    "away": "Frankfurt"
   },
   {
     "title": "Jamiroquai",
@@ -377,11 +377,11 @@
     "title": "Eisbären Berlin - EHC Red Bull München",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "München",
     "date": "2025-11-21",
     "entryTime": "18:00",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "München"
   },
   {
     "title": "Die Schlagernacht des Jahres",
@@ -451,11 +451,11 @@
     "title": "Eisbären Berlin - Kölner Haie",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Köln",
     "date": "2025-11-30",
     "entryTime": "12:30",
-    "beginTime": "14:00"
+    "beginTime": "14:00",
+    "home": "Berlin",
+    "away": "Köln"
   },
   {
     "title": "Kerstin Ott",
@@ -469,11 +469,11 @@
     "title": "Eisbären Berlin - Iserlohn Roosters",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Iserlohn",
     "date": "2025-12-05",
     "entryTime": "18:00",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Iserlohn"
   },
   {
     "title": "Luciano",
@@ -487,21 +487,21 @@
     "title": "Eisbären Berlin - Dresdner Eislöwen",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Dresden",
     "date": "2025-12-07",
     "entryTime": "18:00",
-    "beginTime": "14:00"
+    "beginTime": "14:00",
+    "home": "Berlin",
+    "away": "Dresden"
   },
   {
     "title": "Eisbären Berlin - Schwenninger Wild Wings",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Schwenningen",
     "date": "2025-12-14",
     "entryTime": "12:30",
-    "beginTime": "14:00"
+    "beginTime": "14:00",
+    "home": "Berlin",
+    "away": "Schwenningen"
   },
   {
     "title": "Böhse Onkelz",
@@ -523,51 +523,51 @@
     "title": "Eisbären Berlin - Kölner Haie",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Köln",
     "date": "2025-12-21",
     "entryTime": "17:30",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "home": "Berlin",
+    "away": "Köln"
   },
   {
     "title": "Eisbären Berlin - Grizzlys Wolfsburg",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Wolfsburg",
     "date": "2025-12-26",
     "entryTime": "15:00",
-    "beginTime": "16:30"
+    "beginTime": "16:30",
+    "home": "Berlin",
+    "away": "Wolfsburg"
   },
   {
     "title": "Eisbären Berlin - Nürnberg Ice Tigers",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Nürnberg",
     "date": "2025-12-28",
     "entryTime": "12:30",
-    "beginTime": "14:00"
+    "beginTime": "14:00",
+    "home": "Berlin",
+    "away": "Nürnberg"
   },
   {
     "title": "Eisbären Berlin - Löwen Frankfurt",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Frankfurt",
     "date": "2026-01-02",
     "entryTime": "18:00",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Frankfurt"
   },
   {
     "title": "Eisbären Berlin - Augsburger Panther",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Augsburg",
     "date": "2026-01-04",
     "entryTime": "12:30",
-    "beginTime": "14:00"
+    "beginTime": "14:00",
+    "home": "Berlin",
+    "away": "Augsburg"
   },
   {
     "title": "Bushido",
@@ -610,14 +610,22 @@
     "beginTime": "17:30"
   },
   {
+    "title": "Xavier Naidoo",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-01-20",
+    "entryTime": "18:00",
+    "beginTime": "20:00"
+  },
+  {
     "title": "Eisbären Berlin - ERC Ingolstadt",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Ingolstadt",
     "date": "2026-01-23",
     "entryTime": "18:00",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Ingolstadt"
   },
   {
     "title": "Feuerwerk der Turnkunst - VIVA",
@@ -735,21 +743,21 @@
     "title": "Eisbären Berlin - Straubing Tigers",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Straubing",
     "date": "2026-02-25",
     "entryTime": "18:00",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Straubing"
   },
   {
     "title": "Eisbären Berlin - Iserlohn Roosters",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Iserlohn",
     "date": "2026-02-27",
     "entryTime": "18:00",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Iserlohn"
   },
   {
     "title": "André Rieu",
@@ -763,11 +771,11 @@
     "title": "Eisbären Berlin - Fischtown Pinguins Bremerhaven",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Bremerhaven",
     "date": "2026-03-01",
     "entryTime": "12:30",
-    "beginTime": "14:00"
+    "beginTime": "14:00",
+    "home": "Berlin",
+    "away": "Bremerhaven"
   },
   {
     "title": "Eros Ramazzotti",
@@ -810,22 +818,23 @@
     "beginTime": "20:00"
   },
   {
-    "title": "Neuer Termin: PlayStation: The Concert",
+    "title": "PlayStation: The Concert",
     "category": "Event",
     "section": "Konzert",
     "date": "2026-03-12",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "info": "Neuer Termin"
   },
   {
     "title": "Eisbären Berlin - Adler Mannheim",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "Mannheim",
     "date": "2026-03-13",
     "entryTime": "18:00",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "home": "Berlin",
+    "away": "Mannheim"
   },
   {
     "title": "Sarah Connor",
@@ -839,11 +848,11 @@
     "title": "Eisbären Berlin - EHC Red Bull München",
     "category": "Eishockey",
     "section": "DEL",
-    "home": "Berlin",
-    "away": "München",
     "date": "2026-03-15",
     "entryTime": "12:30",
-    "beginTime": "14:00"
+    "beginTime": "14:00",
+    "home": "Berlin",
+    "away": "München"
   },
   {
     "title": "Der Herr der Ringe: Die Gefährten – in Concert Live to Film",
@@ -870,12 +879,13 @@
     "beginTime": "20:00"
   },
   {
-    "title": "Neuer Termin: 7 vs. Wild",
+    "title": "7 vs. Wild",
     "category": "Event",
     "section": "Show",
     "date": "2026-04-07",
     "entryTime": "17:30",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "info": "Neuer Termin"
   },
   {
     "title": "Santiano",
