@@ -5,7 +5,9 @@
     "section": "Konzert",
     "date": "2025-09-11",
     "entryTime": "18:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/groenemeyer-4044",
+    "img": "https://www.velodrom.de/fileadmin/events/Groenemeyer_SoldOut_2025_klein.jpg"
   },
   {
     "title": "Grönemeyer",
@@ -13,7 +15,9 @@
     "section": "Konzert",
     "date": "2025-09-12",
     "entryTime": "18:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/groenemeyer-1209-4045",
+    "img": "https://www.velodrom.de/fileadmin/events/Groenemeyer_SoldOut_2025_klein.jpg"
   },
   {
     "title": "Boris Brejcha",
@@ -21,7 +25,9 @@
     "section": "Konzert",
     "date": "2025-09-20",
     "entryTime": "21:00",
-    "beginTime": "22:00"
+    "beginTime": "22:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/boris-brejcha-4046",
+    "img": "https://www.velodrom.de/fileadmin/events/Boris_Brejcha_2025_klein.png"
   },
   {
     "title": "Little Simz",
@@ -29,7 +35,9 @@
     "section": "Konzert",
     "date": "2025-09-23",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/little-simz-4061",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/LittleSIMZ_klein_2025.jpg"
   },
   {
     "title": "Meute",
@@ -37,7 +45,9 @@
     "section": "Konzert",
     "date": "2025-10-11",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/meute-4035",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/MEUTE_2024_klein.jpg"
   },
   {
     "title": "Loyle Carner",
@@ -45,7 +55,9 @@
     "section": "Konzert",
     "date": "2025-10-15",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/loyle-carner-4060",
+    "img": "https://www.velodrom.de/fileadmin/events/Loyle_Carner_2025_klein.png"
   },
   {
     "title": "Disturbed & Megadeth",
@@ -53,7 +65,9 @@
     "section": "Konzert",
     "date": "2025-10-18",
     "entryTime": "18:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/disturbed-4052",
+    "img": "https://www.velodrom.de/fileadmin/events/disturbed-va-teaser.jpg"
   },
   {
     "title": "Turnstile",
@@ -61,7 +75,9 @@
     "section": "Konzert",
     "date": "2025-11-14",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/turnstile-4067",
+    "img": "https://www.velodrom.de/fileadmin/events/Turnstile_2025_klein.png"
   },
   {
     "title": "Tiefbasskommando",
@@ -69,7 +85,9 @@
     "section": "Konzert",
     "date": "2025-11-29",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/tiefbasskommando-4033",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/TBK_KL_2025.jpg"
   },
   {
     "title": "Black Coffee",
@@ -77,7 +95,9 @@
     "section": "Konzert",
     "date": "2025-12-13",
     "entryTime": "21:00",
-    "beginTime": "21:30"
+    "beginTime": "21:30",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/black-coffee-4062",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/BlackCoffee_klein.jpg"
   },
   {
     "title": "Schlagerchampions 2026",
@@ -85,7 +105,9 @@
     "section": "Show",
     "date": "2026-01-10",
     "entryTime": "17:30",
-    "beginTime": "20:15"
+    "beginTime": "20:15",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/schlagerchampions-2026-4065",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/Schlagerchampions_FS2025.jpg"
   },
   {
     "title": "Architects",
@@ -93,7 +115,9 @@
     "section": "Konzert",
     "date": "2026-01-22",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/architects-4066",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/Architects2026_klein.jpg"
   },
   {
     "title": "Slaughter to Prevail",
@@ -101,7 +125,9 @@
     "section": "Konzert",
     "date": "2026-01-24",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/slaughter-to-prevail-4063",
+    "img": "https://www.velodrom.de/fileadmin/events/SlaughterToPrevail_klein_2026.png"
   },
   {
     "title": "Original Sixdays Weekend",
@@ -109,7 +135,9 @@
     "section": "Konzert",
     "date": "2026-01-30",
     "entryTime": "18:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/feierabendrunde-3978",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/sixdays-weekend-2025-va.jpg"
   },
   {
     "title": "Original Sixdays Weekend",
@@ -117,7 +145,9 @@
     "section": "Konzert",
     "date": "2026-01-31",
     "entryTime": "18:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/goldene-nacht-4030",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/sixdays-weekend-2025-va.jpg"
   },
   {
     "title": "Shindy",
@@ -125,7 +155,9 @@
     "section": "Konzert",
     "date": "2026-02-20",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/shindy-4043",
+    "img": "https://www.velodrom.de/fileadmin/events/shindy_2025_klein_2.png"
   },
   {
     "title": "Disney On Ice",
@@ -133,7 +165,9 @@
     "section": "Show",
     "date": "2026-03-13",
     "entryTime": "17:30",
-    "beginTime": "18:30"
+    "beginTime": "18:30",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/disney-on-ice-heldenhafte-abenteuer-4055",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/20250626_DOI_Neu_2026.png"
   },
   {
     "title": "Disney On Ice",
@@ -141,7 +175,9 @@
     "section": "Show",
     "date": "2026-03-14",
     "entryTime": "10:00",
-    "beginTime": "11:00"
+    "beginTime": "11:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/disney-on-ice-heldenhafte-abenteuer-4054",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/20250626_DOI_Neu_2026.png"
   },
   {
     "title": "Disney On Ice",
@@ -149,7 +185,9 @@
     "section": "Show",
     "date": "2026-03-14",
     "entryTime": "14:00",
-    "beginTime": "15:00"
+    "beginTime": "15:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/disney-on-ice-heldenhafte-abenteuer-4057",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/20250626_DOI_Neu_2026.png"
   },
   {
     "title": "Disney On Ice",
@@ -157,7 +195,9 @@
     "section": "Show",
     "date": "2026-03-14",
     "entryTime": "18:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/disney-on-ice-heldenhafte-abenteuer-4058",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/20250626_DOI_Neu_2026.png"
   },
   {
     "title": "Disney On Ice",
@@ -165,7 +205,9 @@
     "section": "Show",
     "date": "2026-03-15",
     "entryTime": "10:00",
-    "beginTime": "11:00"
+    "beginTime": "11:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/disney-on-ice-heldenhafte-abenteuer-sonntag-vormittag-4056",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/20250626_DOI_Neu_2026.png"
   },
   {
     "title": "Disney On Ice",
@@ -173,6 +215,8 @@
     "section": "Show",
     "date": "2026-03-15",
     "entryTime": "14:00",
-    "beginTime": "15:00"
+    "beginTime": "15:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/disney-on-ice-sonntag-nachmittag-4059",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/20250626_DOI_Neu_2026.png"
   }
 ]

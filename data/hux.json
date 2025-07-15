@@ -1,19 +1,13 @@
 [
   {
-    "title": "Brandi Carlile",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-07-10",
-    "entryTime": "19:00",
-    "beginTime": "20:00"
-  },
-  {
     "title": "LX & Bonez MC",
     "category": "Event",
     "section": "Konzert",
     "date": "2025-07-18",
     "entryTime": "19:00",
-    "beginTime": "20:30"
+    "beginTime": "20:30",
+    "link": "https://huxleysneuewelt.de/event/lx-bonez-mc",
+    "img": "https://raptastisch.net/wp-content/uploads/2020/09/Screenshot_238-800x445.png"
   },
   {
     "title": "Peyton Parrish",
@@ -21,7 +15,9 @@
     "section": "Konzert",
     "date": "2025-08-02",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/peyton-parrish",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/07/dsc8618-1-750x1000.jpg"
   },
   {
     "title": "LANDMVRKS",
@@ -29,7 +25,9 @@
     "section": "Konzert",
     "date": "2025-08-04",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/landmvrks-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/landmvrks-live-berlin-850x567.jpg"
   },
   {
     "title": "MELVINS",
@@ -37,7 +35,9 @@
     "section": "Konzert",
     "date": "2025-08-07",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/melvins",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/02/melvins-live-berlin-1-850x567.jpg"
   },
   {
     "title": "THe WAILERS",
@@ -45,7 +45,9 @@
     "section": "Konzert",
     "date": "2025-08-11",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/the-wailers-3",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/the-wailers-live-berlin-667x1000.jpg"
   },
   {
     "title": "Wolfmother",
@@ -53,7 +55,9 @@
     "section": "Konzert",
     "date": "2025-08-12",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/wolfmother-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/Wolfmother-2024_Andrew-Stockdale-800x1000.jpg"
   },
   {
     "title": "ALESSI ROSE",
@@ -61,7 +65,9 @@
     "section": "Konzert",
     "date": "2025-09-01",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/alessi-rose",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/alessi-rose-live-berlin-850x564.jpg"
   },
   {
     "title": "Matt Berninger",
@@ -69,7 +75,9 @@
     "section": "Konzert",
     "date": "2025-09-04",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/matt-berninger",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/Matt-Berninger_2025_Photo-by-Chantal-Anderson_squ.jpg"
   },
   {
     "title": "YAKARY",
@@ -77,7 +85,9 @@
     "section": "Konzert",
     "date": "2025-09-07",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/yakary",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/10/MDGROSS54-foto-credity-by-Oemer-Furkan-667x1000.jpg"
   },
   {
     "title": "Mulatu Astatke",
@@ -85,7 +95,9 @@
     "section": "Konzert",
     "date": "2025-09-09",
     "entryTime": "19:30",
-    "beginTime": "20:30"
+    "beginTime": "20:30",
+    "link": "https://huxleysneuewelt.de/event/mulatu-astatke",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/250909_Mulatu-Astatke_-Huxleys_1080x1350-Kopie-4-800x1000.jpg"
   },
   {
     "title": "Coco Jones",
@@ -93,7 +105,9 @@
     "section": "Konzert",
     "date": "2025-09-11",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/coco-jones",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/Coco-Jones-Photo-Source-WME-min-667x1000.jpg"
   },
   {
     "title": "Dope Lemon",
@@ -101,7 +115,9 @@
     "section": "Konzert",
     "date": "2025-09-13",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/dope-lemon-4",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/dope-lemon-live-berlin-850x850.jpg"
   },
   {
     "title": "Dame",
@@ -109,7 +125,9 @@
     "section": "Konzert",
     "date": "2025-09-14",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/dame-3",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/10/dame-live-berlin-960x1200-1-800x1000.jpg"
   },
   {
     "title": "Dermot Kennedy",
@@ -117,7 +135,9 @@
     "section": "Konzert",
     "date": "2025-09-15",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/dermot-kennedy",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/Press-Photo-COLOR-Dermot-Kennedy-Sep2025-by-Joel-Stagg-850x850.jpg"
   },
   {
     "title": "GOGOL BORDELLO",
@@ -125,7 +145,9 @@
     "section": "Konzert",
     "date": "2025-09-19",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/gogol-bordello-4",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/gogol-bordello-live-berlin-850x567.jpg"
   },
   {
     "title": "Beyazz",
@@ -133,7 +155,9 @@
     "section": "Konzert",
     "date": "2025-09-20",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/beyazz",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/beyazz-live-berlin-800x1000.jpeg"
   },
   {
     "title": "Faraj Suleiman",
@@ -141,7 +165,19 @@
     "section": "Konzert",
     "date": "2025-09-21",
     "entryTime": "19:30",
-    "beginTime": "20:30"
+    "beginTime": "20:30",
+    "link": "https://huxleysneuewelt.de/event/faraj-suleiman-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/06/Faraj-Suleiman-by-Julie-Dakwar-800x1000.jpg"
+  },
+  {
+    "title": "WONHO",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-09-23",
+    "entryTime": "18:00",
+    "beginTime": "19:00",
+    "link": "https://huxleysneuewelt.de/event/wonho",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/07/wonho-berlin-667x1000.webp"
   },
   {
     "title": "JESSIE REYEZ",
@@ -149,7 +185,9 @@
     "section": "Konzert",
     "date": "2025-09-26",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/jessie-reyez",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/jj-jessie-reyez-s14-select-001-002-850x567.jpg"
   },
   {
     "title": "257ers",
@@ -157,7 +195,9 @@
     "section": "Konzert",
     "date": "2025-09-27",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/257ers",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/11/257ers-live-berlin-500x338-1.jpg"
   },
   {
     "title": "Counting Crows",
@@ -165,7 +205,9 @@
     "section": "Konzert",
     "date": "2025-09-30",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/counting-crows",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/counting-crows-live-berlin-850x850.jpg"
   },
   {
     "title": "Oiropa-tour 2025",
@@ -173,7 +215,9 @@
     "section": "Konzert",
     "date": "2025-10-02",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/oiropa-tour-2025",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/01/Oiropa-2025-A4-Flyer-02-OKT-Berlin-707x1000.jpg"
   },
   {
     "title": "CIAN DUCROT",
@@ -181,7 +225,9 @@
     "section": "Konzert",
     "date": "2025-10-04",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/cian-ducrot",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/cian-ducrot-live-berlin-850x638.jpg"
   },
   {
     "title": "The Cat Empire",
@@ -189,7 +235,9 @@
     "section": "Konzert",
     "date": "2025-10-05",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/the-cat-empire",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/02/the-cat-empire-live-berlin-1200x849-1-850x601.jpg"
   },
   {
     "title": "XAVIER RUDD",
@@ -197,7 +245,9 @@
     "section": "Konzert",
     "date": "2025-10-07",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/xavier-rudd-4",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/02/xavier-rudd-live-berlin-849x1200-1-708x1000.jpg"
   },
   {
     "title": "Cymande",
@@ -205,7 +255,9 @@
     "section": "Konzert",
     "date": "2025-10-08",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/cymande",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/01/cymande-live-berlin-1200x900-1-850x638.jpg"
   },
   {
     "title": "MR. HURLEY UND DIE PULVERAFFEN",
@@ -213,7 +265,9 @@
     "section": "Konzert",
     "date": "2025-10-10",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/mr-hurley-und-die-pulveraffen",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/mr-hurley-und-die-pulveraffen-live-berlin-667x1000.jpg"
   },
   {
     "title": "Morgenshtern",
@@ -221,7 +275,9 @@
     "section": "Konzert",
     "date": "2025-10-11",
     "entryTime": "18:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/morgenshtern-3",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/Morgenshtern-3.jpg"
   },
   {
     "title": "Daniel Sloss",
@@ -229,7 +285,9 @@
     "section": "Konzert",
     "date": "2025-10-12",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/daniel-sloss",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/06/2025-Daniel-Sloss-by-Troy-Edige-MAIN-No-logo-1-1-667x1000.jpg"
   },
   {
     "title": "JESSIE MURPH",
@@ -237,7 +295,9 @@
     "section": "Konzert",
     "date": "2025-10-13",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/jessie-murph",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/jessie-murph-live-berlin-667x1000.jpg"
   },
   {
     "title": "Eivør",
@@ -245,7 +305,9 @@
     "section": "Konzert",
     "date": "2025-10-16",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/eivor",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/02/eivor-live-berlin-667x1000.jpg"
   },
   {
     "title": "Tom Hengst",
@@ -253,7 +315,9 @@
     "section": "Konzert",
     "date": "2025-10-17",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/tom-hengst",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/love4sale_tommy_davidreineke_itsnotanexit_2024_2014-667x1000.jpeg"
   },
   {
     "title": "Battle Beast",
@@ -261,7 +325,9 @@
     "section": "Konzert",
     "date": "2025-10-18",
     "entryTime": "18:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://huxleysneuewelt.de/event/battle-beast",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/02/BattleBeast2021_c_Terhi_Ylimainen-850x555.jpg"
   },
   {
     "title": "Banks",
@@ -269,7 +335,9 @@
     "section": "Konzert",
     "date": "2025-10-19",
     "entryTime": "20:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://huxleysneuewelt.de/event/banks-3",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/BANKS_webversion_credit-Charlie-Denis-@charliedenis-753x1000.jpg"
   },
   {
     "title": "CAAMP",
@@ -277,7 +345,9 @@
     "section": "Konzert",
     "date": "2025-10-20",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/caamp",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/06/caamp-berlin-850x566.webp"
   },
   {
     "title": "Oscar And The Wolf",
@@ -285,7 +355,9 @@
     "section": "Konzert",
     "date": "2025-10-21",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/oscar-and-the-wolf-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/10/oscar-and-the-wolf-live-berlin-684x1000.jpg"
   },
   {
     "title": "ETHEL CAIN",
@@ -293,7 +365,9 @@
     "section": "Konzert",
     "date": "2025-10-23",
     "entryTime": "20:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://huxleysneuewelt.de/event/ethel-cain",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/EthelCain_c_SilkeWeinberg_0325-850x625.jpg"
   },
   {
     "title": "HWASA",
@@ -301,7 +375,9 @@
     "section": "Konzert",
     "date": "2025-10-23",
     "entryTime": "18:30",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "link": "https://huxleysneuewelt.de/event/hwasa",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/06/HWASA_EU_202510-Venue-Assets_2.Berlin72dpi_444x444.jpg"
   },
   {
     "title": "YANN TIERSEN",
@@ -309,7 +385,9 @@
     "section": "Konzert",
     "date": "2025-10-24",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/yann-tiersen",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/yann-tiersen-live-berlin-850x567.jpeg"
   },
   {
     "title": "HVOB",
@@ -317,7 +395,9 @@
     "section": "Konzert",
     "date": "2025-10-25",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/hvob-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/HVOB-800x1000.jpg"
   },
   {
     "title": "d4vd",
@@ -325,7 +405,9 @@
     "section": "Konzert",
     "date": "2025-10-27",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/d4vd",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/d4vd-live-berlin-850x567.jpg"
   },
   {
     "title": "Mudi",
@@ -333,7 +415,9 @@
     "section": "Konzert",
     "date": "2025-10-31",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/mudi",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/mudi-live-berlin-667x1000.jpg"
   },
   {
     "title": "MALEVOLENCE",
@@ -341,7 +425,9 @@
     "section": "Konzert",
     "date": "2025-11-01",
     "entryTime": "keine Daten",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/malevolence",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/2025_Malevolence_Pressefoto_RamseyRamone--850x567.jpg"
   },
   {
     "title": "The Fray",
@@ -349,7 +435,9 @@
     "section": "Konzert",
     "date": "2025-11-02",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/the-fray",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/02/the-fray-live-berlin-1200x800-1-850x567.jpg"
   },
   {
     "title": "LACUNA COIL",
@@ -357,7 +445,9 @@
     "section": "Konzert",
     "date": "2025-11-03",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/lacuna-coil",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/01/lacuna-coil-live-berlin-850x567.jpg"
   },
   {
     "title": "KOKOROKO",
@@ -365,7 +455,9 @@
     "section": "Konzert",
     "date": "2025-11-04",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/kokoroko-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/kokoroko-live-berlin-850x679.jpeg"
   },
   {
     "title": "Alex G",
@@ -373,7 +465,9 @@
     "section": "Konzert",
     "date": "2025-11-05",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/alex-g",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/06/Pressshot20251_Alex-G_Credit-Chris-Maggio-850x567.jpg"
   },
   {
     "title": "Grandbrothers",
@@ -381,7 +475,9 @@
     "section": "Konzert",
     "date": "2025-11-06",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/grandbrothers",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/Grandbrothers-Main-DanMedhurst-850x567.jpeg"
   },
   {
     "title": "O’Bros",
@@ -389,7 +485,9 @@
     "section": "Konzert",
     "date": "2025-11-08",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/obros",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/OBROS-TOUR_allgemein-707x1000.png"
   },
   {
     "title": "Das VPT interpretiert: Die ??? Und der Fluch des Rubins",
@@ -397,7 +495,9 @@
     "section": "Konzert",
     "date": "2025-11-10",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/das-vpt-interpretiert-die-und-der-fluch-des-rubins",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/das-vpt-live-berlin-850x850.jpg"
   },
   {
     "title": "Das VPT interpretiert: Die ??? Und der Fluch des Rubins",
@@ -405,7 +505,9 @@
     "section": "Konzert",
     "date": "2025-11-11",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/das-vpt",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/das-vpt-live-berlin-850x850.jpg"
   },
   {
     "title": "ok.danke.tschüss",
@@ -413,7 +515,9 @@
     "section": "Konzert",
     "date": "2025-11-12",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/ok-danke-tschuess",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/02/ok-danke-tschuess-live-berlin-800x1200-1-667x1000.jpg"
   },
   {
     "title": "Tom Grennan",
@@ -421,7 +525,9 @@
     "section": "Konzert",
     "date": "2025-11-13",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/tom-grennan",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/tom-grennan-live-berlin-667x1000.jpg"
   },
   {
     "title": "PERTURBATOR",
@@ -429,7 +535,9 @@
     "section": "Konzert",
     "date": "2025-11-14",
     "entryTime": "18:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://huxleysneuewelt.de/event/perturbator",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/01/perturbator-live-berlin-850x567.jpg"
   },
   {
     "title": "ASP",
@@ -437,7 +545,9 @@
     "section": "Konzert",
     "date": "2025-11-15",
     "entryTime": "18:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://huxleysneuewelt.de/event/asp-7",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/11/asp-live-berlin-800x1200-1-667x1000.jpg"
   },
   {
     "title": "MADELINE JUNO",
@@ -445,7 +555,9 @@
     "section": "Konzert",
     "date": "2025-11-16",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/madeline-juno-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/02/madeline-juno-live-berlin-by-Jakob-Marwein-850x567.jpg"
   },
   {
     "title": "HANABIE",
@@ -453,7 +565,9 @@
     "section": "Konzert",
     "date": "2025-11-18",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/hanabie",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/01/hanabie-live-berlin-850x567.jpg"
   },
   {
     "title": "KATATONIA",
@@ -461,7 +575,9 @@
     "section": "Konzert",
     "date": "2025-11-19",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/katatonia",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/katatonia-live-berlin-1200x462-1-850x327.jpg"
   },
   {
     "title": "Noga Erez",
@@ -469,7 +585,9 @@
     "section": "Konzert",
     "date": "2025-11-20",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/noga-erez",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/Nogra-Erez-800x1000.jpg"
   },
   {
     "title": "YAENNIVER",
@@ -477,7 +595,9 @@
     "section": "Konzert",
     "date": "2025-11-21",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/yaenniver-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/yaenniver-live-berlin-850x567.jpg"
   },
   {
     "title": "Skindred",
@@ -485,7 +605,9 @@
     "section": "Konzert",
     "date": "2025-11-22",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/skindred-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/skindred-live-berlin-500x414-1.jpg"
   },
   {
     "title": "Annisokay",
@@ -493,7 +615,9 @@
     "section": "Konzert",
     "date": "2025-11-23",
     "entryTime": "18:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://huxleysneuewelt.de/event/annisokay",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/IMG_%C2%A9Anna-Sophie-Hanson-800x1000.jpg"
   },
   {
     "title": "Ocie Elliott",
@@ -501,7 +625,9 @@
     "section": "Konzert",
     "date": "2025-11-25",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/ocie-elliott",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/Ocie-Elliott-EURO-SQUARE-by-MarcusManhas.jpg"
   },
   {
     "title": "Max Giesinger",
@@ -509,7 +635,9 @@
     "section": "Konzert",
     "date": "2025-11-26",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/max-giesinger-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/10/max-giesinger-live-berlin-791x1000.jpeg"
   },
   {
     "title": "BAXTER DURY",
@@ -517,7 +645,9 @@
     "section": "Konzert",
     "date": "2025-12-01",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/baxter-dury",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/baxter-dury-live-berlin-850x508.jpeg"
   },
   {
     "title": "EMIL BULLS",
@@ -525,7 +655,9 @@
     "section": "Konzert",
     "date": "2025-12-05",
     "entryTime": "18:30",
-    "beginTime": "19:25"
+    "beginTime": "19:25",
+    "link": "https://huxleysneuewelt.de/event/emil-bulls-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/EMILBULLS_QUADRAT_JANISHINZFOTOGRAFIE.jpg"
   },
   {
     "title": "Alli Neumann",
@@ -533,7 +665,9 @@
     "section": "Konzert",
     "date": "2025-12-06",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/alli-neumann",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/Alli-Neumann_press-pics1_Vom-anderen-Stern_-c_Tom-Blanc-667x1000.jpg"
   },
   {
     "title": "Oklou",
@@ -541,7 +675,9 @@
     "section": "Konzert",
     "date": "2025-12-09",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/oklou",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/02/Oklou-850x478.jpg"
   },
   {
     "title": "Orbit",
@@ -549,7 +685,9 @@
     "section": "Konzert",
     "date": "2025-12-11",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/orbit-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/orbit_Press1_25_%C2%A9tobewhy-663x1000.jpg"
   },
   {
     "title": "Audio88 & Yassin",
@@ -557,7 +695,9 @@
     "section": "Konzert",
     "date": "2025-12-12",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/audio88-yassin-5",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/DSC07513_Credit_VRaeter-667x1000.jpg"
   },
   {
     "title": "LAING",
@@ -565,7 +705,9 @@
     "section": "Konzert",
     "date": "2025-12-13",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/laing-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/10/laing-live-berlin-849x1200-1-708x1000.jpg"
   },
   {
     "title": "Aminé",
@@ -573,7 +715,9 @@
     "section": "Konzert",
     "date": "2025-12-14",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/amine-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/amine-berlin-816x1000.webp"
   },
   {
     "title": "Doro",
@@ -581,7 +725,9 @@
     "section": "Konzert",
     "date": "2025-12-15",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/doro",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/01/doro-6105-1-850x567.webp"
   },
   {
     "title": "DIE HÖCHSTE EISENBAHN",
@@ -589,7 +735,9 @@
     "section": "Konzert",
     "date": "2025-12-19",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/die-hoechste-eisenbahn",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/02/die-hoechste-eisenbahn-live-berlin-850x566.jpeg"
   },
   {
     "title": "Toxpack Heimspiel",
@@ -597,7 +745,9 @@
     "section": "Konzert",
     "date": "2025-12-20",
     "entryTime": "18:00",
-    "beginTime": "18:30"
+    "beginTime": "18:30",
+    "link": "https://huxleysneuewelt.de/event/toxpack-heimspiel-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/Toxpack-4x4-1-850x850.jpg"
   },
   {
     "title": "Lichterkinder",
@@ -605,7 +755,9 @@
     "section": "Konzert",
     "date": "2025-12-21",
     "entryTime": "14:00",
-    "beginTime": "15:30"
+    "beginTime": "15:30",
+    "link": "https://huxleysneuewelt.de/event/lichterkinder",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/Lichterkinder-live-berlin-850x567.jpg"
   },
   {
     "title": "BRKN",
@@ -613,7 +765,9 @@
     "section": "Konzert",
     "date": "2025-12-22",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/brkn",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/BRKN-06-Credit_-@jordanjamonfilm-681x1000.jpeg"
   },
   {
     "title": "KC REBELL",
@@ -621,7 +775,9 @@
     "section": "Konzert",
     "date": "2026-01-10",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/kc-rebell",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/01/kc-rebell-live-berlin-850x478.jpg"
   },
   {
     "title": "Azet",
@@ -629,15 +785,9 @@
     "section": "Konzert",
     "date": "2026-01-15",
     "entryTime": "18:00",
-    "beginTime": "19:30"
-  },
-  {
-    "title": "Eddin",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-01-24",
-    "entryTime": "18:45",
-    "beginTime": "20:00"
+    "beginTime": "19:30",
+    "link": "https://huxleysneuewelt.de/event/azet",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/azet-live-berlin-333x500-1.jpg"
   },
   {
     "title": "Paleface Swiss",
@@ -645,7 +795,9 @@
     "section": "Konzert",
     "date": "2026-01-25",
     "entryTime": "18:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://huxleysneuewelt.de/event/paleface-swiss",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/07/paleface-swiss-berlin-850x567.webp"
   },
   {
     "title": "Beyond The Black",
@@ -653,7 +805,9 @@
     "section": "Konzert",
     "date": "2026-02-01",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/beyond-the-black",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2024/12/beyond-the-black-live-berlin-850x850.jpg"
   },
   {
     "title": "Alexander Eder & Band",
@@ -661,7 +815,9 @@
     "section": "Konzert",
     "date": "2026-02-06",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/alexander-eder-band-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/Alexander-Eder26_1080x1080px_Berlin-850x850.jpg"
   },
   {
     "title": "Marcus & Martinus",
@@ -669,7 +825,9 @@
     "section": "Konzert",
     "date": "2026-02-12",
     "entryTime": "17:30",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://huxleysneuewelt.de/event/marcus-martinus-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/Cred_-Victoria-Zahmatkesh-2-667x1000.jpg"
   },
   {
     "title": "WHITE LIES",
@@ -677,7 +835,9 @@
     "section": "Konzert",
     "date": "2026-02-17",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/white-lies-3",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/white-lies-live-berlin-850x619.jpg"
   },
   {
     "title": "LUNA",
@@ -685,7 +845,9 @@
     "section": "Konzert",
     "date": "2026-02-19",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/luna",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/03/LUNA_Presse_byJeanetteSophie-5-1-773x1000.jpg"
   },
   {
     "title": "LaBrassBanda",
@@ -693,7 +855,9 @@
     "section": "Konzert",
     "date": "2026-03-04",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/labrassbanda",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/LaBrassBanda_Polka_4c-850x454.jpg"
   },
   {
     "title": "Sampagne",
@@ -701,7 +865,9 @@
     "section": "Konzert",
     "date": "2026-03-06",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/sampagne",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/Presse-Sampagne-25-@sampagne-850x850.jpg"
   },
   {
     "title": "KAMRAD",
@@ -709,7 +875,9 @@
     "section": "Konzert",
     "date": "2026-03-07",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/kamrad",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/01/KAMRAD_Konzerte_@Tobias-Wawak-667x1000.jpg"
   },
   {
     "title": "Sophia",
@@ -717,7 +885,9 @@
     "section": "Konzert",
     "date": "2026-03-13",
     "entryTime": "18:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://huxleysneuewelt.de/event/sophia",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/04/sophia-live-berlin-667x1000.jpg"
   },
   {
     "title": "One Step Closer – A Tribute to Linkin Park",
@@ -725,7 +895,9 @@
     "section": "Konzert",
     "date": "2026-03-14",
     "entryTime": "18:30",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/one-step-closer-a-tribute-to-linkin-park",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/02/OSC-Bandfoto-1-850x638.jpg"
   },
   {
     "title": "Leon Thomas",
@@ -733,7 +905,9 @@
     "section": "Konzert",
     "date": "2026-03-15",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/leon-thomas",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/06/2025_Leon-Thomas_Pressebild-klein-667x1000.jpg"
   },
   {
     "title": "KANONENFIEBER",
@@ -741,7 +915,9 @@
     "section": "Konzert",
     "date": "2026-03-21",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/kanonenfieber",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/KANONENFIEBER-2026-Berlin-4_5-800x1000.jpg"
   },
   {
     "title": "THE DIVINE COMEDY",
@@ -749,7 +925,9 @@
     "section": "Konzert",
     "date": "2026-03-23",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/the-divine-comedy-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/TheDivineComedy_Pressefoto_Credit_RAINWESTENBERG-850x882.jpg"
   },
   {
     "title": "SWISS & DIE ANDERN",
@@ -757,7 +935,9 @@
     "section": "Konzert",
     "date": "2026-03-27",
     "entryTime": "18:30",
-    "beginTime": "19:30"
+    "beginTime": "19:30",
+    "link": "https://huxleysneuewelt.de/event/swiss-die-andern-4",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/swiss-amp-die-andern-live-berlin-667x1000.jpg"
   },
   {
     "title": "MESH",
@@ -765,7 +945,9 @@
     "section": "Konzert",
     "date": "2026-04-03",
     "entryTime": "20:00",
-    "beginTime": "21:00"
+    "beginTime": "21:00",
+    "link": "https://huxleysneuewelt.de/event/mesh",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/MES-photo-01-2025-square-credit-Max-Wichmann-850x850.jpg"
   },
   {
     "title": "Tom Twers",
@@ -773,7 +955,9 @@
     "section": "Konzert",
     "date": "2026-04-14",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/tom-twers",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/Tom_Tabby_Kochen-1-850x595.jpeg"
   },
   {
     "title": "Kasalla",
@@ -781,7 +965,9 @@
     "section": "Konzert",
     "date": "2026-04-25",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/kasalla",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/06/20190911_kasalla_1173-scaled_c.BenWolf-850x567.jpg"
   },
   {
     "title": "DIE SKEPTIKER",
@@ -789,22 +975,38 @@
     "section": "Konzert",
     "date": "2026-05-09",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/die-skeptiker",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/06/Bandfoto-mit-Schrift-850x445.jpg"
   },
   {
     "title": "Civo",
     "category": "Event",
     "section": "Konzert",
-    "date": "2026-10-16",
+    "date": "2025-10-16",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/civo",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/civo-live-berlin-667x1000.jpg"
+  },
+  {
+    "title": "Völkerball",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-12-03",
+    "entryTime": "19:00",
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/voelkerball-3",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/07/Facebook-Posting-1200x1500_0011_Berlin-800x1000.jpg"
   },
   {
     "title": "JIMMY KELLY & THE STREETORCHESTRA",
     "category": "Event",
     "section": "Konzert",
-    "date": "2026-12-04",
+    "date": "2025-12-04",
     "entryTime": "19:00",
-    "beginTime": "20:00"
+    "beginTime": "20:00",
+    "link": "https://huxleysneuewelt.de/event/jimmy-kelly-the-streetorchestra-2",
+    "img": "https://huxleysneuewelt.de/wp-content/uploads/2025/05/01_Pressefoto_JimmyKelly_Celebrate_A_KellyChristmasTour2026_c_ClaudiaPoetzsch_ConnyGuenther-850x567.jpeg"
   }
 ]
