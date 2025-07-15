@@ -1,43 +1,13 @@
 [
   {
-    "title": "Cypress Hill",
-    "category": "Event",
-    "section": "Open-Air",
-    "date": "2025-07-09",
-    "entryTime": "18:00",
-    "beginTime": "19:30"
-  },
-  {
-    "title": "PATTI SMITH QUARTET",
-    "category": "Event",
-    "section": "Open-Air",
-    "date": "2025-07-11",
-    "entryTime": "17:30",
-    "beginTime": "19:30"
-  },
-  {
-    "title": "Wanda",
-    "category": "Event",
-    "section": "Open-Air",
-    "date": "2025-07-12",
-    "entryTime": "17:00",
-    "beginTime": "19:00"
-  },
-  {
-    "title": "Lynyrd Skynyrd",
-    "category": "Event",
-    "section": "Open-Air",
-    "date": "2025-07-13",
-    "entryTime": "18:00",
-    "beginTime": "19:00"
-  },
-  {
     "title": "Brunch Electronik Day 1",
     "category": "Event",
     "section": "Open-Air",
     "date": "2025-07-26",
     "entryTime": "12:00",
-    "beginTime": "13:00"
+    "beginTime": "13:00",
+    "link": "https://citadel-music-festival.de/event/brunch-electronik-day-1",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/04/Logo-V196-e1744706098712-500x389.png"
   },
   {
     "title": "Brunch Electronik Day 2",
@@ -45,7 +15,9 @@
     "section": "Open-Air",
     "date": "2025-07-27",
     "entryTime": "12:00",
-    "beginTime": "13:00"
+    "beginTime": "13:00",
+    "link": "https://citadel-music-festival.de/event/brunch-electronik-day-2",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/04/Logo-V196-e1744706098712-500x389.png"
   },
   {
     "title": "Paula Hartmann",
@@ -53,7 +25,9 @@
     "section": "Open-Air",
     "date": "2025-08-01",
     "entryTime": "17:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://citadel-music-festival.de/event/paula-hartmann",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2024/09/Paula-Hartmann4_Credit-Jakob-Furis-500x500.jpg"
   },
   {
     "title": "FONTAINES D.C.",
@@ -61,7 +35,9 @@
     "section": "Open-Air",
     "date": "2025-08-05",
     "entryTime": "17:00",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://citadel-music-festival.de/event/fontaines-d-c",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2024/11/Fontaines-dc-berlin-e1730811042978-500x333.webp"
   },
   {
     "title": "THE SMASHING PUMPKINS",
@@ -69,6 +45,48 @@
     "section": "Open-Air",
     "date": "2025-08-06",
     "entryTime": "17:30",
-    "beginTime": "19:00"
+    "beginTime": "19:00",
+    "link": "https://citadel-music-festival.de/event/the-smashing-pumpkins-2",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/02/The-Smashing-Pumpkins-Source-Red-Light-Management-500x335.jpg"
+  },
+  {
+    "title": "QUEENS OF THE STONE AGE",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-08-12",
+    "entryTime": "17:00",
+    "beginTime": "19:00",
+    "link": "https://citadel-music-festival.de/event/queens-of-the-stone-age-3",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/01/2025-QOTSA-PressShot_lores-credit-Ross-Halfin-e1737372602633-500x386.jpg"
+  },
+  {
+    "title": "Amyl & The Sniffers",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-08-26",
+    "entryTime": "17:30",
+    "beginTime": "19:00",
+    "link": "https://citadel-music-festival.de/event/amyl-the-sniffers",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2024/08/Presspic-500x500.jpg"
+  },
+  {
+    "title": "OFF DAYS",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-08-29",
+    "entryTime": "16:00",
+    "beginTime": "18:00",
+    "link": "https://citadel-music-festival.de/event/off-days-4",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2026/01/PROFILE-PIC-2025-e1744206549762-500x307.png"
+  },
+  {
+    "title": "OFF DAYS",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2025-08-30",
+    "entryTime": "15:00",
+    "beginTime": "16:00",
+    "link": "https://citadel-music-festival.de/event/off-days-5",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2026/01/PROFILE-PIC-2025-e1744206549762-500x307.png"
   }
 ]
