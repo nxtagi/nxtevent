@@ -17,6 +17,7 @@ jobs:
         curl -L -o data/col.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/col.json"
         curl -L -o data/hux.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/hux.json"
         curl -L -o data/max.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/max.json"
+        curl -L -o data/tem.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/tem.json"
         curl -L -o data/ube.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/ube.json"
         curl -L -o data/vel.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/vel.json"
         curl -L -o data/wuh.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/wuh.json"
