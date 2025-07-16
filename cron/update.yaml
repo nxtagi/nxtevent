@@ -13,13 +13,14 @@ jobs:
 
     - name: Update data
       run: |
-        curl -L -o data/wuh.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/ast.json"
+        curl -L -o data/ast.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/ast.json"
+        curl -L -o data/col.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/col.json"
         curl -L -o data/hux.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/hux.json"
         curl -L -o data/max.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/max.json"
-        curl -L -o data/vel.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/ube.json"
+        curl -L -o data/ube.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/ube.json"
         curl -L -o data/vel.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/vel.json"
         curl -L -o data/wuh.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/wuh.json"
-        curl -L -o data/wuh.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/zit.json"
+        curl -L -o data/zit.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/zit.json"
         echo "No external updates configured"
         
     - name: Commit changes
