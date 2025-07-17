@@ -20,6 +20,7 @@ jobs:
         curl -L -o data/tem.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/tem.json"
         curl -L -o data/ube.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/ube.json"
         curl -L -o data/vel.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/vel.json"
+        curl -L -o data/wal.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/wal.json"
         curl -L -o data/wuh.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/wuh.json"
         curl -L -o data/zit.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/zit.json"
         echo "No external updates configured"
