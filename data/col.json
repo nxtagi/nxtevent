@@ -6,22 +6,17 @@
     "date": "2025-07-26",
     "entryTime": "18:00",
     "beginTime": "19:30",
-    "link": "https://www.columbiahalle.berlin#event_7312",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7312_filesautobackupdbrbdys254zu5nfberlin20kopiejpg_640.jpg",
     "ticket": "https://www.eventbrite.de/e/red-bull-dance-your-style-national-final-germany-tickets-1329064851749",
+    "vendor": [
+      "eventbrite"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 22,
+    "bo-price": "",
     "info": ""
-  },
-  {
-    "title": "Peyton Parrish",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-08-02",
-    "entryTime": "18:30",
-    "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7245",
-    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7245_filesautobackupdbdsc861820kopiejpg_640.jpg",
-    "ticket": "",
-    "info": "Verlegt ins Huxleys"
   },
   {
     "title": "Damas Gratis + Los Mirlos",
@@ -30,9 +25,16 @@
     "date": "2025-09-05",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7324",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7324_filesautobackupdbdglm1920x1005jpeg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 44.9,
+    "bo-price": "",
     "info": "Verlegt ins Astra Kulturhaus"
   },
   {
@@ -42,9 +44,16 @@
     "date": "2025-09-17",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7295",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7295_filesautobackupdb250312bslaurenspencersmithlook301372028klein29202jpg_640.jpg",
     "ticket": "https://www.eventim.de/noapp/event/lauren-spencer-smith-the-art-of-being-a-mess-tour-columbiahalle-20192374/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 47.1,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -54,22 +63,17 @@
     "date": "2025-09-19",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6223",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6223_filesautobackupdbdotaspringbrunnenc2a9annikaweinthalb420kopiejpg_640.jpg",
     "ticket": "https://tickets.kleingeldprinzessin.de/produkte/391-tickets-dota-columbiahalle-berlin-am-19-09-2025",
+    "vendor": [
+      "web"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 39.87,
+    "bo-price": 39.87,
     "info": ""
-  },
-  {
-    "title": "Helge Mark",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-25",
-    "entryTime": "19:00",
-    "beginTime": "keine Daten",
-    "link": "https://www.columbiahalle.berlin#event_7273",
-    "img": "https://www.columbiahalle.berlin/files/material/ci/columbiahalle.png",
-    "ticket": "",
-    "info": "Verlegt in die Urania"
   },
   {
     "title": "Querbeat",
@@ -78,9 +82,16 @@
     "date": "2025-09-26",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6171",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6171_filesmaterialarchivberlin20kopiejpg_640.jpg",
     "ticket": "https://querbeat-tickets.ticket.io/wj7gbyh7/",
+    "vendor": [
+      "ticket.io"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 47,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -90,9 +101,16 @@
     "date": "2025-09-27",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7283",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7283_filesautobackupdbimg366520copyright20greg20blakeyjpg_640.jpg",
     "ticket": "https://www.dodotickets.de/detail/index/sArticle/12734",
+    "vendor": [
+      "dodotickets"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 41.6,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -102,9 +120,16 @@
     "date": "2025-09-28",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7299",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7299_filesautobackupdbedis2025fbeventdeutsch00jpg_640.jpg",
     "ticket": "https://www.eventim.de/event/edis-columbiahalle-20208418/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 63.85,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -114,9 +139,16 @@
     "date": "2025-10-02",
     "entryTime": "17:00",
     "beginTime": "18:30",
-    "link": "https://www.columbiahalle.berlin#event_6151",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6151_filesmaterialtestdownloadsbildschirmfoto202024093020um20131821png_640.jpg",
     "ticket": "https://www.eventim.de/event/lords-of-fyre-tour-2025-x-feuerschwanz-x-lord-of-the-lost-columbiahalle-19178723/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 66.66,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -126,9 +158,16 @@
     "date": "2025-10-05",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7278",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7278_filesautobackupdbdekker20head20shot202840jameskeanephoto2920kopiejpg_640.jpg",
     "ticket": "https://tickets.loft.de/event/dekker-dp4e3s",
+    "vendor": [
+      "loftix"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 38,
+    "bo-price": 38,
     "info": ""
   },
   {
@@ -138,9 +177,16 @@
     "date": "2025-10-06",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6160",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6160_filesmaterialtestdownloadsmg0845420kopiejpg_640.jpg",
     "ticket": "https://www.westticket.de/noapp/event/swr-big-band-max-mutzke-soul-viel-mehr-columbiahalle-18853598/",
+    "vendor": [
+      "westticket"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 52.2,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -150,9 +196,16 @@
     "date": "2025-10-07",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6161",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6161_filesmaterialtestdownloadsmg0845420kopiejpg_640.jpg",
     "ticket": "https://www.westticket.de/noapp/event/swr-big-band-max-mutzke-soul-viel-mehr-columbiahalle-18848478/",
+    "vendor": [
+      "westticket"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 52.2,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -162,9 +215,16 @@
     "date": "2025-10-08",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7271",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7271_filesautobackupdb640x360berlinjpg_640.jpg",
     "ticket": "https://nordlicht-events.de/event/splean-in-berlin/",
+    "vendor": [
+      "nordlicht"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 69,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -174,9 +234,16 @@
     "date": "2025-10-10",
     "entryTime": "18:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6060",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6060_filesmaterialtestdownloadsmono20inc20symphonic20cmyk20querjpg_640.jpg",
     "ticket": "https://www.dodotickets.de/detail/index/sArticle/11462",
+    "vendor": [
+      "dodotickets"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 52.75,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -186,22 +253,17 @@
     "date": "2025-10-11",
     "entryTime": "18:30",
     "beginTime": "19:30",
-    "link": "https://www.columbiahalle.berlin#event_6232",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6232_filesautobackupdbkadavarlandstreicherkonzerte202020252020photo202jpg_640.jpg",
     "ticket": "https://www.eventim.de/noapp/event/kadavar-i-just-want-to-be-a-sound-europe-25-columbiahalle-19677862/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 45,
+    "bo-price": "",
     "info": ""
-  },
-  {
-    "title": "Ein Abend für AnNa R.",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-12",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7301",
-    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7301_filesautobackupdbannarjpg_640.jpg",
-    "ticket": "",
-    "info": "Ausverkauft"
   },
   {
     "title": "Ein Abend für AnNa R.",
@@ -210,9 +272,16 @@
     "date": "2025-10-13",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7302",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7302_filesautobackupdbannarjpg_640.jpg",
     "ticket": "https://www.eventim.de/event/mut-zur-liebe-ein-abend-fuer-anna-r-columbiahalle-20298327/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 48.5,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -222,9 +291,16 @@
     "date": "2025-10-14",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7305",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7305_filesautobackupdbhigh20res120230307andycpendulum2652028129202jpeg_640.jpg",
     "ticket": "https://www.eventim.de/noapp/event/pendulum-tour-2025-columbiahalle-20267755/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 51.25,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -234,9 +310,16 @@
     "date": "2025-10-17",
     "entryTime": "17:00",
     "beginTime": "18:00",
-    "link": "https://www.columbiahalle.berlin#event_6194",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6194_filesbildercacheawgae244667jpg_640.jpg",
     "ticket": "http://www.eventim.de/event/arch-enemy-european-blood-dynasty-2025-tour-columbiahalle-19480105/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 69.99,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -246,9 +329,16 @@
     "date": "2025-10-18",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6176",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6176_filesbildercachealina20bock20einzel20vertikal20kopiepng_640.jpg",
     "ticket": "https://www.eventim.de/noapp/event/alina-bock-vom-dorf-nach-hollywood-2025-columbiahalle-19380622/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 39.9,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -258,9 +348,16 @@
     "date": "2025-10-19",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6219",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6219_filesautobackupdbtraencejpg_640.jpg",
     "ticket": "https://www.ticketmaster.de/event/souly-traence-tour-2025-tickets/741164409",
+    "vendor": [
+      "ticketmaster"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 45.9,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -270,9 +367,16 @@
     "date": "2025-10-20",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6220",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6220_filesautobackupdbtraencejpg_640.jpg",
     "ticket": "https://www.ticketmaster.de/event/souly-traence-tour-2025-tickets/1469155262",
+    "vendor": [
+      "ticketmaster"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 45.9,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -282,21 +386,16 @@
     "date": "2025-10-21",
     "entryTime": "18:00",
     "beginTime": "19:30",
-    "link": "https://www.columbiahalle.berlin#event_7277",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7277_filesautobackupdb20250312thehivesromania10908blackandwhitejpg_640.jpg",
     "ticket": "https://www.dodotickets.de/detail/index/sArticle/12742",
-    "info": ""
-  },
-  {
-    "title": "Flow",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-24",
-    "entryTime": "19:00",
-    "beginTime": "keine Daten",
-    "link": "https://www.columbiahalle.berlin#event_7327",
-    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7327_filesautobackupdbflow25sckarartlandscapejpg_640.jpg",
-    "ticket": "",
+    "vendor": [
+      "dodotickets"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 54.4,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -306,9 +405,16 @@
     "date": "2025-10-25",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7270",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7270_filesautobackupdbpress20picturejpg_640.jpg",
     "ticket": "https://www.ticketmaster.de/event/lil-tracy-world-tour-2025-tickets/463595739",
+    "vendor": [
+      "ticketmaster"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 45,
+    "bo-price": 45,
     "info": ""
   },
   {
@@ -318,9 +424,16 @@
     "date": "2025-10-26",
     "entryTime": "17:00",
     "beginTime": "18:00",
-    "link": "https://www.columbiahalle.berlin#event_7252",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7252_filesautobackupdbrebellcomedyrebell20for20live21ctskc3bcnstlerbild20kopie202png_640.jpg",
     "ticket": "https://ticketrebellen.com/rebell-comedy/tickets-fuer-den-26-10-2025-berlin/",
+    "vendor": [
+      "ticketrebellen"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 47.23,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -330,9 +443,16 @@
     "date": "2025-10-29",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7325",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7325_filesautobackupdbvpetersen441335cropped20kopiejpg_640.jpg",
     "ticket": "https://www.ticketmaster.de/event/180451963",
+    "vendor": [
+      "ticketmaster"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 49.77,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -342,22 +462,17 @@
     "date": "2025-10-30",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7313",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7313_filesautobackupdbirie20rc3a9voltc3a9s20pressefoto2020252028c2920jamila20k20grote1jpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 48.7,
+    "bo-price": "",
     "info": "Zusatzshow"
-  },
-  {
-    "title": "Irie Révoltés",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-31",
-    "entryTime": "18:30",
-    "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6206",
-    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6206_filesautobackupdbirie20rc3a9voltc3a9s20pressefoto2020252028c2920jamila20k20grote1jpg_640.jpg",
-    "ticket": "",
-    "info": "Ausverkauft"
   },
   {
     "title": "Halestorm",
@@ -365,10 +480,17 @@
     "section": "Konzert",
     "date": "2025-11-01",
     "entryTime": "19:00",
-    "beginTime": "keine Daten",
-    "link": "https://www.columbiahalle.berlin#event_7294",
+    "beginTime": "00:00",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7294_filesautobackupdbhalestormpng_640.jpg",
     "ticket": "https://www.eventim.de/noapp/event/halestorm-neverest-columbiahalle-20148217/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 57,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -378,9 +500,16 @@
     "date": "2025-11-02",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7293",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7293_filesautobackupdbthekiffnesscredittylerwalkerwebp_640.jpg",
     "ticket": "https://www.eventim.de/event/the-kiffness-columbiahalle-19883342/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 35,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -390,9 +519,16 @@
     "date": "2025-11-03",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7285",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7285_filesautobackupdbmacdemarcoleadphotokieramcnally20kopiejpeg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 42,
+    "bo-price": "",
     "info": "Ausverkauft"
   },
   {
@@ -402,9 +538,16 @@
     "date": "2025-11-04",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7323",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7323_filesautobackupdbberlinfeedoption20a20kopiejpg_640.jpg",
     "ticket": "https://shop.myticket.de/selection/event/seat",
+    "vendor": [
+      "myticket"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 55.5,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -414,22 +557,17 @@
     "date": "2025-11-05",
     "entryTime": "18:45",
     "beginTime": "19:45",
-    "link": "https://www.columbiahalle.berlin#event_7241",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7241_filesautobackupdbedwin20rosen2020credits2040clarafux28429jpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 39.9,
+    "bo-price": "",
     "info": "Zusatzshow"
-  },
-  {
-    "title": "Edwin Rosen",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-06",
-    "entryTime": "18:45",
-    "beginTime": "19:45",
-    "link": "https://www.columbiahalle.berlin#event_7239",
-    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7239_filesautobackupdbedwin20rosen2020credits2040clarafux28429jpg_640.jpg",
-    "ticket": "",
-    "info": "Ausverkauft"
   },
   {
     "title": "H-BLOCKX",
@@ -438,9 +576,16 @@
     "date": "2025-11-07",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6179",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6179_filesautobackupdb2024hblockxcoliver20look2040oliverlook20kopiejpg_640.jpg",
     "ticket": "https://www.eventim.de/event/h-blockx-fillin-the-blank-tour-2025-columbiahalle-19419153/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 59.2,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -450,9 +595,16 @@
     "date": "2025-11-08",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6094",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6094_filesautobackupdbogk180tour45fullres20kopiejpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 44.99,
+    "bo-price": "",
     "info": "Ausverkauft"
   },
   {
@@ -462,9 +614,16 @@
     "date": "2025-11-09",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7303",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7303_filesautobackupdbcsmwetlegalicebackhamweb72377fa84bpng_640.jpg",
     "ticket": "https://www.eventim.de/event/wet-leg-columbiahalle-20294677/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 42.25,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -474,9 +633,16 @@
     "date": "2025-11-10",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7276",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7276_filesautobackupdbby20maclay20heriotjpeg_640.jpg",
     "ticket": "https://www.tixforgigs.com/Event/64238",
+    "vendor": [
+      "tixforgigs"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 50,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -486,9 +652,16 @@
     "date": "2025-11-12",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7281",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7281_filesautobackupdb2025rolemodelimg8367jpg_640.jpg",
     "ticket": "https://www.dodotickets.de/detail/index/sArticle/12731",
+    "vendor": [
+      "dodotickets"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 54.75,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -498,9 +671,16 @@
     "date": "2025-11-13",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7307",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7307_filesautobackupdbvon20wegen20lisbeth2020credit20lea20greub2028129jpg_640.jpg",
     "ticket": "https://www.eventim.de/event/von-wegen-lisbeth-supercolor-tour-2025-columbiahalle-20336015/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 48.5,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -510,9 +690,16 @@
     "date": "2025-11-14",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7229",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7229_filesautobackupdbvon20wegen20lisbeth2020credit20lea20greub2028129jpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 48.5,
+    "bo-price": "",
     "info": "Ausverkauft"
   },
   {
@@ -522,9 +709,16 @@
     "date": "2025-11-15",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6209",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6209_filesautobackupdbvon20wegen20lisbeth2020credit20lea20greub2028129jpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 48.5,
+    "bo-price": "",
     "info": "Ausverkauft"
   },
   {
@@ -534,9 +728,16 @@
     "date": "2025-11-18",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7330",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7330_filesautobackupdbroyel20otis2020meet20me20in20the20car2020press20photo2020credit20alex20wall202jpeg_640.jpg",
     "ticket": "https://www.eventim.de/noapp/event/royel-otis-meet-me-in-the-car-tour-columbiahalle-20459869/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 47.5,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -546,9 +747,16 @@
     "date": "2025-11-19",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7300",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7300_filesautobackupdbwolf20alicewidepressshot1credit20rachel20fleminger20hudsonjpg_640.jpg",
     "ticket": "https://www.ticketmaster.de/event/499861714",
+    "vendor": [
+      "ticketmaster"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 45.75,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -558,9 +766,16 @@
     "date": "2025-11-20",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7263",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7263_filesautobackupdbblondpressefoto2creditsmia20morgan202040mialisamarie20via2040defloriertpng_640.jpg",
     "ticket": "https://landstreicher-konzerte.de/konzerte/blond-b-25",
+    "vendor": [
+      "landstreicher"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 38,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -569,10 +784,17 @@
     "section": "Konzert",
     "date": "2025-11-21",
     "entryTime": "19:00",
-    "beginTime": "keine Daten",
-    "link": "https://www.columbiahalle.berlin#event_7289",
+    "beginTime": "00:00",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7289_filesautobackupdbcredit20is20shervin20lainez20kopiejpg_640.jpg",
     "ticket": "https://www.ticketmaster.de/event/nation-of-language-tickets/2049503713",
+    "vendor": [
+      "ticketmaster"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 47.64,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -582,9 +804,16 @@
     "date": "2025-11-22",
     "entryTime": "17:30",
     "beginTime": "18:30",
-    "link": "https://www.columbiahalle.berlin#event_7296",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7296_filesautobackupdbkillswitchengagecredittravisshinn202jpg_640.jpg",
     "ticket": "https://www.eventim.de/noapp/event/killswitch-engage-europe-2025-columbiahalle-20215356/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 60,
+    "bo-price": 60,
     "info": ""
   },
   {
@@ -594,9 +823,16 @@
     "date": "2025-11-25",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7258",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7258_filesautobackupdbkw1920x1080px169jpg_640.jpg",
     "ticket": "https://www.lb-events.de/de/veranstaltungen/kim-wilde.html",
+    "vendor": [
+      "lb-events"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 59.9,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -606,9 +842,16 @@
     "date": "2025-11-27",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7260",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7260_filesautobackupdbdsc5716csarah20storchcutjpg_640.jpg",
     "ticket": "https://tickets.loft.de/event/fritz-kalkbrenner-m02hhw",
+    "vendor": [
+      "loftix"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 40,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -618,9 +861,16 @@
     "date": "2025-11-28",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7247",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7247_filesautobackupdb25sondaschuledsc0893672dpi1c2a9floehlichj20pgjpeg_640.jpg",
     "ticket": "https://www.dodotickets.de/12507/sondaschule",
+    "vendor": [
+      "dodotickets"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 45,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -630,9 +880,16 @@
     "date": "2025-11-29",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6143",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6143_filesmaterialtestdownloadscolumbiahallepa69querjpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 34.9,
+    "bo-price": "",
     "info": "Verschoben. Neuer Termin: 24.01.2026"
   },
   {
@@ -642,9 +899,16 @@
     "date": "2025-11-29",
     "entryTime": "19:00",
     "beginTime": "20:30",
-    "link": "https://www.columbiahalle.berlin#event_7230",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7230_filesautobackupdbezhel20kopiejpg_640.jpg",
     "ticket": "https://www.eventim.de/event/ezhel-columbiahalle-19730289/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 62.45,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -654,9 +918,16 @@
     "date": "2025-12-01",
     "entryTime": "18:30",
     "beginTime": "19:30",
-    "link": "https://www.columbiahalle.berlin#event_6217",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6217_filesautobackupdb2majan20by20bennethenkel20kleinjpg_640.jpg",
     "ticket": "https://www.eventim.de/event/majan-woher-komm-ich-dann-tour-2025-columbiahalle-19505406/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 47.4,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -664,11 +935,18 @@
     "category": "Event",
     "section": "Konzert",
     "date": "2025-12-06",
-    "entryTime": "keine Daten",
+    "entryTime": "00:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7233",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7233_filesautobackupdbe949e86653144bddba9205829436b4c7jpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 69.9,
+    "bo-price": "",
     "info": "Ausverkauft"
   },
   {
@@ -676,11 +954,18 @@
     "category": "Event",
     "section": "Konzert",
     "date": "2025-12-07",
-    "entryTime": "keine Daten",
+    "entryTime": "00:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7234",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7234_filesautobackupdbe949e86653144bddba9205829436b4c7jpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 69.9,
+    "bo-price": "",
     "info": "Ausverkauft"
   },
   {
@@ -688,11 +973,18 @@
     "category": "Event",
     "section": "Konzert",
     "date": "2025-12-08",
-    "entryTime": "keine Daten",
+    "entryTime": "00:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7235",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7235_filesautobackupdbe949e86653144bddba9205829436b4c7jpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 69.9,
+    "bo-price": "",
     "info": "Ausverkauft"
   },
   {
@@ -700,11 +992,18 @@
     "category": "Event",
     "section": "Konzert",
     "date": "2025-12-09",
-    "entryTime": "keine Daten",
+    "entryTime": "00:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7236",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7236_filesautobackupdbe949e86653144bddba9205829436b4c7jpg_640.jpg",
     "ticket": "https://sido-tickets.de/sido-tickets-47.html",
+    "vendor": [
+      "sido-tickets"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 69.9,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -712,11 +1011,18 @@
     "category": "Event",
     "section": "Konzert",
     "date": "2025-12-10",
-    "entryTime": "keine Daten",
+    "entryTime": "00:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7237",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7237_filesautobackupdbe949e86653144bddba9205829436b4c7jpg_640.jpg",
     "ticket": "https://sido-tickets.de/sido-tickets-48.html",
+    "vendor": [
+      "sido-tickets"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 69.9,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -724,11 +1030,18 @@
     "category": "Event",
     "section": "Konzert",
     "date": "2025-12-12",
-    "entryTime": "keine Daten",
+    "entryTime": "00:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6200",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6200_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 69.9,
+    "bo-price": "",
     "info": "Ausverkauft"
   },
   {
@@ -736,11 +1049,18 @@
     "category": "Event",
     "section": "Konzert",
     "date": "2025-12-13",
-    "entryTime": "keine Daten",
+    "entryTime": "00:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6199",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6199_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 69.9,
+    "bo-price": "",
     "info": "Ausverkauft"
   },
   {
@@ -748,11 +1068,18 @@
     "category": "Event",
     "section": "Konzert",
     "date": "2025-12-14",
-    "entryTime": "keine Daten",
+    "entryTime": "00:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6198",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6198_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 69.9,
+    "bo-price": "",
     "info": "Ausverkauft"
   },
   {
@@ -760,11 +1087,18 @@
     "category": "Event",
     "section": "Konzert",
     "date": "2025-12-15",
-    "entryTime": "keine Daten",
+    "entryTime": "00:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6197",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6197_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 69.9,
+    "bo-price": "",
     "info": "Ausverkauft"
   },
   {
@@ -772,71 +1106,18 @@
     "category": "Event",
     "section": "Konzert",
     "date": "2025-12-16",
-    "entryTime": "keine Daten",
+    "entryTime": "00:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6196",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6196_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
     "ticket": "",
-    "info": "Ausverkauft"
-  },
-  {
-    "title": "SIDO & GÄSTE",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-18",
-    "entryTime": "keine Daten",
-    "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6193",
-    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6193_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
-    "ticket": "",
-    "info": "Ausverkauft"
-  },
-  {
-    "title": "SIDO & GÄSTE",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-19",
-    "entryTime": "keine Daten",
-    "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6192",
-    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6192_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
-    "ticket": "",
-    "info": "Ausverkauft"
-  },
-  {
-    "title": "SIDO & GÄSTE",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-20",
-    "entryTime": "keine Daten",
-    "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6191",
-    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6191_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
-    "ticket": "",
-    "info": "Ausverkauft"
-  },
-  {
-    "title": "SIDO & GÄSTE",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-21",
-    "entryTime": "keine Daten",
-    "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6190",
-    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6190_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
-    "ticket": "",
-    "info": "Ausverkauft"
-  },
-  {
-    "title": "SIDO & GÄSTE",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-22",
-    "entryTime": "keine Daten",
-    "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6189",
-    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6189_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
-    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 69.9,
+    "bo-price": "",
     "info": "Ausverkauft"
   },
   {
@@ -846,9 +1127,16 @@
     "date": "2025-12-30",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7326",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7326_filesautobackupdbjoelbrandensteinjpeg_640.jpg",
     "ticket": "https://shop.joelbrandenstein.de/collections/tickets/products/das-jahresabschlusskonzert-ticket-2025-berlin",
+    "vendor": [
+      "web"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 56.99,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -858,9 +1146,16 @@
     "date": "2026-01-24",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6210",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6210_filesautobackupdbimgevent6143filesmaterialtestdownloadscolumbiahallepa69querjpg640jpg_640.jpg",
     "ticket": "https://www.eventim.de/event/pa69-das-groesste-konzert-der-welt-columbiahalle-19150890/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 34.9,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -870,9 +1165,16 @@
     "date": "2026-01-25",
     "entryTime": "18:00",
     "beginTime": "19:00",
-    "link": "https://www.columbiahalle.berlin#event_7332",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/material/ci/columbiahalle.png",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 60,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -882,9 +1184,16 @@
     "date": "2026-01-30",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7257",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7257_filesautobackupdb1jpg_640.jpg",
     "ticket": "https://www.eventim.de/event/the-butcher-sisters-tbs-rock-rap-und-zaubershow-tour-2026-columbiahalle-19864783/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 50.75,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -894,9 +1203,16 @@
     "date": "2026-01-31",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6218",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6218_filesautobackupdbdisarstar4ctimerdmann072220kopiejpg_640.jpg",
     "ticket": "https://www.eventim.de/event/disarstar-tour-2025-columbiahalle-19511115/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 30,
+    "bo-price": 30,
     "info": ""
   },
   {
@@ -906,9 +1222,16 @@
     "date": "2026-02-07",
     "entryTime": "18:00",
     "beginTime": "19:00",
-    "link": "https://www.columbiahalle.berlin#event_7308",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7308_filesautobackupdbairbourne20promo20pic20202520photo20by20andy20ford3000jpg_640.jpg",
     "ticket": "https://www.eventim.de/noapp/event/airbourne-columbiahalle-20350666/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 56.9,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -918,9 +1241,16 @@
     "date": "2026-02-11",
     "entryTime": "18:00",
     "beginTime": "19:30",
-    "link": "https://www.columbiahalle.berlin#event_7315",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7315_filesautobackupdbpressefoto201jpg_640.jpg",
     "ticket": "https://www.eventim.de/event/gzuz-live-2026-columbiahalle-20389054/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 59.9,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -930,9 +1260,16 @@
     "date": "2026-02-21",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6231",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6231_filesautobackupdbpoebelmc2025kubazornscaled20kopiejpg_640.jpg",
     "ticket": "https://www.tixforgigs.com/de-DE/Event/62582/pobel-mc-berlin-columbiahalle-addendum-2025-2026-columbiahalle",
+    "vendor": [
+      "tixforgigs"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 30,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -942,9 +1279,16 @@
     "date": "2026-02-22",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7328",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/material/ci/columbiahalle.png",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
+    "bo-price": 42,
     "info": ""
   },
   {
@@ -954,9 +1298,16 @@
     "date": "2026-02-23",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7317",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7317_filesautobackupdbbonaparte20yearstourartworkigpostberlin202png_640.jpg",
     "ticket": "https://www.tixforgigs.com/Event/66334",
+    "vendor": [
+      "tixforgigs"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 40,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -966,21 +1317,16 @@
     "date": "2026-02-27",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7266",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7266_filesautobackupdbyunghurnsecurity20tour2026feedberlin20kopiejpg_640.jpg",
     "ticket": "https://www.eventim.de/noapp/event/yung-hurn-security-tour-columbiahalle-19579263/",
-    "info": ""
-  },
-  {
-    "title": "Sombr",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-03-04",
-    "entryTime": "18:30",
-    "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7329",
-    "img": "https://www.columbiahalle.berlin/files/material/ci/columbiahalle.png",
-    "ticket": "",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 55.25,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -990,9 +1336,16 @@
     "date": "2026-03-08",
     "entryTime": "17:30",
     "beginTime": "18:30",
-    "link": "https://www.columbiahalle.berlin#event_7246",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7246_filesautobackupdbepicalandstreicherkonzerte20kopiejpg_640.jpg",
     "ticket": "https://landstreicher-konzerte.de/konzerte/epica-amaranthe-b-25",
+    "vendor": [
+      "landstreicher"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 62.49,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1002,9 +1355,16 @@
     "date": "2026-03-12",
     "entryTime": "18:00",
     "beginTime": "19:00",
-    "link": "https://www.columbiahalle.berlin#event_7291",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7291_filesautobackupdbavatar20r5502620color3000px2020credit20johan20ca20rlenjpg_640.jpg",
     "ticket": "https://www.eventim.de/artist/avatar/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 58.05,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1014,9 +1374,16 @@
     "date": "2026-03-14",
     "entryTime": "18:30",
     "beginTime": "19:30",
-    "link": "https://www.columbiahalle.berlin#event_7316",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7316_filesautobackupdb5t1a5841edit20copyjpg_640.jpg",
     "ticket": "https://www.eventim.de/noapp/event/102-boyz-columbiahalle-20317320/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 49.45,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1026,9 +1393,16 @@
     "date": "2026-03-15",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7290",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7290_filesautobackupdbbuntspechtk5tour2526fbjpg_640.jpg",
     "ticket": "https://tickets.loft.de/event/buntspecht-o37bz2",
+    "vendor": [
+      "loftix"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 38,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1038,9 +1412,16 @@
     "date": "2026-03-20",
     "entryTime": "18:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6165",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6165_filesautobackupdbknorkator202025204520kopiejpg_640.jpg",
     "ticket": "https://www.eventim.de/event/knorkator-aller-guten-dinge-sind-30-columbiahalle-19316747/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 45.43,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1050,9 +1431,16 @@
     "date": "2026-03-21",
     "entryTime": "18:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6166",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6166_filesautobackupdbknorkator202025204520kopiejpg_640.jpg",
     "ticket": "https://www.eventim.de/event/knorkator-aller-guten-dinge-sind-30-columbiahalle-19325425/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 41.43,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1062,9 +1450,16 @@
     "date": "2026-03-27",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7331",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7331_filesautobackupdb40noah20rosa202jpg_640.jpg",
     "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 42.4,
+    "bo-price": "",
     "info": "Ab 16 Jahren"
   },
   {
@@ -1074,9 +1469,16 @@
     "date": "2026-04-12",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7284",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7284_filesautobackupdbdsc00709jpg_640.jpg",
     "ticket": "https://www.ticketmaster.de/event/lacazette-alle-gegen-lucky-tour-2026-tickets/97760647",
+    "vendor": [
+      "ticketmaster"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 49.65,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1086,9 +1488,16 @@
     "date": "2026-04-16",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7319",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7319_filesautobackupdbf2mnikoschmuck2jpg_640.jpg",
     "ticket": "https://shop.myticket.de/selection/event/seat",
+    "vendor": [
+      "myticket"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 52.5,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1098,9 +1507,16 @@
     "date": "2026-05-02",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7288",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7288_filesautobackupdbmia20pressecreditsannakojpg_640.jpg",
     "ticket": "https://www.dodotickets.de/detail/index/sArticle/12782",
+    "vendor": [
+      "dodotickets"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 49.25,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1110,9 +1526,16 @@
     "date": "2026-05-06",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7320",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7320_filesautobackupdbpaula20carolinaspikes20jeans20bannereric20joel20nagel20kopiepng_640.jpg",
     "ticket": "https://www.eventim.de/event/paula-carolina-ich-war-hier-tour-2026-columbiahalle-20412007/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 42.7,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1122,9 +1545,16 @@
     "date": "2026-05-09",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_6184",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6184_filesbildercachecredit20sebastian20madej20kopiejpg_640.jpg",
     "ticket": "https://www.greyzone-tickets.de/produkte/986",
+    "vendor": [
+      "greyzone"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 46,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1134,9 +1564,16 @@
     "date": "2026-05-11",
     "entryTime": "18:30",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7292",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7292_filesautobackupdbgreeenofflinetour2026story916202jpg_640.jpg",
     "ticket": "https://www.eventim.de/noapp/event/greeen-offline-tour-2026-columbiahalle-20173348/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 51.99,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1146,9 +1583,16 @@
     "date": "2026-05-21",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7304",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7304_filesautobackupdbbobby20vandamme2020pressebild2001jpg_640.jpg",
     "ticket": "https://www.eventim.de/event/bobby-vandamme-columbiahalle-20303481/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 59.7,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1158,9 +1602,16 @@
     "date": "2026-11-13",
     "entryTime": "18:00",
     "beginTime": "19:00",
-    "link": "https://www.columbiahalle.berlin#event_7321",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7321_filesautobackupdbhc384matomgagamaniapressebild2028329jpg_640.jpg",
     "ticket": "https://tickets.undercover.de/h-matom-tickets-528.html",
+    "vendor": [
+      "undercover"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 64.9,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1170,9 +1621,16 @@
     "date": "2026-11-21",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7264",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7264_filesautobackupdbbringsberlin20kopiepng_640.jpg",
     "ticket": "https://www.westticket.de/noapp/event/brings-columbiahalle-19751773/",
+    "vendor": [
+      "westticket"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 53.2,
+    "bo-price": "",
     "info": ""
   },
   {
@@ -1182,9 +1640,16 @@
     "date": "2026-11-27",
     "entryTime": "19:00",
     "beginTime": "20:00",
-    "link": "https://www.columbiahalle.berlin#event_7314",
+    "link": "https://www.columbiahalle.berlin/undefined",
     "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7314_filesautobackupdbgsgfc2christophmangler0625jpg_640.jpg",
     "ticket": "https://www.eventim.de/event/grossstadtgefluester-23-23-jahre-jubilaeumstour-2026-columbiahalle-20358720/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 39,
+    "bo-price": "",
     "info": ""
   }
 ]
