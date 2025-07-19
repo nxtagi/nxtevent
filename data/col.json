@@ -19,6 +19,25 @@
     "info": ""
   },
   {
+    "title": "Peyton Parrish",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-08-02",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.columbiahalle.berlin#event_7245",
+    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7245_filesautobackupdbdsc861820kopiejpg_640.jpg",
+    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
+    "bo-price": "",
+    "info": "Verlegt ins Huxleys"
+  },
+  {
     "title": "Damas Gratis + Los Mirlos",
     "category": "Event",
     "section": "Konzert",
@@ -74,6 +93,25 @@
     "ps-price": 39.87,
     "bo-price": 39.87,
     "info": ""
+  },
+  {
+    "title": "Helge Mark",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-09-25",
+    "entryTime": "19:00",
+    "beginTime": "00:00",
+    "link": "https://www.columbiahalle.berlin#event_7273",
+    "img": "https://www.columbiahalle.berlin/files/material/ci/columbiahalle.png",
+    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
+    "bo-price": "",
+    "info": "Verlegt in die Urania"
   },
   {
     "title": "Querbeat",
@@ -269,6 +307,25 @@
     "title": "Ein Abend für AnNa R.",
     "category": "Event",
     "section": "Konzert",
+    "date": "2025-10-12",
+    "entryTime": "19:00",
+    "beginTime": "20:00",
+    "link": "https://www.columbiahalle.berlin#event_7301",
+    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7301_filesautobackupdbannarjpg_640.jpg",
+    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
+    "bo-price": "",
+    "info": "Ausverkauft"
+  },
+  {
+    "title": "Ein Abend für AnNa R.",
+    "category": "Event",
+    "section": "Konzert",
     "date": "2025-10-13",
     "entryTime": "19:00",
     "beginTime": "20:00",
@@ -399,6 +456,25 @@
     "info": ""
   },
   {
+    "title": "Flow",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-10-24",
+    "entryTime": "19:00",
+    "beginTime": "00:00",
+    "link": "https://www.columbiahalle.berlin#event_7327",
+    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7327_filesautobackupdbflow25sckarartlandscapejpg_640.jpg",
+    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
+    "bo-price": "",
+    "info": ""
+  },
+  {
     "title": "Lil Tracy",
     "category": "Event",
     "section": "Konzert",
@@ -473,6 +549,25 @@
     "ps-price": 48.7,
     "bo-price": "",
     "info": "Zusatzshow"
+  },
+  {
+    "title": "Irie Révoltés",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-10-31",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.columbiahalle.berlin#event_6206",
+    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6206_filesautobackupdbirie20rc3a9voltc3a9s20pressefoto2020252028c2920jamila20k20grote1jpg_640.jpg",
+    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
+    "bo-price": "",
+    "info": "Ausverkauft"
   },
   {
     "title": "Halestorm",
@@ -568,6 +663,25 @@
     "ps-price": 39.9,
     "bo-price": "",
     "info": "Zusatzshow"
+  },
+  {
+    "title": "Edwin Rosen",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-11-06",
+    "entryTime": "18:45",
+    "beginTime": "19:45",
+    "link": "https://www.columbiahalle.berlin#event_7239",
+    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_7239_filesautobackupdbedwin20rosen2020credits2040clarafux28429jpg_640.jpg",
+    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
+    "bo-price": "",
+    "info": "Ausverkauft"
   },
   {
     "title": "H-BLOCKX",
@@ -1121,6 +1235,101 @@
     "info": "Ausverkauft"
   },
   {
+    "title": "SIDO & GÄSTE",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-12-18",
+    "entryTime": "00:00",
+    "beginTime": "20:00",
+    "link": "https://www.columbiahalle.berlin#event_6193",
+    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6193_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
+    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
+    "bo-price": "",
+    "info": "Ausverkauft"
+  },
+  {
+    "title": "SIDO & GÄSTE",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-12-19",
+    "entryTime": "00:00",
+    "beginTime": "20:00",
+    "link": "https://www.columbiahalle.berlin#event_6192",
+    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6192_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
+    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
+    "bo-price": "",
+    "info": "Ausverkauft"
+  },
+  {
+    "title": "SIDO & GÄSTE",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-12-20",
+    "entryTime": "00:00",
+    "beginTime": "20:00",
+    "link": "https://www.columbiahalle.berlin#event_6191",
+    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6191_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
+    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
+    "bo-price": "",
+    "info": "Ausverkauft"
+  },
+  {
+    "title": "SIDO & GÄSTE",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-12-21",
+    "entryTime": "00:00",
+    "beginTime": "20:00",
+    "link": "https://www.columbiahalle.berlin#event_6190",
+    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6190_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
+    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
+    "bo-price": "",
+    "info": "Ausverkauft"
+  },
+  {
+    "title": "SIDO & GÄSTE",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-12-22",
+    "entryTime": "00:00",
+    "beginTime": "20:00",
+    "link": "https://www.columbiahalle.berlin#event_6189",
+    "img": "https://www.columbiahalle.berlin/files/BilderCache/img_event_6189_filesbildercache2d9901d420184dc1bd93194ba942bfeejpg_640.jpg",
+    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
+    "bo-price": "",
+    "info": "Ausverkauft"
+  },
+  {
     "title": "Joel Brandenstein",
     "category": "Event",
     "section": "Konzert",
@@ -1326,6 +1535,25 @@
     "eb-price": "",
     "pp-price": "",
     "ps-price": 55.25,
+    "bo-price": "",
+    "info": ""
+  },
+  {
+    "title": "Sombr",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-03-04",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.columbiahalle.berlin#event_7329",
+    "img": "https://www.columbiahalle.berlin/files/material/ci/columbiahalle.png",
+    "ticket": "",
+    "vendor": [
+      ""
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": "",
     "bo-price": "",
     "info": ""
   },
