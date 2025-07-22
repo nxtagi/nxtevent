@@ -1,5 +1,6 @@
 [
   {
+    "id": "250726-1930-01",
     "title": "RED BULL DANCE YOUR STYLE",
     "category": "Event",
     "section": "Konzert",
@@ -16,10 +17,10 @@
     "pp-price": "",
     "ps-price": 22,
     "bo-price": "",
-    "info": "",
-    "id": "250726-1930-01"
+    "info": ""
   },
   {
+    "id": "250802-2000-01",
     "title": "Peyton Parrish",
     "category": "Event",
     "section": "Konzert",
@@ -36,10 +37,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": "",
-    "info": "Verlegt ins Huxleys",
-    "id": "250802-2000-01"
+    "info": "Verlegt ins Huxleys"
   },
   {
+    "id": "250905-2000-01",
     "title": "Damas Gratis + Los Mirlos",
     "category": "Event",
     "section": "Konzert",
@@ -56,10 +57,10 @@
     "pp-price": "",
     "ps-price": 44.9,
     "bo-price": "",
-    "info": "Verlegt ins Astra Kulturhaus",
-    "id": "250905-2000-01"
+    "info": "Verlegt ins Astra Kulturhaus"
   },
   {
+    "id": "250917-2000-01",
     "title": "LAUREN SPENCER SMITH",
     "category": "Event",
     "section": "Konzert",
@@ -76,10 +77,10 @@
     "pp-price": "",
     "ps-price": 47.1,
     "bo-price": "",
-    "info": "",
-    "id": "250917-2000-01"
+    "info": ""
   },
   {
+    "id": "250919-2000-01",
     "title": "DOTA",
     "category": "Event",
     "section": "Konzert",
@@ -96,10 +97,10 @@
     "pp-price": "",
     "ps-price": 39.87,
     "bo-price": 39.87,
-    "info": "",
-    "id": "250919-2000-01"
+    "info": ""
   },
   {
+    "id": "250925-2000-01",
     "title": "Helge Mark",
     "category": "Event",
     "section": "Konzert",
@@ -116,10 +117,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": "",
-    "info": "Verlegt in die Urania",
-    "id": "250925-2000-01"
+    "info": "Verlegt in die Urania"
   },
   {
+    "id": "250926-2000-01",
     "title": "Querbeat",
     "category": "Event",
     "section": "Konzert",
@@ -136,10 +137,10 @@
     "pp-price": "",
     "ps-price": 47,
     "bo-price": "",
-    "info": "",
-    "id": "250926-2000-01"
+    "info": ""
   },
   {
+    "id": "250927-2000-01",
     "title": "Kerala Dust",
     "category": "Event",
     "section": "Konzert",
@@ -156,10 +157,10 @@
     "pp-price": "",
     "ps-price": 41.6,
     "bo-price": "",
-    "info": "",
-    "id": "250927-2000-01"
+    "info": ""
   },
   {
+    "id": "250928-2000-01",
     "title": "Edis",
     "category": "Event",
     "section": "Konzert",
@@ -176,10 +177,10 @@
     "pp-price": "",
     "ps-price": 63.85,
     "bo-price": "",
-    "info": "",
-    "id": "250928-2000-01"
+    "info": ""
   },
   {
+    "id": "251002-1830-01",
     "title": "FEUERSCHWANZ & LORD OF THE LOST",
     "category": "Event",
     "section": "Konzert",
@@ -196,10 +197,10 @@
     "pp-price": "",
     "ps-price": 66.66,
     "bo-price": "",
-    "info": "",
-    "id": "251002-1830-01"
+    "info": ""
   },
   {
+    "id": "251005-2000-01",
     "title": "Dekker",
     "category": "Event",
     "section": "Konzert",
@@ -216,10 +217,10 @@
     "pp-price": "",
     "ps-price": 38,
     "bo-price": 38,
-    "info": "",
-    "id": "251005-2000-01"
+    "info": ""
   },
   {
+    "id": "251006-2000-01",
     "title": "SWR Big Band & Max Mutzke",
     "category": "Event",
     "section": "Konzert",
@@ -236,10 +237,10 @@
     "pp-price": "",
     "ps-price": 52.2,
     "bo-price": "",
-    "info": "",
-    "id": "251006-2000-01"
+    "info": ""
   },
   {
+    "id": "251007-2000-01",
     "title": "SWR BIG BAND & MAX MUTZKE",
     "category": "Event",
     "section": "Konzert",
@@ -256,10 +257,10 @@
     "pp-price": "",
     "ps-price": 52.2,
     "bo-price": "",
-    "info": "",
-    "id": "251007-2000-01"
+    "info": ""
   },
   {
+    "id": "251008-2000-01",
     "title": "Splean",
     "category": "Event",
     "section": "Konzert",
@@ -276,10 +277,10 @@
     "pp-price": "",
     "ps-price": 69,
     "bo-price": "",
-    "info": "",
-    "id": "251008-2000-01"
+    "info": ""
   },
   {
+    "id": "251010-2000-01",
     "title": "Mono Inc.",
     "category": "Event",
     "section": "Konzert",
@@ -296,10 +297,10 @@
     "pp-price": "",
     "ps-price": 52.75,
     "bo-price": "",
-    "info": "",
-    "id": "251010-2000-01"
+    "info": ""
   },
   {
+    "id": "251011-1930-01",
     "title": "Kadavar",
     "category": "Event",
     "section": "Konzert",
@@ -316,10 +317,10 @@
     "pp-price": "",
     "ps-price": 45,
     "bo-price": "",
-    "info": "",
-    "id": "251011-1930-01"
+    "info": ""
   },
   {
+    "id": "251012-2000-01",
     "title": "Ein Abend für AnNa R.",
     "category": "Event",
     "section": "Konzert",
@@ -336,10 +337,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251012-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251013-2000-01",
     "title": "Ein Abend für AnNa R.",
     "category": "Event",
     "section": "Konzert",
@@ -356,10 +357,10 @@
     "pp-price": "",
     "ps-price": 48.5,
     "bo-price": "",
-    "info": "",
-    "id": "251013-2000-01"
+    "info": ""
   },
   {
+    "id": "251014-2000-01",
     "title": "Pendulum",
     "category": "Event",
     "section": "Konzert",
@@ -376,10 +377,10 @@
     "pp-price": "",
     "ps-price": 51.25,
     "bo-price": "",
-    "info": "",
-    "id": "251014-2000-01"
+    "info": ""
   },
   {
+    "id": "251017-1800-01",
     "title": "Arch Enemy",
     "category": "Event",
     "section": "Konzert",
@@ -396,10 +397,10 @@
     "pp-price": "",
     "ps-price": 69.99,
     "bo-price": "",
-    "info": "",
-    "id": "251017-1800-01"
+    "info": ""
   },
   {
+    "id": "251018-2000-01",
     "title": "Alina Bock",
     "category": "Event",
     "section": "Konzert",
@@ -416,10 +417,10 @@
     "pp-price": "",
     "ps-price": 39.9,
     "bo-price": "",
-    "info": "",
-    "id": "251018-2000-01"
+    "info": ""
   },
   {
+    "id": "251019-2000-01",
     "title": "Souly",
     "category": "Event",
     "section": "Konzert",
@@ -436,10 +437,10 @@
     "pp-price": "",
     "ps-price": 45.9,
     "bo-price": "",
-    "info": "",
-    "id": "251019-2000-01"
+    "info": ""
   },
   {
+    "id": "251020-2000-01",
     "title": "Souly",
     "category": "Event",
     "section": "Konzert",
@@ -456,10 +457,10 @@
     "pp-price": "",
     "ps-price": 45.9,
     "bo-price": "",
-    "info": "",
-    "id": "251020-2000-01"
+    "info": ""
   },
   {
+    "id": "251021-1930-01",
     "title": "The Hives",
     "category": "Event",
     "section": "Konzert",
@@ -476,10 +477,10 @@
     "pp-price": "",
     "ps-price": 54.4,
     "bo-price": "",
-    "info": "",
-    "id": "251021-1930-01"
+    "info": ""
   },
   {
+    "id": "251024-2000-01",
     "title": "Flow",
     "category": "Event",
     "section": "Konzert",
@@ -496,10 +497,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": "",
-    "info": "",
-    "id": "251024-2000-01"
+    "info": ""
   },
   {
+    "id": "251025-2000-01",
     "title": "Lil Tracy",
     "category": "Event",
     "section": "Konzert",
@@ -516,10 +517,10 @@
     "pp-price": "",
     "ps-price": 45,
     "bo-price": 45,
-    "info": "",
-    "id": "251025-2000-01"
+    "info": ""
   },
   {
+    "id": "251026-1800-01",
     "title": "REBELL FOR LIVE!",
     "category": "Event",
     "section": "Konzert",
@@ -536,10 +537,10 @@
     "pp-price": "",
     "ps-price": 47.23,
     "bo-price": "",
-    "info": "",
-    "id": "251026-1800-01"
+    "info": ""
   },
   {
+    "id": "251029-2000-01",
     "title": "Blood Orange",
     "category": "Event",
     "section": "Konzert",
@@ -556,10 +557,10 @@
     "pp-price": "",
     "ps-price": 49.77,
     "bo-price": "",
-    "info": "",
-    "id": "251029-2000-01"
+    "info": ""
   },
   {
+    "id": "251030-2000-01",
     "title": "Irie Révoltés",
     "category": "Event",
     "section": "Konzert",
@@ -576,10 +577,10 @@
     "pp-price": "",
     "ps-price": 48.7,
     "bo-price": "",
-    "info": "Zusatzshow",
-    "id": "251030-2000-01"
+    "info": "Zusatzshow"
   },
   {
+    "id": "251031-2000-01",
     "title": "Irie Révoltés",
     "category": "Event",
     "section": "Konzert",
@@ -596,10 +597,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251031-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251101-2000-01",
     "title": "Halestorm",
     "category": "Event",
     "section": "Konzert",
@@ -616,10 +617,10 @@
     "pp-price": "",
     "ps-price": 57,
     "bo-price": "",
-    "info": "",
-    "id": "251101-2000-01"
+    "info": ""
   },
   {
+    "id": "251102-2000-01",
     "title": "The Kiffness",
     "category": "Event",
     "section": "Konzert",
@@ -636,10 +637,10 @@
     "pp-price": "",
     "ps-price": 35,
     "bo-price": "",
-    "info": "",
-    "id": "251102-2000-01"
+    "info": ""
   },
   {
+    "id": "251103-2000-01",
     "title": "Mac DeMarco",
     "category": "Event",
     "section": "Konzert",
@@ -656,10 +657,10 @@
     "pp-price": "",
     "ps-price": 42,
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251103-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251104-2000-01",
     "title": "CA7RIEL & PACO AMOROSO",
     "category": "Event",
     "section": "Konzert",
@@ -676,10 +677,10 @@
     "pp-price": "",
     "ps-price": 55.5,
     "bo-price": "",
-    "info": "",
-    "id": "251104-2000-01"
+    "info": ""
   },
   {
+    "id": "251105-1945-01",
     "title": "Edwin Rosen",
     "category": "Event",
     "section": "Konzert",
@@ -696,10 +697,10 @@
     "pp-price": "",
     "ps-price": 39.9,
     "bo-price": "",
-    "info": "Zusatzshow",
-    "id": "251105-1945-01"
+    "info": "Zusatzshow"
   },
   {
+    "id": "251106-1945-01",
     "title": "Edwin Rosen",
     "category": "Event",
     "section": "Konzert",
@@ -716,10 +717,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251106-1945-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251107-2000-01",
     "title": "H-BLOCKX",
     "category": "Event",
     "section": "Konzert",
@@ -736,10 +737,10 @@
     "pp-price": "",
     "ps-price": 59.2,
     "bo-price": "",
-    "info": "",
-    "id": "251107-2000-01"
+    "info": ""
   },
   {
+    "id": "251108-2000-01",
     "title": "OG Keemo",
     "category": "Event",
     "section": "Konzert",
@@ -756,10 +757,10 @@
     "pp-price": "",
     "ps-price": 44.99,
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251108-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251109-2000-01",
     "title": "Wet Leg",
     "category": "Event",
     "section": "Konzert",
@@ -776,10 +777,10 @@
     "pp-price": "",
     "ps-price": 42.25,
     "bo-price": "",
-    "info": "",
-    "id": "251109-2000-01"
+    "info": ""
   },
   {
+    "id": "251110-2000-01",
     "title": "KIng Gizzard & The Lizard Wizard",
     "category": "Event",
     "section": "Konzert",
@@ -796,10 +797,10 @@
     "pp-price": "",
     "ps-price": 50,
     "bo-price": "",
-    "info": "",
-    "id": "251110-2000-01"
+    "info": ""
   },
   {
+    "id": "251112-2000-01",
     "title": "ROLE MODEL",
     "category": "Event",
     "section": "Konzert",
@@ -816,10 +817,10 @@
     "pp-price": "",
     "ps-price": 54.75,
     "bo-price": "",
-    "info": "",
-    "id": "251112-2000-01"
+    "info": ""
   },
   {
+    "id": "251113-2000-01",
     "title": "Von Wegen Lisbeth",
     "category": "Event",
     "section": "Konzert",
@@ -836,10 +837,10 @@
     "pp-price": "",
     "ps-price": 48.5,
     "bo-price": "",
-    "info": "",
-    "id": "251113-2000-01"
+    "info": ""
   },
   {
+    "id": "251114-2000-01",
     "title": "Von Wegen Lisbeth",
     "category": "Event",
     "section": "Konzert",
@@ -856,10 +857,10 @@
     "pp-price": "",
     "ps-price": 48.5,
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251114-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251115-2000-01",
     "title": "Von Wegen Lisbeth",
     "category": "Event",
     "section": "Konzert",
@@ -876,10 +877,10 @@
     "pp-price": "",
     "ps-price": 48.5,
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251115-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251118-2000-01",
     "title": "Royel Otis",
     "category": "Event",
     "section": "Konzert",
@@ -896,10 +897,10 @@
     "pp-price": "",
     "ps-price": 47.5,
     "bo-price": "",
-    "info": "",
-    "id": "251118-2000-01"
+    "info": ""
   },
   {
+    "id": "251119-2000-01",
     "title": "WOLF ALICE",
     "category": "Event",
     "section": "Konzert",
@@ -916,10 +917,10 @@
     "pp-price": "",
     "ps-price": 45.75,
     "bo-price": "",
-    "info": "",
-    "id": "251119-2000-01"
+    "info": ""
   },
   {
+    "id": "251120-2000-01",
     "title": "Blond",
     "category": "Event",
     "section": "Konzert",
@@ -936,10 +937,10 @@
     "pp-price": "",
     "ps-price": 38,
     "bo-price": "",
-    "info": "",
-    "id": "251120-2000-01"
+    "info": ""
   },
   {
+    "id": "251121-2000-01",
     "title": "Nation of Language",
     "category": "Event",
     "section": "Konzert",
@@ -956,10 +957,10 @@
     "pp-price": "",
     "ps-price": 47.64,
     "bo-price": "",
-    "info": "",
-    "id": "251121-2000-01"
+    "info": ""
   },
   {
+    "id": "251122-1830-01",
     "title": "Killswitch Engage",
     "category": "Event",
     "section": "Konzert",
@@ -976,10 +977,10 @@
     "pp-price": "",
     "ps-price": 60,
     "bo-price": 60,
-    "info": "",
-    "id": "251122-1830-01"
+    "info": ""
   },
   {
+    "id": "251125-2000-01",
     "title": "Kim Wilde",
     "category": "Event",
     "section": "Konzert",
@@ -996,10 +997,10 @@
     "pp-price": "",
     "ps-price": 59.9,
     "bo-price": "",
-    "info": "",
-    "id": "251125-2000-01"
+    "info": ""
   },
   {
+    "id": "251127-2000-01",
     "title": "Fritz Kalkbrenner",
     "category": "Event",
     "section": "Konzert",
@@ -1016,10 +1017,10 @@
     "pp-price": "",
     "ps-price": 40,
     "bo-price": "",
-    "info": "",
-    "id": "251127-2000-01"
+    "info": ""
   },
   {
+    "id": "251128-2000-01",
     "title": "SONDASCHULE",
     "category": "Event",
     "section": "Konzert",
@@ -1036,10 +1037,10 @@
     "pp-price": "",
     "ps-price": 45,
     "bo-price": "",
-    "info": "",
-    "id": "251128-2000-01"
+    "info": ""
   },
   {
+    "id": "251129-2000-01",
     "title": "PA69",
     "category": "Event",
     "section": "Konzert",
@@ -1056,10 +1057,10 @@
     "pp-price": "",
     "ps-price": 34.9,
     "bo-price": "",
-    "info": "Verschoben. Neuer Termin: 24.01.2026",
-    "id": "251129-2000-01"
+    "info": "Verschoben. Neuer Termin: 24.01.2026"
   },
   {
+    "id": "251129-2030-01",
     "title": "EZHEL",
     "category": "Event",
     "section": "Konzert",
@@ -1076,10 +1077,30 @@
     "pp-price": "",
     "ps-price": 62.45,
     "bo-price": "",
-    "info": "",
-    "id": "251129-2030-01"
+    "info": ""
   },
   {
+    "id": "251130-2000-01",
+    "title": "Guano Apes",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-11-30",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.columbiahalle.berlin#event_7334",
+    "img": "https://www.columbiahalle.berlin/files/material/ci/columbiahalle.png",
+    "ticket": "https://www.eventim.de/noapp/event/guano-apes-free-the-monkey-tour-columbiahalle-19270761/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "pp-price": "",
+    "ps-price": 45,
+    "bo-price": "",
+    "info": ""
+  },
+  {
+    "id": "251201-1930-01",
     "title": "Majan",
     "category": "Event",
     "section": "Konzert",
@@ -1096,10 +1117,10 @@
     "pp-price": "",
     "ps-price": 47.4,
     "bo-price": "",
-    "info": "",
-    "id": "251201-1930-01"
+    "info": ""
   },
   {
+    "id": "251206-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1116,10 +1137,10 @@
     "pp-price": "",
     "ps-price": 69.9,
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251206-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251207-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1136,10 +1157,10 @@
     "pp-price": "",
     "ps-price": 69.9,
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251207-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251208-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1156,10 +1177,10 @@
     "pp-price": "",
     "ps-price": 69.9,
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251208-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251209-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1176,10 +1197,10 @@
     "pp-price": "",
     "ps-price": 69.9,
     "bo-price": "",
-    "info": "",
-    "id": "251209-2000-01"
+    "info": ""
   },
   {
+    "id": "251210-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1196,10 +1217,10 @@
     "pp-price": "",
     "ps-price": 69.9,
     "bo-price": "",
-    "info": "",
-    "id": "251210-2000-01"
+    "info": ""
   },
   {
+    "id": "251212-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1216,10 +1237,10 @@
     "pp-price": "",
     "ps-price": 69.9,
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251212-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251213-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1236,10 +1257,10 @@
     "pp-price": "",
     "ps-price": 69.9,
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251213-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251214-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1256,10 +1277,10 @@
     "pp-price": "",
     "ps-price": 69.9,
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251214-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251215-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1276,10 +1297,10 @@
     "pp-price": "",
     "ps-price": 69.9,
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251215-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251216-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1296,10 +1317,10 @@
     "pp-price": "",
     "ps-price": 69.9,
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251216-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251218-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1316,10 +1337,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251218-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251219-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1336,10 +1357,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251219-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251220-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1356,10 +1377,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251220-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251221-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1376,10 +1397,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251221-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251222-2000-01",
     "title": "SIDO & GÄSTE",
     "category": "Event",
     "section": "Konzert",
@@ -1396,10 +1417,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": "",
-    "info": "Ausverkauft",
-    "id": "251222-2000-01"
+    "info": "Ausverkauft"
   },
   {
+    "id": "251230-2000-01",
     "title": "Joel Brandenstein",
     "category": "Event",
     "section": "Konzert",
@@ -1416,10 +1437,10 @@
     "pp-price": "",
     "ps-price": 56.99,
     "bo-price": "",
-    "info": "",
-    "id": "251230-2000-01"
+    "info": ""
   },
   {
+    "id": "260124-2000-01",
     "title": "PA69",
     "category": "Event",
     "section": "Konzert",
@@ -1436,30 +1457,30 @@
     "pp-price": "",
     "ps-price": 34.9,
     "bo-price": "",
-    "info": "",
-    "id": "260124-2000-01"
+    "info": ""
   },
   {
-    "title": "Alter Bridge",
+    "id": "260125-1900-01",
+    "title": "ALTER BRIDGE",
     "category": "Event",
     "section": "Konzert",
     "date": "2026-01-25",
     "entryTime": "18:00",
     "beginTime": "19:00",
-    "link": "https://www.columbiahalle.berlin#event_7332",
+    "link": "https://www.columbiahalle.berlin#event_7333",
     "img": "https://www.columbiahalle.berlin/files/material/ci/columbiahalle.png",
-    "ticket": "",
+    "ticket": "https://www.eventim.de/noapp/event/alter-bridge-what-lies-within-tour-columbiahalle-20454773/",
     "vendor": [
-      ""
+      "eventim"
     ],
     "eb-price": "",
     "pp-price": "",
     "ps-price": 60,
     "bo-price": "",
-    "info": "",
-    "id": "260125-1900-01"
+    "info": ""
   },
   {
+    "id": "260130-2000-01",
     "title": "The Butcher Sisters",
     "category": "Event",
     "section": "Konzert",
@@ -1476,10 +1497,10 @@
     "pp-price": "",
     "ps-price": 50.75,
     "bo-price": "",
-    "info": "",
-    "id": "260130-2000-01"
+    "info": ""
   },
   {
+    "id": "260131-2000-01",
     "title": "Disarstar",
     "category": "Event",
     "section": "Konzert",
@@ -1496,10 +1517,10 @@
     "pp-price": "",
     "ps-price": 30,
     "bo-price": 30,
-    "info": "",
-    "id": "260131-2000-01"
+    "info": ""
   },
   {
+    "id": "260207-1900-01",
     "title": "Airbourne",
     "category": "Event",
     "section": "Konzert",
@@ -1516,10 +1537,10 @@
     "pp-price": "",
     "ps-price": 56.9,
     "bo-price": "",
-    "info": "",
-    "id": "260207-1900-01"
+    "info": ""
   },
   {
+    "id": "260211-1930-01",
     "title": "GZUZ",
     "category": "Event",
     "section": "Konzert",
@@ -1536,10 +1557,10 @@
     "pp-price": "",
     "ps-price": 59.9,
     "bo-price": "",
-    "info": "",
-    "id": "260211-1930-01"
+    "info": ""
   },
   {
+    "id": "260221-2000-01",
     "title": "Pöbel MC",
     "category": "Event",
     "section": "Konzert",
@@ -1556,10 +1577,10 @@
     "pp-price": "",
     "ps-price": 30,
     "bo-price": "",
-    "info": "",
-    "id": "260221-2000-01"
+    "info": ""
   },
   {
+    "id": "260222-2000-01",
     "title": "Magdalena Bay",
     "category": "Event",
     "section": "Konzert",
@@ -1576,10 +1597,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": 42,
-    "info": "",
-    "id": "260222-2000-01"
+    "info": ""
   },
   {
+    "id": "260223-2000-01",
     "title": "Bonaparte",
     "category": "Event",
     "section": "Konzert",
@@ -1596,10 +1617,10 @@
     "pp-price": "",
     "ps-price": 40,
     "bo-price": "",
-    "info": "",
-    "id": "260223-2000-01"
+    "info": ""
   },
   {
+    "id": "260227-2000-01",
     "title": "Yung Hurn",
     "category": "Event",
     "section": "Konzert",
@@ -1616,10 +1637,10 @@
     "pp-price": "",
     "ps-price": 55.25,
     "bo-price": "",
-    "info": "",
-    "id": "260227-2000-01"
+    "info": ""
   },
   {
+    "id": "260304-2000-01",
     "title": "Sombr",
     "category": "Event",
     "section": "Konzert",
@@ -1636,10 +1657,10 @@
     "pp-price": "",
     "ps-price": "",
     "bo-price": "",
-    "info": "",
-    "id": "260304-2000-01"
+    "info": ""
   },
   {
+    "id": "260308-1830-01",
     "title": "EPICA & AMARANTHE",
     "category": "Event",
     "section": "Konzert",
@@ -1656,10 +1677,10 @@
     "pp-price": "",
     "ps-price": 62.49,
     "bo-price": "",
-    "info": "",
-    "id": "260308-1830-01"
+    "info": ""
   },
   {
+    "id": "260312-1900-01",
     "title": "AVATAR",
     "category": "Event",
     "section": "Konzert",
@@ -1676,10 +1697,10 @@
     "pp-price": "",
     "ps-price": 58.05,
     "bo-price": "",
-    "info": "",
-    "id": "260312-1900-01"
+    "info": ""
   },
   {
+    "id": "260314-1930-01",
     "title": "102Boyz",
     "category": "Event",
     "section": "Konzert",
@@ -1696,10 +1717,10 @@
     "pp-price": "",
     "ps-price": 49.45,
     "bo-price": "",
-    "info": "",
-    "id": "260314-1930-01"
+    "info": ""
   },
   {
+    "id": "260315-2000-01",
     "title": "Buntspecht",
     "category": "Event",
     "section": "Konzert",
@@ -1716,10 +1737,10 @@
     "pp-price": "",
     "ps-price": 38,
     "bo-price": "",
-    "info": "",
-    "id": "260315-2000-01"
+    "info": ""
   },
   {
+    "id": "260320-2000-01",
     "title": "Knorkator",
     "category": "Event",
     "section": "Konzert",
@@ -1736,10 +1757,10 @@
     "pp-price": "",
     "ps-price": 45.43,
     "bo-price": "",
-    "info": "",
-    "id": "260320-2000-01"
+    "info": ""
   },
   {
+    "id": "260321-2000-01",
     "title": "Knorkator",
     "category": "Event",
     "section": "Konzert",
@@ -1756,10 +1777,10 @@
     "pp-price": "",
     "ps-price": 41.43,
     "bo-price": "",
-    "info": "",
-    "id": "260321-2000-01"
+    "info": ""
   },
   {
+    "id": "260327-2000-01",
     "title": "Ritter Lean",
     "category": "Event",
     "section": "Konzert",
@@ -1776,10 +1797,10 @@
     "pp-price": "",
     "ps-price": 42.4,
     "bo-price": "",
-    "info": "Ab 16 Jahren",
-    "id": "260327-2000-01"
+    "info": "Ab 16 Jahren"
   },
   {
+    "id": "260412-2000-01",
     "title": "LACAZETTE",
     "category": "Event",
     "section": "Konzert",
@@ -1796,10 +1817,10 @@
     "pp-price": "",
     "ps-price": 49.65,
     "bo-price": "",
-    "info": "",
-    "id": "260412-2000-01"
+    "info": ""
   },
   {
+    "id": "260416-2000-01",
     "title": "Force to Mode",
     "category": "Event",
     "section": "Konzert",
@@ -1816,10 +1837,10 @@
     "pp-price": "",
     "ps-price": 52.5,
     "bo-price": "",
-    "info": "",
-    "id": "260416-2000-01"
+    "info": ""
   },
   {
+    "id": "260502-2000-01",
     "title": "MiA",
     "category": "Event",
     "section": "Konzert",
@@ -1836,10 +1857,10 @@
     "pp-price": "",
     "ps-price": 49.25,
     "bo-price": "",
-    "info": "",
-    "id": "260502-2000-01"
+    "info": ""
   },
   {
+    "id": "260506-2000-01",
     "title": "Paula Carolina",
     "category": "Event",
     "section": "Konzert",
@@ -1856,10 +1877,10 @@
     "pp-price": "",
     "ps-price": 42.7,
     "bo-price": "",
-    "info": "",
-    "id": "260506-2000-01"
+    "info": ""
   },
   {
+    "id": "260509-2000-01",
     "title": "SPORTFREUNDE STILLER",
     "category": "Event",
     "section": "Konzert",
@@ -1876,10 +1897,10 @@
     "pp-price": "",
     "ps-price": 46,
     "bo-price": "",
-    "info": "",
-    "id": "260509-2000-01"
+    "info": ""
   },
   {
+    "id": "260511-2000-01",
     "title": "GReeeN",
     "category": "Event",
     "section": "Konzert",
@@ -1896,10 +1917,10 @@
     "pp-price": "",
     "ps-price": 51.99,
     "bo-price": "",
-    "info": "",
-    "id": "260511-2000-01"
+    "info": ""
   },
   {
+    "id": "260521-2000-01",
     "title": "BOBBY VANDAMME",
     "category": "Event",
     "section": "Konzert",
@@ -1916,10 +1937,10 @@
     "pp-price": "",
     "ps-price": 59.7,
     "bo-price": "",
-    "info": "",
-    "id": "260521-2000-01"
+    "info": ""
   },
   {
+    "id": "261113-1900-01",
     "title": "Hämatom",
     "category": "Event",
     "section": "Konzert",
@@ -1936,10 +1957,10 @@
     "pp-price": "",
     "ps-price": 64.9,
     "bo-price": "",
-    "info": "",
-    "id": "261113-1900-01"
+    "info": ""
   },
   {
+    "id": "261121-2000-01",
     "title": "Brings",
     "category": "Event",
     "section": "Konzert",
@@ -1956,10 +1977,10 @@
     "pp-price": "",
     "ps-price": 53.2,
     "bo-price": "",
-    "info": "",
-    "id": "261121-2000-01"
+    "info": ""
   },
   {
+    "id": "261127-2000-01",
     "title": "GROSSSTADTGEFLÜSTER",
     "category": "Event",
     "section": "Konzert",
@@ -1976,7 +1997,6 @@
     "pp-price": "",
     "ps-price": 39,
     "bo-price": "",
-    "info": "",
-    "id": "261127-2000-01"
+    "info": ""
   }
 ]
