@@ -1,34 +1,37 @@
-name: Update NXT Event Data
+name: Scrape Event Data
 on:
   schedule:
-    - cron: '0 3 * * *' # Daily at 3 a.m.
+    - cron: '0 3 * * *'
   workflow_dispatch:
 
 jobs:
-  update:
+  scrape:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Update data
-      run: |
-        curl -L -o data/ast.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/ast.json"
-        curl -L -o data/col.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/col.json"
-        curl -L -o data/hux.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/hux.json"
-        curl -L -o data/max.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/max.json"
-        curl -L -o data/tem.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/tem.json"
-        curl -L -o data/ube.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/ube.json"
-        curl -L -o data/vel.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/vel.json"
-        curl -L -o data/wal.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/wal.json"
-        curl -L -o data/wuh.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/wuh.json"
-        curl -L -o data/zit.json "https://raw.githubusercontent.com/nxtagi/nxtevent/main/data/zit.json"
-        echo "No external updates configured"
-        
-    - name: Commit changes
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@users.noreply.github.com"
-        git add data/
-        git diff --quiet && git diff --staged --quiet || git commit -m "Automatic data update"
-        git push
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          npm install puppeteer-core
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+
+      - name: Run scraper
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
+        run: |
+          node scraper-runner.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/*.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated event data update [bot]"
+          git push
