@@ -1,103 +1,15 @@
 [
   {
-    "title": "Volleyball Group Phase Women",
-    "category": "Volleyball",
-    "section": "FISU",
-    "date": "2025-07-16",
-    "entryTime": "09:00",
-    "beginTime": "10:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/rhine-ruhr-2025-fisu-world-university-games-4180",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/events/Fisu_kl2025.jpg"
-  },
-  {
-    "title": "Volleyball Group Phase Women",
-    "category": "Volleyball",
-    "section": "FISU",
-    "date": "2025-07-17",
-    "entryTime": "10:00",
-    "beginTime": "11:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/rhine-ruhr-2025-fisu-world-university-games-4181",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/events/Fisu_kl2025.jpg"
-  },
-  {
-    "title": "Volleyball Group Phase Men",
-    "category": "Volleyball",
-    "section": "FISU",
-    "date": "2025-07-18",
-    "entryTime": "10:00",
-    "beginTime": "11:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/rhine-ruhr-2025-fisu-world-university-games-4182",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/events/Fisu_kl2025.jpg"
-  },
-  {
-    "title": "Volleyball Group Phase Men",
-    "category": "Volleyball",
-    "section": "FISU",
-    "date": "2025-07-19",
-    "entryTime": "10:00",
-    "beginTime": "11:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/rhine-ruhr-2025-fisu-world-university-games-4183",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/events/Fisu_kl2025.jpg"
-  },
-  {
-    "title": "Volleyball Quarter Finals Women",
-    "category": "Volleyball",
-    "section": "FISU",
-    "date": "2025-07-20",
-    "entryTime": "10:00",
-    "beginTime": "11:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/rhine-ruhr-2025-fisu-world-university-games-4184",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/events/Fisu_kl2025.jpg"
-  },
-  {
-    "title": "Volleyball Quarter Finals Women",
-    "category": "Volleyball",
-    "section": "FISU",
-    "date": "2025-07-20",
-    "entryTime": "10:00",
-    "beginTime": "11:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/rhine-ruhr-2025-fisu-world-university-games-4185",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/events/Fisu_kl2025.jpg"
-  },
-  {
-    "title": "Volleyball Quarter Finals Men & Semi Finals Women",
-    "category": "Volleyball",
-    "section": "FISU",
-    "date": "2025-07-21",
-    "entryTime": "10:00",
-    "beginTime": "11:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/rhine-ruhr-2025-fisu-world-university-games-4186",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/events/Fisu_kl2025.jpg"
-  },
-  {
-    "title": "Volleyball Placement Games 5-8 Women & Semi Finals Men",
-    "category": "Volleyball",
-    "section": "FISU",
-    "date": "2025-07-22",
-    "entryTime": "10:00",
-    "beginTime": "11:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/rhine-ruhr-2025-fisu-world-university-games-4187",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/events/Fisu_kl2025.jpg"
-  },
-  {
-    "title": "Volleyball Placement Games 5-8 Men & Finals Women",
-    "category": "Volleyball",
-    "section": "FISU",
-    "date": "2025-07-23",
-    "entryTime": "10:00",
-    "beginTime": "11:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/rhine-ruhr-2025-fisu-world-university-games-4188",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/events/Fisu_kl2025.jpg"
-  },
-  {
-    "title": "Volleyball Finals Men",
-    "category": "Volleyball",
-    "section": "FISU",
-    "date": "2025-07-24",
-    "entryTime": "16:00",
-    "beginTime": "17:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/rhine-ruhr-2025-fisu-world-university-games-4189",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/events/Fisu_kl2025.jpg"
+    "title": "Füchse Berlin - SC Magdeburg",
+    "category": "Handball",
+    "section": "HBL",
+    "date": "2025-09-06",
+    "entryTime": "14:10",
+    "beginTime": "15:40",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/fuechse-berlin-vs-sc-magdeburg-3831",
+    "img": "https://www.max-schmeling-halle.de/uploads/tx_t3events/fuechse-magdeburg-va-neuehp_01.jpg",
+    "home": "Berlin",
+    "away": "Magdeburg"
   },
   {
     "title": "Lil Baby",
@@ -110,6 +22,40 @@
     "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/LIL_BABY_klein.jpg"
   },
   {
+    "title": "Füchse Berlin - Aalborg Håndbold",
+    "category": "Handball",
+    "section": "EHF",
+    "date": "2025-09-18",
+    "entryTime": "17:15",
+    "beginTime": "18:45",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/fuechse-berlin-vs-aalborg-haandbold-4174",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/fuechse-aalborg-va.jpg"
+  },
+  {
+    "title": "Füchse Berlin - MT Melsungen",
+    "category": "Handball",
+    "section": "HBL",
+    "date": "2025-09-21",
+    "entryTime": "13:30",
+    "beginTime": "15:00",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/fuechse-berlin-vs-mt-melsungen-4172",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/fuechse-melsungen-va.jpg",
+    "home": "Berlin",
+    "away": "Melsungen"
+  },
+  {
+    "title": "Füchse Berlin - ThSV Eisenach",
+    "category": "Handball",
+    "section": "HBL",
+    "date": "2025-09-28",
+    "entryTime": "16:30",
+    "beginTime": "18:00",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/fuechse-berlin-vs-thsv-eisenach-4087",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/fuechse-eisenach-va.jpg",
+    "home": "Berlin",
+    "away": "Eisenach"
+  },
+  {
     "title": "Parcels",
     "category": "Event",
     "section": "Konzert",
@@ -118,6 +64,48 @@
     "beginTime": "20:00",
     "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/parcels-4164",
     "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/Parcels_klein_2025.png"
+  },
+  {
+    "title": "Füchse Berlin - CS Dinamo Bucuresti",
+    "category": "Handball",
+    "section": "EHF",
+    "date": "2025-10-09",
+    "entryTime": "19:15",
+    "beginTime": "20:45",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/fuechse-berlin-vs-dinamo-bucuresti-4150",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/Bucuresti_2024.jpg"
+  },
+  {
+    "title": "Flo Rida",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-10-10",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/flo-rida-4216",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/_processed_/d/5/csm_Flo_Rida_2025_klein_1d41b5fc6a.png"
+  },
+  {
+    "title": "Füchse Berlin - GWD Minden",
+    "category": "Handball",
+    "section": "HBL",
+    "date": "2025-10-12",
+    "entryTime": "15:00",
+    "beginTime": "16:30",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/fuechse-berlin-vs-gwd-minden-4214",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/fuechse-gwd-minden-va.jpg",
+    "home": "Berlin",
+    "away": "Unbekannt"
+  },
+  {
+    "title": "Füchse Berlin - Kolstad Handball",
+    "category": "Handball",
+    "section": "EHF",
+    "date": "2025-10-16",
+    "entryTime": "19:15",
+    "beginTime": "20:45",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/fuechse-berlin-vs-kolstad-handball-4218",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/events/FB_Kolstad_il.jpg"
   },
   {
     "title": "Jeremias",
@@ -137,7 +125,7 @@
     "entryTime": "18:30",
     "beginTime": "19:30",
     "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/berlin-recycling-volleys-vs-vfb-friedrichshafen-4199",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-vfb_friedrichshafen-neu.jpg",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-vfb-friedrichshafen.jpg",
     "home": "Berlin",
     "away": "Friedrichshafen"
   },
@@ -150,6 +138,18 @@
     "beginTime": "20:00",
     "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/one-ok-rock-4175",
     "img": "https://www.max-schmeling-halle.de/fileadmin/events/2025_OneOkRock_Teaser.png"
+  },
+  {
+    "title": "Füchse Berlin - Handball Sport Verein Hamburg",
+    "category": "Handball",
+    "section": "HBL",
+    "date": "2025-10-26",
+    "entryTime": "16:30",
+    "beginTime": "18:00",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/fuechse-berlin-vs-handball-sport-verein-hamburg-3989",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/fuechse-hsv25-va.jpg",
+    "home": "Berlin",
+    "away": "Unbekannt"
   },
   {
     "title": "BERLIN RECYCLING Volleys - SV Warnemünde",
@@ -223,7 +223,17 @@
     "entryTime": "18:00",
     "beginTime": "20:00",
     "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/marilyn-manson-4178",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/MarilynManson_kl2025.jpg"
+    "img": "https://www.max-schmeling-halle.de/fileadmin/events/2025_M_Manson_klein.jpg"
+  },
+  {
+    "title": "Füchse Berlin - Sporting Lissabon CP",
+    "category": "Handball",
+    "section": "EHF",
+    "date": "2025-11-20",
+    "entryTime": "19:15",
+    "beginTime": "20:45",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/fuechse-berlin-vs-sporting-lissabon-cp-4051",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/fuechse-sporting-va.jpg"
   },
   {
     "title": "BERLIN RECYCLING Volleys - ASV Dachau",
@@ -233,9 +243,19 @@
     "entryTime": "14:00",
     "beginTime": "15:00",
     "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/berlin-recycling-volleys-vs-asv-dachau-4202",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-asv-neu.jpg",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-asv_volleys.jpg",
     "home": "Berlin",
     "away": "Dachau"
+  },
+  {
+    "title": "Füchse Berlin - One Veszprém HC",
+    "category": "Handball",
+    "section": "EHF",
+    "date": "2025-11-27",
+    "entryTime": "19:15",
+    "beginTime": "20:45",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/fuechse-berlin-vs-one-veszprem-hc-4217",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/events/Veszprem_2024.jpg"
   },
   {
     "title": "BERLIN RECYCLING Volleys - Barock Volleys MTV Ludwigsburg",
@@ -260,6 +280,16 @@
     "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/2025_Lorde_klein_2.png"
   },
   {
+    "title": "Bad Omens",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-12-06",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/bad-omens-4219",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/2025_Bad_Omens_kl.jpg"
+  },
+  {
     "title": "TREAM",
     "category": "Event",
     "section": "Konzert",
@@ -268,6 +298,16 @@
     "beginTime": "20:00",
     "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/tream-4152",
     "img": "https://www.max-schmeling-halle.de/fileadmin/_processed_/1/0/csm_tream-live-berlin_kl_1e63e02038.jpg"
+  },
+  {
+    "title": "BERLIN RECYCLING Volleys - Qualifikant",
+    "category": "Volleyball",
+    "section": "CEV",
+    "date": "2025-12-11",
+    "entryTime": "18:30",
+    "beginTime": "19:30",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/berlin-recycling-volleys-vs-qualifikant-4222",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-qualifikant.jpg"
   },
   {
     "title": "BERLIN RECYCLING Volleys - TSV Haching München",
@@ -348,6 +388,16 @@
     "away": "Giesen"
   },
   {
+    "title": "BERLIN RECYCLING Volleys - VK Lvi Prag",
+    "category": "Volleyball",
+    "section": "CEV",
+    "date": "2026-01-27",
+    "entryTime": "18:30",
+    "beginTime": "19:30",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/berlin-recycling-volleys-vs-vk-lvi-prag-4033",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-prag.jpg"
+  },
+  {
     "title": "BERLIN RECYCLING Volleys - FT 1844 Freiburg",
     "category": "Volleyball",
     "section": "VBL",
@@ -382,16 +432,36 @@
     "away": "Karlsruhe"
   },
   {
-    "title": "BERLIN RECYCLING Volleys - VC Bitterfeld Wolfen",
+    "title": "Biffy Clyro",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-02-16",
+    "entryTime": "18:00",
+    "beginTime": "19:30",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/biffy-clyro-4213",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/biffy-clyro-berlin_klein.jpg"
+  },
+  {
+    "title": "BERLIN RECYCLING Volleys - Sir Sicoma Monini Perugia",
+    "category": "Volleyball",
+    "section": "CEV",
+    "date": "2026-02-18",
+    "entryTime": "18:30",
+    "beginTime": "19:30",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/berlin-recycling-volleys-vs-sir-sicoma-monini-perugia-4221",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-perugia.jpg"
+  },
+  {
+    "title": "BERLIN RECYCLING Volleys - cerebricks VOLLEY GOATS Mitteldeutschland",
     "category": "Volleyball",
     "section": "VBL",
     "date": "2026-02-22",
     "entryTime": "14:00",
     "beginTime": "15:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/berlin-recycling-volleys-vs-vc-bitterfeld-wolfen-4210",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-vc-bitterfeld-neu.jpg",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/berlin-recycling-volleys-vs-cerebricks-volley-goats-mitteldeutschland-4210",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-volleygoats.jpg",
     "home": "Berlin",
-    "away": "Bitterfeld"
+    "away": "Unbekannt"
   },
   {
     "title": "Zartmann",
@@ -446,6 +516,16 @@
     "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/kaffkiez-2026_klein.jpg"
   },
   {
+    "title": "The Harlem Globetrotters",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-04-25",
+    "entryTime": "18:00",
+    "beginTime": "19:00",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/the-harlem-globetrotters-4215",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/HGI2026_klein_website_.jpg"
+  },
+  {
     "title": "Bosse",
     "category": "Event",
     "section": "Konzert",
@@ -464,6 +544,16 @@
     "beginTime": "20:00",
     "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/nena-4198",
     "img": "https://www.max-schmeling-halle.de/fileadmin/events/Nena_2026_klein.png"
+  },
+  {
+    "title": "Marteria",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-10-16",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/marteria-4220",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/_processed_/5/2/csm_Marteria_2026_klein_8af4ff73dd.png"
   },
   {
     "title": "Arena Tour 2026",
