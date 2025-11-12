@@ -1,10 +1,10 @@
 [
   {
-    "id": "000000-0000-01",
+    "id": "251112-2000-01",
     "title": "kwn",
     "category": "Event",
     "section": "Konzert",
-    "date": "",
+    "date": "2025-11-12",
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-11-12-kwn",
@@ -27,7 +27,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-11-13-john-butler",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7820/medium_john-butler-live-berlin-1200x900.jpeg",
     "ticket": "https://www.eventim.de/event/john-butler-uk-euro-tour-2025-astra-kulturhaus-20296999",
     "vendor": [
       "eventim"
@@ -46,7 +46,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-11-14-northern-lite",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12436/medium_Berlin_5-4_Post.png",
     "ticket": "https://www.eventim.de/event/northern-lite-vorwaerts-leben-tour-astra-kulturhaus-20068389",
     "vendor": [
       "eventim"
@@ -65,7 +65,7 @@
     "entryTime": "17:30",
     "beginTime": "18:30",
     "link": "https://www.astra-berlin.de/events/2025-11-15--nothing-more",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12655/medium_Berlin-Feed.jpg",
     "ticket": "https://www.eventim.de/noapp/event/nothing-more-europe-fall-2025-tour-with-catch-your-breath-solence-ankor-astra-kulturhaus-20234320/?affiliate=LAS&utm_campaign=Landstreicher+Konzerte&utm_source=LAs&utm_medium=dp",
     "vendor": [
       "eventim"
@@ -84,7 +84,7 @@
     "entryTime": "18:30",
     "beginTime": "19:30",
     "link": "https://www.astra-berlin.de/events/2025-11-16-d-a-d---the-69-eyes",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12369/medium_DAD_69-Feed.png",
     "ticket": "https://www.eventim.de/noapp/event/d-a-d-the-69-eyes-astra-kulturhaus-19807950/",
     "vendor": [
       "eventim"
@@ -103,7 +103,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-11-17-2hollis",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7821/medium_2hollis-live-berlin-1200x800.jpeg",
     "ticket": "https://www.eventim.de/event/2hollis-the-star-tour-europeuk-2025-astra-kulturhaus-20297559/",
     "vendor": [
       "eventim"
@@ -122,7 +122,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-11-20-snow-strippers",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7993/medium_Snow_Strippers.jpg",
     "ticket": "https://www.ticketmaster.de/event/snow-strippers-tickets/2091103145",
     "vendor": [
       "ticketmaster"
@@ -141,7 +141,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-11-21-kakkmaddafakka",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7573/medium_Kakkmaddafakka.jpg",
     "ticket": "https://www.eventim.de/event/kakkmaddafakka-astra-kulturhaus-19573378",
     "vendor": [
       "eventim"
@@ -160,7 +160,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-11-22-lebanon-hanover",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7658/medium_Lebanon-Hanover_3_2.png",
     "ticket": "https://dice.fm/event/6dmo58-lebanon-hanover-22nd-nov-astra-kulturhaus-berlin-tickets",
     "vendor": [
       "dice.fm"
@@ -179,7 +179,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-11-23-black-rebel-motorcycle-club",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12519/medium_2025_BlackRebelMotorcyleClub_Berlin_Feed_1080x1350.jpg",
     "ticket": "https://www.eventim.de/artist/black-rebel-motorcycle-club/",
     "vendor": [
       "eventim"
@@ -198,7 +198,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-11-24-isabel-larosa",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7793/medium_isabel-larosa-live-berlin-scaled-e1746791892499-1082x1200.jpeg",
     "ticket": "https://www.ticketmaster.de/artist/isabel-larosa-tickets/1148183",
     "vendor": [
       "ticketmaster"
@@ -217,7 +217,7 @@
     "entryTime": "20:00",
     "beginTime": "21:30",
     "link": "https://www.astra-berlin.de/events/2025-11-26-monobloco",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12760/medium_berlin-feed.png",
     "ticket": "https://www.bossafm.com/concerts-berlin/astra-kulturhaus/2025/11/26/monobloco",
     "vendor": [
       "web"
@@ -236,7 +236,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-11-27-adept",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12528/medium_Adept_2025_Berlin_Post_1080x1350px.jpg",
     "ticket": "https://www.eventim.de/event/adept-live-2025-astra-kulturhaus-20252122/",
     "vendor": [
       "eventim"
@@ -255,7 +255,7 @@
     "entryTime": "17:00",
     "beginTime": "18:00",
     "link": "https://www.astra-berlin.de/events/2025-11-28-obsidian-echoes",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1840/medium_24_OE_BER_WEB_1080x1350_01.png",
     "ticket": "https://liveembassy.ticket.io/70m3hc93/",
     "vendor": [
       "ticket.io"
@@ -274,7 +274,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-11-29-lara-hulo",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7965/medium_LaraHulo_Presse_2__Jeanette_Friedrich_01.png",
     "ticket": "https://www.eventim.de/event/lara-hulo-heartfix-tour-25-astra-kulturhaus-19806320/",
     "vendor": [
       "eventim"
@@ -293,7 +293,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-11-30-the-saints",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12370/medium_Saints-Poster-WebNeu.jpg",
     "ticket": "https://www.36-tickets.de/produkte/1012-tickets-the-saints-73-78-astra-kulturhaus-berlin-am-30-11-2025",
     "vendor": [
       "36-tickets"
@@ -331,7 +331,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-12-04-leisure",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7838/medium_Leisure.png",
     "ticket": "https://www.ticketmaster.de/event/leisure-welcome-to-the-mood-tour-tickets/432061881",
     "vendor": [
       "ticketmaster"
@@ -350,7 +350,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-12-05-dritte-wahl",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7726/medium_Dritte_Wahl.jpeg",
     "ticket": "https://www.greyzone-tickets.de/produkte/1049",
     "vendor": [
       "greyzone"
@@ -369,7 +369,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-12-06-dritte-wahl",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/5107/medium_Dritte_Wahl_2_von_Tina_Himmelreich.jpg",
     "ticket": "https://www.greyzone-tickets.de/produkte/1050",
     "vendor": [
       "greyzone"
@@ -388,7 +388,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-12-10-john-maus",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12601/medium_John_Maus_Termine.jpg",
     "ticket": "https://www.greyzone-tickets.de/produkte/1102",
     "vendor": [
       "greyzone"
@@ -407,7 +407,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-12-11-tarja",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12722/medium_Tarja-XMAS_2025_NEW.jpg",
     "ticket": "https://www.eventim.de/artist/tarja-turunen/tarja-the-spirit-of-christmas-2025-3849695",
     "vendor": [
       "eventim"
@@ -426,7 +426,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-12-12-danko-jones",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12404/medium_Darko_Jones_Tour.jpg",
     "ticket": "https://www.dodotickets.de/detail/index/sArticle/12641",
     "vendor": [
       "dodotickets"
@@ -445,7 +445,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-12-13-milleniumkid",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12193/medium_sold_out_251213_Berlin_MilleniumKid_Dystopie_Feed.png",
     "ticket": "https://vvk.link/3il8haq",
     "vendor": [
       "web"
@@ -464,7 +464,7 @@
     "entryTime": "23:30",
     "beginTime": "23:30",
     "link": "https://www.astra-berlin.de/events/2025-12-13-a-night-like-this",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1886/medium_https___cdn.evbuc.com_images_1154924363_372859778321_1_original.jpeg",
     "ticket": "https://www.eventbrite.de/e/night-like-this-the-alternative-80s-party-astra-berlin-tickets-1828846512149",
     "vendor": [
       "eventbrite"
@@ -475,6 +475,25 @@
     "info": ""
   },
   {
+    "id": "251214-2000-01",
+    "title": "BIOSCOPE",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-12-14",
+    "entryTime": "19:00",
+    "beginTime": "20:00",
+    "link": "https://www.astra-berlin.de/events/2025-12-14-bioscope",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7880/medium_Bioscope-e1752386846150.jpg",
+    "ticket": "https://www.eventim.de/event/bioscope-vanishing-point-tour-2025-rothery-quaeschning-reeves-astra-kulturhaus-20467943/",
+    "vendor": [
+      "eventim"
+    ],
+    "eb-price": "",
+    "ps-price": 52,
+    "bo-price": "",
+    "info": "Abgesagt"
+  },
+  {
     "id": "251217-2000-01",
     "title": "KING PRINCESS",
     "category": "Event",
@@ -483,7 +502,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-12-17-king-princess",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12545/medium_2025_King_Princess_Berlin_Astra_Portrait_1080x1350.jpg",
     "ticket": "https://www.eventim.de/event/king-princess-the-girl-violence-tour-astra-kulturhaus-20330551/",
     "vendor": [
       "eventim"
@@ -502,7 +521,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-12-19-jassin",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7764/medium_Landstreicher-Konzerte-Jassin-3-c-Linda-Carl_162455f4796ce2aaec023cc0ccf19667.jpg",
     "ticket": "https://jassin.krasserstoff.com/events/jassin-winter-tour-2025-astra-kulturhaus",
     "vendor": [
       "web"
@@ -521,7 +540,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2025-12-20-engst",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7618/medium_engst-live-berlin-1200x822.jpeg",
     "ticket": "https://www.eventim.de/noapp/event/engst-10-jahre-jubilaeumstour-astra-kulturhaus-19716495",
     "vendor": [
       "eventim"
@@ -540,7 +559,7 @@
     "entryTime": "18:00",
     "beginTime": "19:00",
     "link": "https://www.astra-berlin.de/events/2025-05-30-lionheart",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7819/medium_lionheart-live-berlin-1200x800.jpeg",
     "ticket": "https://www.eventim.de/noapp/event/lionheart-europe-2025-metropol-19913762",
     "vendor": [
       "eventim"
@@ -559,7 +578,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-01-21-midnight-til-mornig",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12731/medium_MTM_Tour26_Berlin_Portrait_1080x1350_v2.jpg",
     "ticket": "https://www.eventim.de/event/midnight-til-morning-uk-european-tour-astra-kulturhaus-20688394/",
     "vendor": [
       "eventim"
@@ -578,7 +597,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-01-24-jamal",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7905/medium_Jamal_Yardies-Tour2026_1080.jpg",
     "ticket": "https://www.ticketmaster.de/event/jamal-tickets/168269934?CL_ORIGIN=ORIGIN8",
     "vendor": [
       "ticketmaster"
@@ -597,7 +616,7 @@
     "entryTime": "16:00",
     "beginTime": "17:00",
     "link": "https://www.astra-berlin.de/events/2026-02-07-the-exploited---discharge---gbh",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7844/medium_Exploited-Webposter.jpg",
     "ticket": "https://www.36-tickets.de/produkte/1030-tickets-the-exploited-discharge-gbh-astra-kulturhaus-berlin-am-07-02-2026",
     "vendor": [
       "36-tickets"
@@ -616,7 +635,7 @@
     "entryTime": "18:00",
     "beginTime": "19:00",
     "link": "https://www.astra-berlin.de/events/2026-02-13-napalm-death---campaign-for-musical-destruction",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1944/medium_CMD-2026_Instagram_Square.jpg",
     "ticket": "https://www.36-tickets.de/produkte/1045-tickets-napalm-death-whiplash-varukers-astra-kulturhaus-berlin-am-13-02-2026",
     "vendor": [
       "36-tickets"
@@ -635,7 +654,7 @@
     "entryTime": "18:00",
     "beginTime": "19:00",
     "link": "https://www.astra-berlin.de/events/2026-02-14-glass-danse-2026",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1939/medium_4to5__1_.jpg",
     "ticket": "https://www.outoflineshop.de/glass-danse-14-02-2026-astra-kulturhaus-berlin.html",
     "vendor": [
       "web"
@@ -654,7 +673,7 @@
     "entryTime": "18:00",
     "beginTime": "19:00",
     "link": "https://www.astra-berlin.de/events/2026-02-20-agnostic-front",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12764/medium_Agnostic-Poster-Web.jpg",
     "ticket": "https://www.36-tickets.de/produkte/1040-tickets-agnostic-front-astra-kulturhaus-berlin-am-20-02-2026",
     "vendor": [
       "36-tickets"
@@ -673,7 +692,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-02-21-jinjer",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12566/medium_Jinjer_Feed.png",
     "ticket": "https://www.eventim.de/noapp/event/jinjer-astra-kulturhaus-20306902",
     "vendor": [
       "eventim"
@@ -692,7 +711,7 @@
     "entryTime": "18:30",
     "beginTime": "19:30",
     "link": "https://www.astra-berlin.de/events/2026-02-28-clockclock",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7797/medium_clockclock-live-berlin-800x1200.jpeg",
     "ticket": "https://www.eventim.de/noapp/event/clockclock-astra-kulturhaus-20196678/",
     "vendor": [
       "eventim"
@@ -711,7 +730,7 @@
     "entryTime": "18:30",
     "beginTime": "19:30",
     "link": "https://www.astra-berlin.de/events/2026-03-06-la-dispute",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7921/medium_La_Dispute.png",
     "ticket": "https://www.eventim.de/event/la-dispute-no-one-was-driving-the-car-tour-astra-kulturhaus-20541790",
     "vendor": [
       "eventim"
@@ -730,7 +749,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-03-07-gluecifer",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7970/medium_h581_GLUECIFER_KJ_Grafik2-1384.jpg",
     "ticket": "https://www.eventim.de/event/gluecifer-same-drug-new-high-astra-kulturhaus-20698578/",
     "vendor": [
       "eventim"
@@ -749,7 +768,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-03-09-der-w",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12464/medium_Der_W_Tour.jpg",
     "ticket": "https://www.eventim.de/event/der-w-astra-kulturhaus-20089564/",
     "vendor": [
       "eventim"
@@ -768,7 +787,7 @@
     "entryTime": "18:00",
     "beginTime": "19:00",
     "link": "https://www.astra-berlin.de/events/2026-03-14-yu",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7986/medium_Presse06_Andreas_Eisenach.jpg",
     "ticket": "",
     "vendor": [
       ""
@@ -787,7 +806,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-03-15-geese",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/8003/medium_GEESE42300_Lewis_Evans.jpg",
     "ticket": "https://tickets.loft.de/event/geese-7gutfa",
     "vendor": [
       "loftix"
@@ -806,7 +825,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-03-17-carpenter-brut",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7854/medium_Carpenter_Brut.jpg",
     "ticket": "https://www.eventim.de/noapp/event/carpenter-brut-the-end-complete-tour-2026-astra-kulturhaus-20402223",
     "vendor": [
       "eventim"
@@ -825,7 +844,7 @@
     "entryTime": "19:00",
     "beginTime": "19:30",
     "link": "https://www.astra-berlin.de/events/2026-03-21-wizo",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12548/medium_7-BERLIN-Ausverkauft_POST.jpg",
     "ticket": "https://www.koka36.de/event_site.php?event=178353",
     "vendor": [
       "koka36"
@@ -844,7 +863,7 @@
     "entryTime": "18:00",
     "beginTime": "18:30",
     "link": "https://www.astra-berlin.de/events/2026-03-22-wizo",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7812/medium_WIZO-2024-01_Bandfoto_KONZERTSUCHT-Sonja-Moeller_print.jpeg",
     "ticket": "https://www.36-tickets.de/produkte/1044-tickets-wizo-zusatzshow-astra-kulturhaus-berlin-am-22-03-2026",
     "vendor": [
       "36-tickets"
@@ -863,7 +882,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-03-26-cmat",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7940/medium_CMAT.jpg",
     "ticket": "https://www.ticketmaster.de/event/cmat-tickets/1866197323",
     "vendor": [
       "ticketmaster"
@@ -882,7 +901,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-03-28-megaloh",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12628/medium_03-28_Berlin__1_.jpg",
     "ticket": "https://shop.megaloh.de/product/84907/megaloh-astra-kulturhaus-berlin-am-28-03-2026",
     "vendor": [
       "web"
@@ -901,7 +920,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-04-04-zs--zs-",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7928/medium_Zsa_Zsa.jpg",
     "ticket": "https://www.eventim.de/noapp/event/zsa-zsa-thirst-trap-tour-v2-2026-astra-kulturhaus-20387579",
     "vendor": [
       "eventim"
@@ -920,7 +939,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-04-10-sammy-virji",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7979/medium_Sammy_Virji.png",
     "ticket": "https://www.ticketmaster.de/event/sammy-virji-europe-tour-2026-tickets/287311175",
     "vendor": [
       "ticketmaster"
@@ -939,7 +958,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-04-19-smash-into-pieces",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/8018/medium_Bildschirmfoto_2025-11-05_um_13.41.06.png",
     "ticket": "https://www.eventim.de/noapp/event/smash-into-pieces-astra-kulturhaus-20891200/",
     "vendor": [
       "eventim"
@@ -958,7 +977,7 @@
     "entryTime": "18:00",
     "beginTime": "18:45",
     "link": "https://www.astra-berlin.de/events/2026-05-07-out-of-line-weekender-2026",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1940/medium_Weekender_2026_-_IMG_-_4-5_-_2025-08-22.jpg",
     "ticket": "https://www.outoflineshop.de/weekender/out-of-line-weekender-2026-07-05-09-05-2026-berlin-weekend-ticket.html",
     "vendor": [
       "web"
@@ -977,7 +996,7 @@
     "entryTime": "18:00",
     "beginTime": "18:45",
     "link": "https://www.astra-berlin.de/events/2026-05-08-out-of-line-weekender-2026",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1940/medium_Weekender_2026_-_IMG_-_4-5_-_2025-08-22.jpg",
     "ticket": "https://www.outoflineshop.de/weekender/out-of-line-weekender-2026-07-05-09-05-2026-berlin-weekend-ticket.html",
     "vendor": [
       "web"
@@ -996,7 +1015,7 @@
     "entryTime": "17:00",
     "beginTime": "17:45",
     "link": "https://www.astra-berlin.de/events/2026-05-09-out-of-line-weekender-2026",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1940/medium_Weekender_2026_-_IMG_-_4-5_-_2025-08-22.jpg",
     "ticket": "https://www.outoflineshop.de/weekender/out-of-line-weekender-2026-07-05-09-05-2026-berlin-weekend-ticket.html",
     "vendor": [
       "web"
@@ -1015,7 +1034,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-05-13-voodoo-j-rgens",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12823/medium_VJ_WEB_InstaPost_Dates.jpg",
     "ticket": "https://www.greyzone-tickets.de/produkte/1179",
     "vendor": [
       "greyzone"
@@ -1034,7 +1053,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-05-16-takt32",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7888/medium_Takt32_Landstreicher-Konzerte__Marcus_Schuster.JPG",
     "ticket": "https://landstreicher-konzerte.de/konzerte/takt32-b-26",
     "vendor": [
       "landstreicher"
@@ -1053,7 +1072,7 @@
     "entryTime": "13:00",
     "beginTime": "14:00",
     "link": "https://www.astra-berlin.de/events/2026-06-13-berlin-breakout--2026",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12794/medium_BBO-Loft_Website-2026_1.jpg",
     "ticket": "https://tickets.loft.de/event/berlin-breakout-o04d3d",
     "vendor": [
       "loftix"
@@ -1072,7 +1091,7 @@
     "entryTime": "19:00",
     "beginTime": "20:00",
     "link": "https://www.astra-berlin.de/events/2026-08-18-rose-tattoo",
-    "img": "",
+    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/8023/medium_Rose_Tattoo_Paul_Bosemaier.png",
     "ticket": "",
     "vendor": [
       ""
