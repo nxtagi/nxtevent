@@ -1,83 +1,23 @@
 [
   {
-    "title": "Grönemeyer",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-11",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.velodrom.de/events-tickets/event/detail/groenemeyer-4044",
-    "img": "https://www.velodrom.de/fileadmin/events/Groenemeyer_SoldOut_2025_klein.jpg"
-  },
-  {
-    "title": "Grönemeyer",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-12",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.velodrom.de/events-tickets/event/detail/groenemeyer-1209-4045",
-    "img": "https://www.velodrom.de/fileadmin/events/Groenemeyer_SoldOut_2025_klein.jpg"
-  },
-  {
-    "title": "Boris Brejcha",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-20",
-    "entryTime": "21:00",
-    "beginTime": "22:00",
-    "link": "https://www.velodrom.de/events-tickets/event/detail/boris-brejcha-4046",
-    "img": "https://www.velodrom.de/fileadmin/events/Boris_Brejcha_2025_klein.png"
-  },
-  {
-    "title": "Little Simz",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-23",
-    "entryTime": "18:30",
-    "beginTime": "20:00",
-    "link": "https://www.velodrom.de/events-tickets/event/detail/little-simz-4061",
-    "img": "https://www.velodrom.de/fileadmin/user_upload/LittleSIMZ_klein_2025.jpg"
-  },
-  {
-    "title": "Meute",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-11",
-    "entryTime": "18:30",
-    "beginTime": "20:00",
-    "link": "https://www.velodrom.de/events-tickets/event/detail/meute-4035",
-    "img": "https://www.velodrom.de/fileadmin/user_upload/MEUTE_2024_klein.jpg"
-  },
-  {
-    "title": "Loyle Carner",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-15",
-    "entryTime": "18:30",
-    "beginTime": "20:00",
-    "link": "https://www.velodrom.de/events-tickets/event/detail/loyle-carner-4060",
-    "img": "https://www.velodrom.de/fileadmin/events/Loyle_Carner_2025_klein.png"
-  },
-  {
-    "title": "Disturbed & Megadeth",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-18",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.velodrom.de/events-tickets/event/detail/disturbed-4052",
-    "img": "https://www.velodrom.de/fileadmin/events/disturbed-va-teaser.jpg"
-  },
-  {
     "title": "Turnstile",
     "category": "Event",
     "section": "Konzert",
     "date": "2025-11-14",
-    "entryTime": "18:30",
-    "beginTime": "20:00",
+    "entryTime": "18:00",
+    "beginTime": "19:00",
     "link": "https://www.velodrom.de/events-tickets/event/detail/turnstile-4067",
     "img": "https://www.velodrom.de/fileadmin/events/Turnstile_2025_klein.png"
+  },
+  {
+    "title": "Kings Cup Europe Final",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-11-22",
+    "entryTime": "17:00",
+    "beginTime": "18:30",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/kings-cup-europe-final-4077",
+    "img": "https://www.velodrom.de/fileadmin/events/Kings_League_klein.png"
   },
   {
     "title": "Tiefbasskommando",
@@ -120,6 +60,16 @@
     "img": "https://www.velodrom.de/fileadmin/user_upload/Architects2026_klein.jpg"
   },
   {
+    "title": "Halsey",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-01-23",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/halsey-4071",
+    "img": "https://www.velodrom.de/fileadmin/_processed_/7/6/csm_Halsey_2026_klein_0bd236d3c3.png"
+  },
+  {
     "title": "Slaughter to Prevail",
     "category": "Event",
     "section": "Konzert",
@@ -158,6 +108,36 @@
     "beginTime": "20:00",
     "link": "https://www.velodrom.de/events-tickets/event/detail/shindy-4043",
     "img": "https://www.velodrom.de/fileadmin/events/shindy_2025_klein_2.png"
+  },
+  {
+    "title": "The Last Dinner Party",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-02-22",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/the-last-dinner-party-4073",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/the-last-dinner-party-va.jpg"
+  },
+  {
+    "title": "Laufey",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-02-24",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/laufey-4074",
+    "img": "https://www.velodrom.de/fileadmin/events/2026_Laufey_klein.png"
+  },
+  {
+    "title": "sombr",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-03-04",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/sombr-4068",
+    "img": "https://www.velodrom.de/fileadmin/_processed_/8/e/csm_Sombr_klein_58d6e8c216.png"
   },
   {
     "title": "Disney On Ice",
@@ -218,5 +198,105 @@
     "beginTime": "15:00",
     "link": "https://www.velodrom.de/events-tickets/event/detail/disney-on-ice-sonntag-nachmittag-4059",
     "img": "https://www.velodrom.de/fileadmin/user_upload/20250626_DOI_Neu_2026.png"
+  },
+  {
+    "title": "Tash Sultana",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-03-20",
+    "entryTime": "18:00",
+    "beginTime": "19:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/tash-sultana-4072",
+    "img": "https://www.velodrom.de/fileadmin/_processed_/9/e/csm_Tash_Sultana_2026_klein_68532b9ef8.png"
+  },
+  {
+    "title": "SSIO",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-03-27",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/ssio-die-erste-tour-nach-corona-tour-berlin-4069",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/VA_SSIO_1.jpg"
+  },
+  {
+    "title": "Pentatonix",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-04-18",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/pentatonix-4076",
+    "img": "https://www.velodrom.de/fileadmin/events/Pentatonix_klein_2026.png"
+  },
+  {
+    "title": "Rüfüs Du Sol",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-05-01",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/ruefues-du-sol-4080",
+    "img": "https://www.velodrom.de/fileadmin/_processed_/d/9/csm_Rufusdusol_2025_kl_5bfc82888a.jpg"
+  },
+  {
+    "title": "Rüfüs Du Sol",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-05-02",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/ruefues-du-sol-4082",
+    "img": "https://www.velodrom.de/fileadmin/_processed_/d/9/csm_Rufusdusol_2025_kl_5bfc82888a.jpg"
+  },
+  {
+    "title": "The Neighbourhood",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-05-07",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/the-neighbourhood-4081",
+    "img": "https://www.velodrom.de/fileadmin/user_upload/2026_TheNeighbourhood_Pressefoto_Credit_JulienGalan_kl.jpg"
+  },
+  {
+    "title": "Olivia Dean",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-05-12",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/olivia-dean-4070",
+    "img": "https://www.velodrom.de/fileadmin/_processed_/7/a/csm_Olivia_2026_klein_01_f61ab94e94.png"
+  },
+  {
+    "title": "I Prevail",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-10-13",
+    "entryTime": "17:00",
+    "beginTime": "19:30",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/i-prevail-4075",
+    "img": "https://www.velodrom.de/fileadmin/events/I_Prevail_klein_2026.png"
+  },
+  {
+    "title": "NIMO",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-12-11",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/nimo-4078",
+    "img": "https://www.velodrom.de/fileadmin/events/NIMO2026_kl.jpg"
+  },
+  {
+    "title": "NIMO",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-12-12",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.velodrom.de/events-tickets/event/detail/nimo-4079",
+    "img": "https://www.velodrom.de/fileadmin/events/NIMO2026_kl.jpg"
   }
 ]
