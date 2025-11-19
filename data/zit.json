@@ -1,92 +1,112 @@
 [
   {
-    "title": "Brunch Electronik Day 1",
+    "title": "Fat Freddy’s Drop",
     "category": "Event",
     "section": "Open-Air",
-    "date": "2025-07-26",
-    "entryTime": "12:00",
-    "beginTime": "13:00",
-    "link": "https://citadel-music-festival.de/event/brunch-electronik-day-1",
-    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/04/Logo-V196-e1744706098712-500x389.png"
-  },
-  {
-    "title": "Brunch Electronik Day 2",
-    "category": "Event",
-    "section": "Open-Air",
-    "date": "2025-07-27",
-    "entryTime": "12:00",
-    "beginTime": "13:00",
-    "link": "https://citadel-music-festival.de/event/brunch-electronik-day-2",
-    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/04/Logo-V196-e1744706098712-500x389.png"
-  },
-  {
-    "title": "Paula Hartmann",
-    "category": "Event",
-    "section": "Open-Air",
-    "date": "2025-08-01",
+    "date": "2026-06-05",
     "entryTime": "17:00",
     "beginTime": "19:00",
-    "link": "https://citadel-music-festival.de/event/paula-hartmann",
-    "img": "https://citadel-music-festival.de/wp-content/uploads/2024/09/Paula-Hartmann4_Credit-Jakob-Furis-500x500.jpg"
+    "link": "https://citadel-music-festival.de/event/fat-freddys-drop-3",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/10/b9961a06_FFD_BOATS_Tour_2382_1684-500x353.jpg"
   },
   {
-    "title": "FONTAINES D.C.",
+    "title": "Mac DeMarco",
     "category": "Event",
     "section": "Open-Air",
-    "date": "2025-08-05",
-    "entryTime": "17:00",
-    "beginTime": "19:00",
-    "link": "https://citadel-music-festival.de/event/fontaines-d-c",
-    "img": "https://citadel-music-festival.de/wp-content/uploads/2024/11/Fontaines-dc-berlin-e1730811042978-500x333.webp"
-  },
-  {
-    "title": "THE SMASHING PUMPKINS",
-    "category": "Event",
-    "section": "Open-Air",
-    "date": "2025-08-06",
+    "date": "2026-06-17",
     "entryTime": "17:30",
     "beginTime": "19:00",
-    "link": "https://citadel-music-festival.de/event/the-smashing-pumpkins-2",
-    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/02/The-Smashing-Pumpkins-Source-Red-Light-Management-500x335.jpg"
+    "link": "https://citadel-music-festival.de/event/mac-demarco",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/10/MacGuitarLeadPhoto-scaled-e1761651324966-500x383.jpeg"
   },
   {
-    "title": "QUEENS OF THE STONE AGE",
+    "title": "Culcha Candela",
     "category": "Event",
     "section": "Open-Air",
-    "date": "2025-08-12",
+    "date": "2026-06-27",
+    "entryTime": "17:00",
+    "beginTime": "18:45",
+    "link": "https://citadel-music-festival.de/event/culcha-candela",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/09/CulchaCandela_c_1_LeonHahn_0225-500x333.jpg"
+  },
+  {
+    "title": "Pixies",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2026-06-30",
     "entryTime": "17:00",
     "beginTime": "19:00",
-    "link": "https://citadel-music-festival.de/event/queens-of-the-stone-age-3",
-    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/01/2025-QOTSA-PressShot_lores-credit-Ross-Halfin-e1737372602633-500x386.jpg"
+    "link": "https://citadel-music-festival.de/event/pixies-2",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/09/Photo-PIXIES_Credit-Travis-Shinn-500x333.jpg"
   },
   {
-    "title": "Amyl & The Sniffers",
+    "title": "A PERFECT CIRCLE",
     "category": "Event",
     "section": "Open-Air",
-    "date": "2025-08-26",
+    "date": "2026-07-01",
+    "entryTime": "00:00",
+    "beginTime": "19:00",
+    "link": "https://citadel-music-festival.de/event/a-perfect-circle-2",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/10/APerfectCircle_PressPic_Travis_Shinn-500x336.jpg"
+  },
+  {
+    "title": "MARK FORSTER",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2026-07-18",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://citadel-music-festival.de/event/mark-forster",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/10/Mark-Forster-Berlin-e1760364944907-500x315.jpg"
+  },
+  {
+    "title": "WINCENT WEISS",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2026-07-24",
+    "entryTime": "17:00",
+    "beginTime": "19:00",
+    "link": "https://citadel-music-festival.de/event/wincent-weiss",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/09/Credit_SebastianBalz-scaled-e1756733635397-500x328.jpg"
+  },
+  {
+    "title": "ANTILOPEN GANG",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2026-08-15",
+    "entryTime": "00:00",
+    "beginTime": "17:00",
+    "link": "https://citadel-music-festival.de/event/antilopen-gang",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/10/04-antilopen-gang-presse-2024-c-danny-koetter-10-500x333.jpg"
+  },
+  {
+    "title": "OMD",
+    "category": "Event",
+    "section": "Open-Air",
+    "date": "2026-08-18",
     "entryTime": "17:30",
     "beginTime": "19:00",
-    "link": "https://citadel-music-festival.de/event/amyl-the-sniffers",
-    "img": "https://citadel-music-festival.de/wp-content/uploads/2024/08/Presspic-500x500.jpg"
+    "link": "https://citadel-music-festival.de/event/omd-2",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/10/s3_OMD_7_7_23_009-scaled-e1761061824145-500x372.jpg"
   },
   {
-    "title": "OFF DAYS",
+    "title": "Trailerpark",
     "category": "Event",
     "section": "Open-Air",
-    "date": "2025-08-29",
-    "entryTime": "16:00",
-    "beginTime": "18:00",
-    "link": "https://citadel-music-festival.de/event/off-days-4",
-    "img": "https://citadel-music-festival.de/wp-content/uploads/2026/01/PROFILE-PIC-2025-e1744206549762-500x307.png"
+    "date": "2026-08-28",
+    "entryTime": "17:30",
+    "beginTime": "19:00",
+    "link": "https://citadel-music-festival.de/event/trailerpark",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/07/TP-Open-Air-2026_mit-Zusatzshow_16zu9_offen_neu-500x281.jpg"
   },
   {
-    "title": "OFF DAYS",
+    "title": "Trailerpark",
     "category": "Event",
     "section": "Open-Air",
-    "date": "2025-08-30",
-    "entryTime": "15:00",
-    "beginTime": "16:00",
-    "link": "https://citadel-music-festival.de/event/off-days-5",
-    "img": "https://citadel-music-festival.de/wp-content/uploads/2026/01/PROFILE-PIC-2025-e1744206549762-500x307.png"
+    "date": "2026-08-29",
+    "entryTime": "17:30",
+    "beginTime": "19:00",
+    "link": "https://citadel-music-festival.de/event/trailerpark-2",
+    "img": "https://citadel-music-festival.de/wp-content/uploads/2025/07/TP-Open-Air-2026_mit-Zusatzshow_16zu9_offen_neu-500x281.jpg"
   }
 ]

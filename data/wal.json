@@ -1,125 +1,5 @@
 [
   {
-    "title": "SIDO",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-07-18",
-    "entryTime": "17:00",
-    "beginTime": "19:30",
-    "link": "https://www.waldbuehne-berlin.de/event/sido_2025-07-18_19/",
-    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3022/waldbuehne_berlin_sido_tickets_upload_1.png",
-    "ticket": "https://www.waldbuehne-berlin.de/event/sido_2025-07-18_19/",
-    "info": ""
-  },
-  {
-    "title": "Robbie Williams",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-07-21",
-    "entryTime": "16:30",
-    "beginTime": "18:30",
-    "link": "https://www.waldbuehne-berlin.de/event/robbie_williams_2025-07-21_18/",
-    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3024/waldbuehne_berlin_robbie_williams_tickets_upload.png",
-    "ticket": "",
-    "info": "Ausverkauft"
-  },
-  {
-    "title": "Robbie Williams",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-07-22",
-    "entryTime": "16:30",
-    "beginTime": "18:30",
-    "link": "https://www.waldbuehne-berlin.de/event/robbie_williams_2025-07-22_18/",
-    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3026/waldbuehne_berlin_robbie_williams_tickets_upload.png",
-    "ticket": "",
-    "info": "Ausverkauft"
-  },
-  {
-    "title": "IRON MAIDEN",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-07-29",
-    "entryTime": "16:15",
-    "beginTime": "18:15",
-    "link": "https://www.waldbuehne-berlin.de/event/iron_maiden_2025-07-29_18/",
-    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3006/waldbuehne_iron_maiden_website_berlin_ticket_upload.jpg",
-    "ticket": "",
-    "info": "Ausverkauft"
-  },
-  {
-    "title": "IRON MAIDEN",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-07-30",
-    "entryTime": "16:15",
-    "beginTime": "18:15",
-    "link": "https://www.waldbuehne-berlin.de/event/iron_maiden_2025-07-30_18/",
-    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3009/waldbuehne_iron_maiden_website_berlin_ticket_upload.jpg",
-    "ticket": "https://www.waldbuehne-berlin.de/event/iron_maiden_2025-07-30_18/",
-    "info": ""
-  },
-  {
-    "title": "West-Eastern Divan Orchestra",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-08-10",
-    "entryTime": "17:00",
-    "beginTime": "19:00",
-    "link": "https://www.waldbuehne-berlin.de/event/west-eastern_divan_orchestra_2025-08-10_19/",
-    "img": "https://www.waldbuehne-berlin.de/site/assets/files/2999/waldbuehne_berlin_west_eastern_divan_orchestra_tickets_upload.png",
-    "ticket": "https://www.waldbuehne-berlin.de/event/west-eastern_divan_orchestra_2025-08-10_19/",
-    "info": ""
-  },
-  {
-    "title": "BURNA BOY",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-08-15",
-    "entryTime": "17:00",
-    "beginTime": "19:00",
-    "link": "https://www.waldbuehne-berlin.de/event/burna_boy_2025-08-15_19/",
-    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3098/waldbuehne_berlin_burna_boy_berlin_tickets_upload.png",
-    "ticket": "https://www.waldbuehne-berlin.de/event/burna_boy_2025-08-15_19/",
-    "info": ""
-  },
-  {
-    "title": "Roland Kaiser",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-08-16",
-    "entryTime": "17:30",
-    "beginTime": "19:30",
-    "link": "https://www.waldbuehne-berlin.de/event/roland_kaiser_2025-08-16_19/",
-    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3034/waldbuehne_berlin_roland_kaiser_tickets_upload.png",
-    "ticket": "https://www.waldbuehne-berlin.de/event/roland_kaiser_2025-08-16_19/",
-    "info": ""
-  },
-  {
-    "title": "SCOOTER",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-08-29",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.waldbuehne-berlin.de/event/scooter_2025-08-29_20/",
-    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3018/waldbuehne_berlin_scooter_tickets_berlin_upload.png",
-    "ticket": "https://www.waldbuehne-berlin.de/event/scooter_2025-08-29_20/",
-    "info": ""
-  },
-  {
-    "title": "25. Berliner Taschenlampenkonzert",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-20",
-    "entryTime": "17:00",
-    "beginTime": "19:00",
-    "link": "https://www.waldbuehne-berlin.de/event/25-berliner_taschenlampenkonzert_2025-09-20_19/",
-    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3044/waldbuehne_berlin_berliner_taschenlampenkonzert_tickets_upload.png",
-    "ticket": "https://www.waldbuehne-berlin.de/event/25-berliner_taschenlampenkonzert_2025-09-20_19/",
-    "info": ""
-  },
-  {
     "title": "Mario Barth",
     "category": "Event",
     "section": "Konzert",
@@ -128,7 +8,43 @@
     "beginTime": "19:30",
     "link": "https://www.waldbuehne-berlin.de/event/mario_barth_2026-05-09_19/",
     "img": "https://www.waldbuehne-berlin.de/site/assets/files/3028/waldbuehne_berlin_mario_barth_tickets_berlin_upload.png",
-    "ticket": "https://www.waldbuehne-berlin.de/event/mario_barth_2026-05-09_19/",
+    "ticket": "",
+    "info": ""
+  },
+  {
+    "title": "Die Schlagernacht des Jahres",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-06-20",
+    "entryTime": "14:00",
+    "beginTime": "16:00",
+    "link": "https://www.waldbuehne-berlin.de/event/die_schlagernacht_des_jahres_2026-06-20_16/",
+    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3131/waldbuehne_berlin_schlagernacht_des_jahres_berlin_tickets_upload.png",
+    "ticket": "",
+    "info": ""
+  },
+  {
+    "title": "Saisonabschlusskonzert der Berliner Philharmoniker",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-06-27",
+    "entryTime": "18:00",
+    "beginTime": "20:15",
+    "link": "https://www.waldbuehne-berlin.de/event/saisonabschlusskonzert_der_berliner_philharmoniker_2026-06-27_20/",
+    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3133/waldbuehne_berlin_berliner_philharmoniker_berlin_tickets_upload.png",
+    "ticket": "",
+    "info": ""
+  },
+  {
+    "title": "Nick Cave & The Bad Seeds",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-06-30",
+    "entryTime": "00:00",
+    "beginTime": "00:00",
+    "link": "https://www.waldbuehne-berlin.de/event/nick_cave_und_the_bad_seeds_2026-06-30_00/",
+    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3136/waldbuehne_berlin_nick_cave_and_the_bed_seeds_berlin_tickets_upload.png",
+    "ticket": "",
     "info": ""
   },
   {
@@ -140,7 +56,7 @@
     "beginTime": "20:03",
     "link": "https://www.waldbuehne-berlin.de/event/20_jahre_sebastian_fitzek_2026-08-07_20/",
     "img": "https://www.waldbuehne-berlin.de/site/assets/files/3074/waldbuehne_berlin_sebastian_fitzek_berlin_tickets_upload.png",
-    "ticket": "https://www.waldbuehne-berlin.de/event/20_jahre_sebastian_fitzek_2026-08-07_20/",
+    "ticket": "",
     "info": ""
   },
   {
@@ -152,7 +68,19 @@
     "beginTime": "20:03",
     "link": "https://www.waldbuehne-berlin.de/event/20_jahre_sebastian_fitzek_2026-08-08_20/",
     "img": "https://www.waldbuehne-berlin.de/site/assets/files/3081/waldbuehne_berlin_sebastian_fitzek_berlin_tickets_upload.png",
-    "ticket": "https://www.waldbuehne-berlin.de/event/20_jahre_sebastian_fitzek_2026-08-08_20/",
+    "ticket": "",
+    "info": ""
+  },
+  {
+    "title": "West-Eastern Divan Orchestra",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-08-13",
+    "entryTime": "17:00",
+    "beginTime": "19:00",
+    "link": "https://www.waldbuehne-berlin.de/event/west-eastern_divan_orchestra_2026-08-13_19/",
+    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3122/waldbuehne_berlin_west_eastern_divan_ochestra_berlin_tickets_upload.png",
+    "ticket": "",
     "info": ""
   },
   {
@@ -160,11 +88,47 @@
     "category": "Event",
     "section": "Konzert",
     "date": "2026-08-15",
-    "entryTime": "00:00",
-    "beginTime": "00:00",
-    "link": "https://www.waldbuehne-berlin.de/event/sarah_connor_2026-08-15_00/",
+    "entryTime": "17:30",
+    "beginTime": "19:30",
+    "link": "https://www.waldbuehne-berlin.de/event/sarah_connor_2026-08-15_19/",
     "img": "https://www.waldbuehne-berlin.de/site/assets/files/3100/waldbuehne_berlin_sarah_connor_berlin_tickets_upload_1.png",
-    "ticket": "https://www.waldbuehne-berlin.de/event/sarah_connor_2026-08-15_00/",
+    "ticket": "",
+    "info": ""
+  },
+  {
+    "title": "ROLAND KAISER",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-08-21",
+    "entryTime": "17:30",
+    "beginTime": "19:30",
+    "link": "https://www.waldbuehne-berlin.de/event/roland_kaiser_2026-08-21_19/",
+    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3125/waldbuehne_berlin_roland_kaiser_berlin_tickets_upload.png",
+    "ticket": "",
+    "info": ""
+  },
+  {
+    "title": "ROLAND KAISER",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-08-22",
+    "entryTime": "17:30",
+    "beginTime": "19:30",
+    "link": "https://www.waldbuehne-berlin.de/event/roland_kaiser_2026-08-22_19/",
+    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3127/waldbuehne_berlin_roland_kaiser_berlin_tickets_upload.png",
+    "ticket": "",
+    "info": ""
+  },
+  {
+    "title": "DAS GIPFELTREFFEN",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2027-08-29",
+    "entryTime": "17:00",
+    "beginTime": "19:00",
+    "link": "https://www.waldbuehne-berlin.de/event/das_gipfeltreffen_2027-08-29_19/",
+    "img": "https://www.waldbuehne-berlin.de/site/assets/files/3129/waldbuehne_berlin_das_gipfeltreffen_berlin_tickets_upload.png",
+    "ticket": "",
     "info": ""
   }
 ]

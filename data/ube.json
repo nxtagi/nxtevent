@@ -1,447 +1,5 @@
 [
   {
-    "title": "ENHYPEN",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-01",
-    "entryTime": "17:30",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/enhypen/2025-09-01-1930",
-    "img": "https://www.uber-arena.de/assets/img/EnhypenNeu_Thumb-8aada68516.jpg"
-  },
-  {
-    "title": "Chris Tall",
-    "category": "Event",
-    "section": "Comedy",
-    "date": "2025-09-05",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/chris-tall-berlin/2025-09-05-2000",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Chris_Tall_WS_460x205_01_60-fdc332ee3b.jpg"
-  },
-  {
-    "title": "Ricky Gervais",
-    "category": "Event",
-    "section": "Comedy",
-    "date": "2025-09-06",
-    "entryTime": "17:30",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/ricky-gervais-25/2025-09-06-1930",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Ricky_Gervais_WS_460x205_01_61-7819c0c700.jpg"
-  },
-  {
-    "title": "Eisbären Berlin - Dresdner Eislöwen",
-    "category": "Eishockey",
-    "section": "DEL",
-    "date": "2025-09-09",
-    "entryTime": "18:00",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/eisbaeren-berlin-dresdner-eisloewen/2025-09-09-1930",
-    "img": "https://www.uber-arena.de/assets/img/EBB-DRE-995cedd292.jpg",
-    "home": "Berlin",
-    "away": "Dresden"
-  },
-  {
-    "title": "Drake",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-11",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/drake-2025/2025-09-11-2000",
-    "img": "https://www.uber-arena.de/assets/img/Eventkalender-62f40a5721.png"
-  },
-  {
-    "title": "Drake",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-12",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/drake-2025/2025-09-12-2000",
-    "img": "https://www.uber-arena.de/assets/img/Eventkalender-62f40a5721.png"
-  },
-  {
-    "title": "Drake",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-14",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/drake-2025/2025-09-14-2000",
-    "img": "https://www.uber-arena.de/assets/img/Eventkalender-62f40a5721.png"
-  },
-  {
-    "title": "Ayliva",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-15",
-    "entryTime": "18:00",
-    "beginTime": "19:45",
-    "link": "https://www.uber-arena.de/events/detail/ayliva-25/2025-09-15-1945",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Ayliva_WS_460x205_01_61-a041aad2f6.jpg"
-  },
-  {
-    "title": "Ayliva",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-16",
-    "entryTime": "18:00",
-    "beginTime": "19:45",
-    "link": "https://www.uber-arena.de/events/detail/ayliva-25/2025-09-16-1945",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Ayliva_WS_460x205_01_61-a041aad2f6.jpg"
-  },
-  {
-    "title": "Ayliva",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-18",
-    "entryTime": "18:00",
-    "beginTime": "19:45",
-    "link": "https://www.uber-arena.de/events/detail/ayliva-25/2025-09-18-1945",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Ayliva_WS_460x205_01_61-a041aad2f6.jpg"
-  },
-  {
-    "title": "Yalin",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-24",
-    "entryTime": "18:30",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/yalin/2025-09-24-2000",
-    "img": "https://www.uber-arena.de/assets/img/Yalin_Thumb-0c2106add1.jpg"
-  },
-  {
-    "title": "ZEIT Verbrechen",
-    "category": "Event",
-    "section": "Show",
-    "date": "2025-09-25",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/zeit-verbrechen/2025-09-25-2000",
-    "img": "https://www.uber-arena.de/assets/img/ZeitVerbrechen_Thumb-9c332410da.jpg"
-  },
-  {
-    "title": "Eisbären Berlin - Straubing Tigers",
-    "category": "Eishockey",
-    "section": "DEL",
-    "date": "2025-09-26",
-    "entryTime": "18:00",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/eisbaeren-berlin-straubing-tigers-21/2025-09-26-1930",
-    "img": "https://www.uber-arena.de/assets/img/EBB-STRA-909932497a.jpg",
-    "home": "Berlin",
-    "away": "Straubing"
-  },
-  {
-    "title": "Montez",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-09-27",
-    "entryTime": "17:45",
-    "beginTime": "19:45",
-    "link": "https://www.uber-arena.de/events/detail/montez/2025-09-27-1945",
-    "img": "https://www.uber-arena.de/assets/img/Montez_Thumb-dc2f4e5079.jpg"
-  },
-  {
-    "title": "Eisbären Berlin - Schwenninger Wild Wings",
-    "category": "Eishockey",
-    "section": "DEL",
-    "date": "2025-09-28",
-    "entryTime": "12:30",
-    "beginTime": "14:00",
-    "link": "https://www.uber-arena.de/events/detail/eisbaeren-berlin-schwenninger-wild-wings-18/2025-09-28-1400",
-    "img": "https://www.uber-arena.de/assets/img/EBB-SWW-88ee10b4ef.jpg",
-    "home": "Berlin",
-    "away": "Schwenningen"
-  },
-  {
-    "title": "OneRepublic",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-02",
-    "entryTime": "17:00",
-    "beginTime": "19:00",
-    "link": "https://www.uber-arena.de/events/detail/onerepublic/2025-10-02-1900",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_OneRepublic_WS_460x205_01_61-04f0504b2b.jpg"
-  },
-  {
-    "title": "Volbeat",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-04",
-    "entryTime": "17:30",
-    "beginTime": "19:00",
-    "link": "https://www.uber-arena.de/events/detail/volbeat-25/2025-10-04-1900",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Volbeat_WS_460x205_01_61-577d168849.jpg"
-  },
-  {
-    "title": "Eisbären Berlin - ERC Ingolstadt",
-    "category": "Eishockey",
-    "section": "DEL",
-    "date": "2025-10-05",
-    "entryTime": "12:30",
-    "beginTime": "14:00",
-    "link": "https://www.uber-arena.de/events/detail/eisbaeren-berlin-erc-ingolstadt-22/2025-10-05-1400",
-    "img": "https://www.uber-arena.de/assets/img/EBB-ERC-d4507c7da2.jpg",
-    "home": "Berlin",
-    "away": "Ingolstadt"
-  },
-  {
-    "title": "Eisbären Berlin - HC Frölunda Göteborg",
-    "category": "Eishockey",
-    "section": "DEL",
-    "date": "2025-10-07",
-    "entryTime": "18:30",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/eisbaeren-berlin-hc-froelunda-goeteborg/2025-10-07-1930",
-    "img": "https://www.uber-arena.de/assets/img/EBB-FRO-05b5e86505.jpg",
-    "home": "Berlin",
-    "away": "Göteborg"
-  },
-  {
-    "title": "Eisbären Berlin - Nürnberg Ice Tigers",
-    "category": "Eishockey",
-    "section": "DEL",
-    "date": "2025-10-12",
-    "entryTime": "12:30",
-    "beginTime": "14:00",
-    "link": "https://www.uber-arena.de/events/detail/eisbaeren-berlin-nuernberg-ice-tigers-9/2025-10-12-1400",
-    "img": "https://www.uber-arena.de/assets/img/EBB-NIT-42411b1709.jpg",
-    "home": "Berlin",
-    "away": "Nürnberg"
-  },
-  {
-    "title": "Sting",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-16",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/sting-2025/2025-10-16-2000",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Sting_WS_460x205_01_61-e1722bc03c.jpg"
-  },
-  {
-    "title": "Eisbären Berlin - Grizzlys Wolfsburg",
-    "category": "Eishockey",
-    "section": "DEL",
-    "date": "2025-10-17",
-    "entryTime": "18:00",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/eisbaeren-berlin-grizzlys-wolfsburg-17/2025-10-17-1930",
-    "img": "https://www.uber-arena.de/assets/img/EBB-WOB-cf3fa1695d.jpg",
-    "home": "Berlin",
-    "away": "Wolfsburg"
-  },
-  {
-    "title": "One Vision of Queen - feat. Marc Martel",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-18",
-    "entryTime": "18:00",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/one-vision-2025/2025-10-18-1930",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_One_Vision_of_Queen_WS_460x205_01_61-a4bd37c252.jpg"
-  },
-  {
-    "title": "Simply Red",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-19",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/simply-red-2025/2025-10-19-2000",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Simply_Red_WS_460x205_01_61-7afa01781f.jpg"
-  },
-  {
-    "title": "Katy Perry",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-21",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/katy-perry-2025/2025-10-21-2000",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Katy_Perry_WS_460x205_01_61-76ae1e8101.jpg"
-  },
-  {
-    "title": "Hans Zimmer Live - The Next Level",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-23",
-    "entryTime": "17:30",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/hans-zimmer-2025/2025-10-23-1930",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Hans_Zimmer_WS_460x205_01_61-bc807b82dd.jpg"
-  },
-  {
-    "title": "Hans Zimmer Live - The Next Level",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-24",
-    "entryTime": "17:30",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/hans-zimmer-2025/2025-10-24-1930",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Hans_Zimmer_WS_460x205_01_61-bc807b82dd.jpg"
-  },
-  {
-    "title": "Eisbären Berlin - Augsburger Panther",
-    "category": "Eishockey",
-    "section": "DEL",
-    "date": "2025-10-25",
-    "entryTime": "18:30",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/eisbaeren-berlin-augsburger-panther-22/2025-10-25-2000",
-    "img": "https://www.uber-arena.de/assets/img/EBB-AEV-4fb45b36d0.jpg",
-    "home": "Berlin",
-    "away": "Augsburg"
-  },
-  {
-    "title": "The Offspring",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-27",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/the-offspring/2025-10-27-2000",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_The_Offspring_WS_460x205_01_61-ac6d13d2c1.jpg"
-  },
-  {
-    "title": "Eisbären Berlin - Adler Mannheim",
-    "category": "Eishockey",
-    "section": "DEL",
-    "date": "2025-10-29",
-    "entryTime": "18:00",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/eisbaeren-berlin-adler-mannheim-22/2025-10-29-1930",
-    "img": "https://www.uber-arena.de/assets/img/EBB-MAN-44e2b475e3.jpg",
-    "home": "Berlin",
-    "away": "Mannheim"
-  },
-  {
-    "title": "FiNCH",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-10-31",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/finch/2025-10-31-2000",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Finch_WS_460x205_01_61-70ee813b2c.jpg"
-  },
-  {
-    "title": "Eisbären Berlin - Fischtown Pinguins Bremerhaven",
-    "category": "Eishockey",
-    "section": "DEL",
-    "date": "2025-11-02",
-    "entryTime": "12:30",
-    "beginTime": "14:00",
-    "link": "https://www.uber-arena.de/events/detail/eisbaeren-berlin-bremerhaven-2/2025-11-02-1400",
-    "img": "https://www.uber-arena.de/assets/img/EBB-BHV-0d9854e5bd.jpg",
-    "home": "Berlin",
-    "away": "Bremerhaven"
-  },
-  {
-    "title": "Il Volo",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-03",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/il-volo/2025-11-03-2000",
-    "img": "https://www.uber-arena.de/assets/img/IlVolo_Thumb-d44e854426.jpg"
-  },
-  {
-    "title": "Lady Gaga",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-04",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/lady-gaga-26/2025-11-04-2000",
-    "img": "https://www.uber-arena.de/assets/img/Eventkalender-581de1f564.png"
-  },
-  {
-    "title": "Lady Gaga",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-05",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/lady-gaga-26/2025-11-05-2000",
-    "img": "https://www.uber-arena.de/assets/img/Eventkalender-581de1f564.png"
-  },
-  {
-    "title": "Let's Dance",
-    "category": "Event",
-    "section": "Show",
-    "date": "2025-11-07",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/lets-dance-2025/2025-11-07-2000",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Lets_Dance_WS_460x205_01_61-1502673130.jpg"
-  },
-  {
-    "title": "Nina Chuba",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-09",
-    "entryTime": "17:30",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/nina-chuba/2025-11-09-1930",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Nina_Chuba_WS_460x205_01_61-eb2cd49320.jpg"
-  },
-  {
-    "title": "Mumford & Sons",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-10",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/mumfordsons/2025-11-10-2000",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Mumford_and_Sons_WS_460x205_02_61-cd1b550d31.jpg"
-  },
-  {
-    "title": "SDP",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-12",
-    "entryTime": "17:30",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/sdp/2025-11-12-1930",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_SDP_WS_460x205_02_61-3954e82714.jpg"
-  },
-  {
-    "title": "SDP",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-13",
-    "entryTime": "17:30",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/sdp/2025-11-13-1930",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_SDP_WS_460x205_02_61-3954e82714.jpg"
-  },
-  {
-    "title": "Sabaton",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-15",
-    "entryTime": "17:00",
-    "beginTime": "19:00",
-    "link": "https://www.uber-arena.de/events/detail/sabaton-2025/2025-11-15-1900",
-    "img": "https://www.uber-arena.de/assets/img/Sabaton2025_Thumb-75ab729459.jpg"
-  },
-  {
-    "title": "Eisbären Berlin - Löwen Frankfurt",
-    "category": "Eishockey",
-    "section": "DEL",
-    "date": "2025-11-16",
-    "entryTime": "17:30",
-    "beginTime": "19:00",
-    "link": "https://www.uber-arena.de/events/detail/eisbaeren-berlin-loewen-frankfurt-6/2025-11-16-1900",
-    "img": "https://www.uber-arena.de/assets/img/EBB-FRA-435b29162e.jpg",
-    "home": "Berlin",
-    "away": "Frankfurt"
-  },
-  {
     "title": "Jamiroquai",
     "category": "Event",
     "section": "Konzert",
@@ -459,7 +17,7 @@
     "entryTime": "18:00",
     "beginTime": "18:30",
     "link": "https://www.uber-arena.de/events/detail/tom-odell-25/2025-11-20-1830",
-    "img": "https://www.uber-arena.de/assets/img/TomOdell_Thumb-88f4fd66fa.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-feb1eec386.jpg"
   },
   {
     "title": "Eisbären Berlin - EHC Red Bull München",
@@ -541,17 +99,17 @@
     "entryTime": "18:00",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/electric-callboy/2025-11-28-2000",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Electric_Callboy_WS_460x205_01_61-88a6af4337.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-a89072c306.png"
   },
   {
-    "title": "We love MMA",
+    "title": "We Love MMA",
     "category": "MMA",
     "section": "MMA",
     "date": "2025-11-29",
     "entryTime": "18:00",
     "beginTime": "19:00",
     "link": "https://www.uber-arena.de/events/detail/we-love-mma-25/2025-11-29-1900",
-    "img": "https://www.uber-arena.de/assets/img/2024_UA_We_Love_MMA_WS_460x205_01_61-3fefaad071.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-22bf9eb1d5.png"
   },
   {
     "title": "Eisbären Berlin - Kölner Haie",
@@ -610,6 +168,46 @@
     "away": "Dresden"
   },
   {
+    "title": "Radiohead",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-12-08",
+    "entryTime": "18:00",
+    "beginTime": "TBD",
+    "link": "https://www.uber-arena.de/events/detail/radiohead",
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-64b293d5cc.png"
+  },
+  {
+    "title": "Radiohead",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-12-09",
+    "entryTime": "18:00",
+    "beginTime": "TBD",
+    "link": "https://www.uber-arena.de/events/detail/radiohead",
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-64b293d5cc.png"
+  },
+  {
+    "title": "Radiohead",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-12-11",
+    "entryTime": "18:00",
+    "beginTime": "TBD",
+    "link": "https://www.uber-arena.de/events/detail/radiohead",
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-64b293d5cc.png"
+  },
+  {
+    "title": "Radiohead",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2025-12-12",
+    "entryTime": "18:00",
+    "beginTime": "TBD",
+    "link": "https://www.uber-arena.de/events/detail/radiohead",
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-64b293d5cc.png"
+  },
+  {
     "title": "Eisbären Berlin - Schwenninger Wild Wings",
     "category": "Eishockey",
     "section": "DEL",
@@ -620,6 +218,16 @@
     "img": "https://www.uber-arena.de/assets/img/EBB-SWW-88ee10b4ef.jpg",
     "home": "Berlin",
     "away": "Schwenningen"
+  },
+  {
+    "title": "ALBA BERLIN - Sabah BC",
+    "category": "Basketball",
+    "section": "BBL",
+    "date": "2025-12-16",
+    "entryTime": "19:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/alba-berlin-nymburk-1/2025-12-16-2000",
+    "img": "https://www.uber-arena.de/assets/img/ALBA-Kalender_Thumbnails_ohneGegner-1612b06c75.png"
   },
   {
     "title": "Böhse Onkelz",
@@ -640,6 +248,16 @@
     "beginTime": "19:30",
     "link": "https://www.uber-arena.de/events/detail/boehse-onkelz-25/2025-12-18-1930",
     "img": "https://www.uber-arena.de/assets/img/BhseOnkelz25_Thumb-f77c805ee3.jpg"
+  },
+  {
+    "title": "ALBA BERLIN - ratiopharm Ulm",
+    "category": "Basketball",
+    "section": "BBL",
+    "date": "2025-12-20",
+    "entryTime": "17:30",
+    "beginTime": "18:30",
+    "link": "https://www.uber-arena.de/events/detail/alba-berlin-ulm/2025-12-20-1830",
+    "img": "https://www.uber-arena.de/assets/img/ALBA-Ulm-1.png"
   },
   {
     "title": "Eisbären Berlin - Kölner Haie",
@@ -678,6 +296,16 @@
     "away": "Nürnberg"
   },
   {
+    "title": "ALBA BERLIN - Basketball Löwen Braunschweig",
+    "category": "Basketball",
+    "section": "BBL",
+    "date": "2025-12-30",
+    "entryTime": "19:00",
+    "beginTime": "18:30",
+    "link": "https://www.uber-arena.de/events/detail/alba-berlin-braunschweig-6/2025-12-30-1830",
+    "img": "https://www.uber-arena.de/assets/img/ALBA-Braunschweig-1-9973650c64.png"
+  },
+  {
     "title": "Eisbären Berlin - Löwen Frankfurt",
     "category": "Eishockey",
     "section": "DEL",
@@ -702,6 +330,16 @@
     "away": "Augsburg"
   },
   {
+    "title": "WWE Live SmackDown",
+    "category": "Sport",
+    "section": "Sport",
+    "date": "2026-01-09",
+    "entryTime": "17:30",
+    "beginTime": "19:30",
+    "link": "https://www.uber-arena.de/events/detail/wwe-2026/2026-01-09-1930",
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-d2e298d927.png"
+  },
+  {
     "title": "Bushido",
     "category": "Event",
     "section": "Konzert",
@@ -710,6 +348,16 @@
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/bushido-2026/2026-01-12-2000",
     "img": "https://www.uber-arena.de/assets/img/2026_UA_Bushido_WS_460x205_01_61-585bc33a2d.jpg"
+  },
+  {
+    "title": "NBA: Orlando Magic vs. Memphis Grizzlies",
+    "category": "Basketball",
+    "section": "BBL",
+    "date": "2026-01-15",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/nba2026/2026-01-15-2000",
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-1823185ba0.png"
   },
   {
     "title": "CAVALLUNA - Tor zur Anderswelt",
@@ -759,7 +407,17 @@
     "entryTime": "18:00",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/xavier-naidoo-26/2026-01-20-2000",
-    "img": "https://www.uber-arena.de/assets/img/XavierNaidoo_thumb-0b391cd616.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-534d117e17.jpg"
+  },
+  {
+    "title": "Xavier Naidoo",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-01-21",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/xavier-naidoo-26/2026-01-21-2000",
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-534d117e17.jpg"
   },
   {
     "title": "Eisbären Berlin - ERC Ingolstadt",
@@ -772,6 +430,16 @@
     "img": "https://www.uber-arena.de/assets/img/EBB-ERC-d4507c7da2.jpg",
     "home": "Berlin",
     "away": "Ingolstadt"
+  },
+  {
+    "title": "RAYE",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-01-24",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/raye/2026-01-24-2000",
+    "img": "https://www.uber-arena.de/assets/img/Raye_Thumb-dcfd5465a6.jpg"
   },
   {
     "title": "Feuerwerk der Turnkunst - VIVA",
@@ -858,20 +526,20 @@
     "category": "Event",
     "section": "Show",
     "date": "2026-02-07",
-    "entryTime": "12:00",
-    "beginTime": "14:00",
-    "link": "https://www.uber-arena.de/events/detail/notj-2026/2026-02-07-1400",
-    "img": "https://www.uber-arena.de/assets/img/2026_UA_Night_Of_The_Jumps_WS_460x205_01_61-c76fb6e888.jpg"
-  },
-  {
-    "title": "NIGHT of the JUMPs",
-    "category": "Event",
-    "section": "Show",
-    "date": "2026-02-07",
     "entryTime": "17:30",
     "beginTime": "19:00",
     "link": "https://www.uber-arena.de/events/detail/notj-2026/2026-02-07-1900",
-    "img": "https://www.uber-arena.de/assets/img/2026_UA_Night_Of_The_Jumps_WS_460x205_01_61-c76fb6e888.jpg"
+    "img": "https://www.uber-arena.de/assets/img/NOTJ26_Thumb-deb36a523a.jpg"
+  },
+  {
+    "title": "Herbert Grönemeyer",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-02-09",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/groenemeyer-26/2026-02-09-2000",
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-171026bd36.png"
   },
   {
     "title": "NEUES DATUM: Dr. Jordan B. Peterson",
@@ -884,6 +552,16 @@
     "img": "https://www.uber-arena.de/assets/img/2025_UA_Dr_Jordan_B_Peterson_WS_460x205_01_61-f553253a88.jpg"
   },
   {
+    "title": "Dave",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-02-13",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/dave/2026-02-13-2000",
+    "img": "https://www.uber-arena.de/assets/img/Dave_Thumb-86a5756f1e.jpg"
+  },
+  {
     "title": "Michelle",
     "category": "Event",
     "section": "Konzert",
@@ -891,7 +569,7 @@
     "entryTime": "17:30",
     "beginTime": "19:00",
     "link": "https://www.uber-arena.de/events/detail/michelle/2026-02-15-1900",
-    "img": "https://www.uber-arena.de/assets/img/Michelle26_Thumb-a2c7035f37.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-4a3ad87a0c.png"
   },
   {
     "title": "90s Super Show",
@@ -912,6 +590,16 @@
     "beginTime": "19:30",
     "link": "https://www.uber-arena.de/events/detail/ben-zucker-26/2026-02-22-1930",
     "img": "https://www.uber-arena.de/assets/img/Eventkalender-6117044ce5.png"
+  },
+  {
+    "title": "mgk",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-02-24",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/mgk/2026-02-24-2000",
+    "img": "https://www.uber-arena.de/assets/img/MGK_Thumb-9f5000bc9d.jpg"
   },
   {
     "title": "Eisbären Berlin - Straubing Tigers",
@@ -945,7 +633,7 @@
     "entryTime": "17:30",
     "beginTime": "19:30",
     "link": "https://www.uber-arena.de/events/detail/andre-rieu-26/2026-02-28-1930",
-    "img": "https://www.uber-arena.de/assets/img/AndreRieu26_Thumb-9275560dad.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-d5c60e40e3.jpg"
   },
   {
     "title": "Eisbären Berlin - Fischtown Pinguins Bremerhaven",
@@ -967,7 +655,17 @@
     "entryTime": "18:00",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/ramazzotti-26/2026-03-02-2000",
-    "img": "https://www.uber-arena.de/assets/img/Eros26_Thumb-3ba03fda8d.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-7600b5cc0e.jpg"
+  },
+  {
+    "title": "Wu-Tang Clan",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-03-03",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/wu-tang-clan/2026-03-03-2000",
+    "img": "https://www.uber-arena.de/assets/img/WuTangClan_Thumb-0acbe8622a.jpg"
   },
   {
     "title": "ISTAF INDOOR",
@@ -990,6 +688,16 @@
     "img": "https://www.uber-arena.de/assets/img/2026_UA_Bushido_WS_460x205_01_61-585bc33a2d.jpg"
   },
   {
+    "title": "Florence + The Machine",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-03-09",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/fatm-26/2026-03-09-2000",
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-49d843610c.png"
+  },
+  {
     "title": "Felix Lobrecht",
     "category": "Event",
     "section": "Comedy",
@@ -1008,17 +716,6 @@
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/felix-lobrecht-2026/2026-03-11-2000",
     "img": "https://www.uber-arena.de/assets/img/FelixLobrecht26_Thumb-d709b962bc.jpg"
-  },
-  {
-    "title": "PlayStation: The Concert",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-03-12",
-    "entryTime": "18:30",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/playstation-the-concert/2026-03-12-2000",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Playstation_The_Concert_WS_460x205_01_61-723958d986.jpg",
-    "info": "Neuer Termin"
   },
   {
     "title": "Eisbären Berlin - Adler Mannheim",
@@ -1040,7 +737,7 @@
     "entryTime": "18:00",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/sarah-connor-26/2026-03-14-2000",
-    "img": "https://www.uber-arena.de/assets/img/2026_UA_Sarah_Connor_WS_460x205_01_61-5725b89077.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-d2c3021881.png"
   },
   {
     "title": "Eisbären Berlin - EHC Red Bull München",
@@ -1062,7 +759,7 @@
     "entryTime": "16:30",
     "beginTime": "18:30",
     "link": "https://www.uber-arena.de/events/detail/herr-der-ringe-26/2026-03-19-1830",
-    "img": "https://www.uber-arena.de/assets/img/HdR-2026_thumb-e2ff53d50a.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-e381261e43.png"
   },
   {
     "title": "Clueso",
@@ -1072,7 +769,17 @@
     "entryTime": "18:00",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/clueso/2026-03-21-2000",
-    "img": "https://www.uber-arena.de/assets/img/Clueso_Thumb-551af68f6e.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-eb77263d21.png"
+  },
+  {
+    "title": "BetMGM Premier League Darts",
+    "category": "Sport",
+    "section": "Sport",
+    "date": "2026-03-26",
+    "entryTime": "17:30",
+    "beginTime": "19:00",
+    "link": "https://www.uber-arena.de/events/detail/darts-26/2026-03-26-1900",
+    "img": "https://www.uber-arena.de/assets/img/Darts2026_Thumb-9f97d6c413.jpg"
   },
   {
     "title": "Kaya Yanar",
@@ -1082,18 +789,27 @@
     "entryTime": "18:30",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/kaya-yanar-26/2026-03-28-2000",
-    "img": "https://www.uber-arena.de/assets/img/Kaya_Thumb-9f05e8da9d.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-4597304e93.png"
   },
   {
-    "title": "7 vs. Wild",
+    "title": "Louis Tomlinson",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-04-01",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/louis-tomlinson/2026-04-01-2000",
+    "img": "https://www.uber-arena.de/assets/img/LouisTomlinson_Thumb-49e427d457.jpg"
+  },
+  {
+    "title": "Abgesagt: 7 vs. Wild",
     "category": "Event",
     "section": "Show",
     "date": "2026-04-07",
     "entryTime": "17:30",
     "beginTime": "19:30",
     "link": "https://www.uber-arena.de/events/detail/7-vs-wild/2026-04-07-1930",
-    "img": "https://www.uber-arena.de/assets/img/2026_UA_7vsWild_WS_460x205_02_61-34b73341aa.jpg",
-    "info": "Neuer Termin"
+    "img": "https://www.uber-arena.de/assets/img/2026_UA_7vsWild_WS_460x205_02_61-34b73341aa.jpg"
   },
   {
     "title": "Santiano",
@@ -1103,17 +819,27 @@
     "entryTime": "18:00",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/santiano-2026/2026-04-11-2000",
-    "img": "https://www.uber-arena.de/assets/img/Santiano_Thumb-063b79c105.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-596bef1b41.png"
   },
   {
-    "title": "Howard Carpendale",
+    "title": "Alex Warren",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-04-13",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/alex-warren/2026-04-13-2000",
+    "img": "https://www.uber-arena.de/assets/img/AlexWarren_Thumb-f80ac11bf7.jpg"
+  },
+  {
+    "title": "Howard Carpendale - Meine Abschiedstournee",
     "category": "Event",
     "section": "Konzert",
     "date": "2026-04-16",
     "entryTime": "18:00",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/howard-carpendale-2026/2026-04-16-2000",
-    "img": "https://www.uber-arena.de/assets/img/2026_UA_Howard_Carpendale_WS_460x205_02_61-d30c23d6d3.jpg"
+    "img": "https://www.uber-arena.de/assets/img/HowardCarpendale_Thumb-21fb72d035.jpg"
   },
   {
     "title": "ABBAMANIA THE SHOW",
@@ -1126,6 +852,16 @@
     "img": "https://www.uber-arena.de/assets/img/2026_UA_Abbamania_WS_460x205_01_61-d931b32900.png"
   },
   {
+    "title": "5 Seconds of Summer",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-04-21",
+    "entryTime": "17:30",
+    "beginTime": "19:00",
+    "link": "https://www.uber-arena.de/events/detail/5sos-26/2026-04-21-1900",
+    "img": "https://www.uber-arena.de/assets/img/5SoS_thumb-3084dafe44.jpg"
+  },
+  {
     "title": "Nico Stank",
     "category": "Event",
     "section": "Comedy",
@@ -1136,6 +872,16 @@
     "img": "https://www.uber-arena.de/assets/img/NICO-STANK_Berlin-Uber-Arena_WS_314x142px-9345def950.jpg"
   },
   {
+    "title": "Tame Impala",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-04-29",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/tame-impala/2026-04-29-2000",
+    "img": "https://www.uber-arena.de/assets/img/TameImpala_Thumb-aee16c1267.jpg"
+  },
+  {
     "title": "Johannes Oerding",
     "category": "Event",
     "section": "Konzert",
@@ -1143,7 +889,7 @@
     "entryTime": "17:30",
     "beginTime": "19:30",
     "link": "https://www.uber-arena.de/events/detail/johannes-oerding-2026/2026-05-02-1930",
-    "img": "https://www.uber-arena.de/assets/img/2026_UA_Johannes_Oerding_WS_460x205_01_61-f57d85762d.jpg"
+    "img": "https://www.uber-arena.de/assets/img/JohannesOerding26_Thumb-760d43eb2d.jpg"
   },
   {
     "title": "Michael Patrick Kelly",
@@ -1170,7 +916,7 @@
     "category": "Event",
     "section": "Show",
     "date": "2026-05-10",
-    "entryTime": "keine Daten",
+    "entryTime": "00:00",
     "beginTime": "11:00",
     "link": "https://www.uber-arena.de/events/detail/diamonds-zusatz/2026-05-10-1100",
     "img": "https://www.uber-arena.de/assets/img/Eventkalender-36d5e5f2f9.png"
@@ -1193,7 +939,7 @@
     "entryTime": "18:00",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/freiwild-2026/2026-05-15-2000",
-    "img": "https://www.uber-arena.de/assets/img/Freiwild_Thumb-0b91a23b64.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-314b139dbc.png"
   },
   {
     "title": "Schiller",
@@ -1204,6 +950,16 @@
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/schiller-2026/2026-05-16-2000",
     "img": "https://www.uber-arena.de/assets/img/2026_UA_Schiller_Euphoria_WS_460x205_01_61-7a9087448e.jpg"
+  },
+  {
+    "title": "TWICE",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-05-23",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/twice-2026/2026-05-23-2000",
+    "img": "https://www.uber-arena.de/assets/img/TWICE_Thumb-52de68cc95.jpg"
   },
   {
     "title": "Zucchero",
@@ -1233,7 +989,7 @@
     "entryTime": "17:30",
     "beginTime": "19:00",
     "link": "https://www.uber-arena.de/events/detail/6kunited-26/2026-06-11-1900",
-    "img": "https://www.uber-arena.de/assets/img/UberArena_KV_960x197-1-7110ab0038.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-c2851530c3.png"
   },
   {
     "title": "6K UNITED!",
@@ -1243,7 +999,7 @@
     "entryTime": "17:30",
     "beginTime": "19:00",
     "link": "https://www.uber-arena.de/events/detail/6kunited-26/2026-06-12-1900",
-    "img": "https://www.uber-arena.de/assets/img/UberArena_KV_960x197-1-7110ab0038.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-c2851530c3.png"
   },
   {
     "title": "DJ BoBo",
@@ -1253,7 +1009,27 @@
     "entryTime": "18:30",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/djbobo_2026/2026-06-13-2000",
-    "img": "https://www.uber-arena.de/assets/img/DJBobo_Thumb-06e60f4ecf.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-8615ee9667.jpg"
+  },
+  {
+    "title": "DJ BoBo",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-06-14",
+    "entryTime": "16:30",
+    "beginTime": "18:00",
+    "link": "https://www.uber-arena.de/events/detail/djbobo_2026/2026-06-14-1800",
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-8615ee9667.jpg"
+  },
+  {
+    "title": "Doja Cat",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-06-17",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/doja-cat/2026-06-17-2000",
+    "img": "https://www.uber-arena.de/assets/img/DojaCat_Thumb-62ec949781.jpg"
   },
   {
     "title": "6K UNITED!",
@@ -1263,7 +1039,17 @@
     "entryTime": "17:30",
     "beginTime": "19:00",
     "link": "https://www.uber-arena.de/events/detail/6kunited-26/2026-07-02-1900",
-    "img": "https://www.uber-arena.de/assets/img/UberArena_KV_960x197-1-7110ab0038.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-c2851530c3.png"
+  },
+  {
+    "title": "6K UNITED!",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-07-03",
+    "entryTime": "17:30",
+    "beginTime": "19:00",
+    "link": "https://www.uber-arena.de/events/detail/6kunited-26/2026-07-03-1900",
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-c2851530c3.png"
   },
   {
     "title": "DIKKA",
@@ -1274,6 +1060,46 @@
     "beginTime": "17:00",
     "link": "https://www.uber-arena.de/events/detail/dikka-2026/2026-07-04-1700",
     "img": "https://www.uber-arena.de/assets/img/Dikka2026_Thumb-5b28448c95.jpg"
+  },
+  {
+    "title": "Critical Role: Echoes of Exandria - Live! 2026",
+    "category": "Event",
+    "section": "Show",
+    "date": "2026-07-06",
+    "entryTime": "17:00",
+    "beginTime": "18:30",
+    "link": "https://www.uber-arena.de/events/detail/critical-role/2026-07-06-1830",
+    "img": "https://www.uber-arena.de/assets/img/CriticalRole_Thumb-82a365e076.jpg"
+  },
+  {
+    "title": "Lenny Kravitz",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-07-27",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/lenny-kravitz-26/2026-07-27-2000",
+    "img": "https://www.uber-arena.de/assets/img/LennyKravitz_Thumb-b2653faf3a.jpg"
+  },
+  {
+    "title": "Jazeek",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-09-23",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/jazeek-26/2026-09-23-2000",
+    "img": "https://www.uber-arena.de/assets/img/Jazeek_Thumb-1c59a57ae4.jpg"
+  },
+  {
+    "title": "Chris Norman",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-10-17",
+    "entryTime": "18:00",
+    "beginTime": "19:30",
+    "link": "https://www.uber-arena.de/events/detail/chris-norman/2026-10-17-1930",
+    "img": "https://www.uber-arena.de/assets/img/ChrisNorman_Thumb-0a2affae4f.jpg"
   },
   {
     "title": "Beatrice Egli",
@@ -1296,6 +1122,16 @@
     "img": "https://www.uber-arena.de/assets/img/WorldHansZimmer_Thumb-67a0bdc073.jpg"
   },
   {
+    "title": "Joe Bonamassa",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-10-30",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/joe-bonamassa-3/2026-10-30-2000",
+    "img": "https://www.uber-arena.de/assets/img/Bonamassa_Thumb-03c91a1c2e.jpg"
+  },
+  {
     "title": "Disney in Concert",
     "category": "Event",
     "section": "Konzert",
@@ -1306,6 +1142,16 @@
     "img": "https://www.uber-arena.de/assets/img/DisneyInConcert_Thumb-8af1aef5cd.jpg"
   },
   {
+    "title": "Deep Purple",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-11-04",
+    "entryTime": "17:30",
+    "beginTime": "19:30",
+    "link": "https://www.uber-arena.de/events/detail/deep-purple-26/2026-11-04-1930",
+    "img": "https://www.uber-arena.de/assets/img/DeepPurple26_Thumb-55244d807d.jpg"
+  },
+  {
     "title": "Tokio Hotel",
     "category": "Event",
     "section": "Konzert",
@@ -1314,6 +1160,36 @@
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/tokio-hotel-2026/2026-11-07-2000",
     "img": "https://www.uber-arena.de/assets/img/TokioHotel_Thumb-709eafbd7f.jpg"
+  },
+  {
+    "title": "Bloc Party & Interpol",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-11-11",
+    "entryTime": "18:00",
+    "beginTime": "19:15",
+    "link": "https://www.uber-arena.de/events/detail/bloc-party-interpol/2026-11-11-1915",
+    "img": "https://www.uber-arena.de/assets/img/BlocPartyInterpol_Thumb-3b101e4bc4.jpg"
+  },
+  {
+    "title": "Laura Larsson",
+    "category": "Event",
+    "section": "Show",
+    "date": "2026-11-12",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/laura-larsson/2026-11-12-2000",
+    "img": "https://www.uber-arena.de/assets/img/LauraLarsson_Thumb-0ab1ef3192.jpg"
+  },
+  {
+    "title": "Let's Dance",
+    "category": "Event",
+    "section": "Show",
+    "date": "2026-11-13",
+    "entryTime": "17:30",
+    "beginTime": "19:30",
+    "link": "https://www.uber-arena.de/events/detail/lets-dance-26/2026-11-13-1930",
+    "img": "https://www.uber-arena.de/assets/img/LetsDance_Thumb-116385e4f2.jpg"
   },
   {
     "title": "Felix Lobrecht",
@@ -1333,7 +1209,37 @@
     "entryTime": "18:00",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/chris-tall-2026/2026-11-28-2000",
-    "img": "https://www.uber-arena.de/assets/img/ChrisTall_Thumb-b9e0c4f236.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-fdae715bde.png"
+  },
+  {
+    "title": "Die besten Comedians Deutschlands Live",
+    "category": "Event",
+    "section": "Comedy",
+    "date": "2026-12-01",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/beste-comedians-26/2026-12-01-2000",
+    "img": "https://www.uber-arena.de/assets/img/Comedians_Thumb-d5b73e0500.jpg"
+  },
+  {
+    "title": "PUR",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-12-02",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/pur-26/2026-12-02-2000",
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-9eec2db594.png"
+  },
+  {
+    "title": "BAP",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-12-08",
+    "entryTime": "17:30",
+    "beginTime": "19:30",
+    "link": "https://www.uber-arena.de/events/detail/bap/2026-12-08-1930",
+    "img": "https://www.uber-arena.de/assets/img/BAP26_Thumb-657eb3626f.jpg"
   },
   {
     "title": "Sascha Grammel",
@@ -1344,5 +1250,115 @@
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/sascha-grammel/2026-12-11-2000",
     "img": "https://www.uber-arena.de/assets/img/2026_UA_Sascha_Grammel_WS_460x205_01_61-573e61ff1f.jpg"
+  },
+  {
+    "title": "Die Fantastischen Vier",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-12-17",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/die-fantastischen-vier-2/2026-12-17-2000",
+    "img": "https://www.uber-arena.de/assets/img/Fanta4_thumb-0538753a49.jpg"
+  },
+  {
+    "title": "Matthias Reim",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-12-28",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/matthias-reim-26/2026-12-28-2000",
+    "img": "https://www.uber-arena.de/assets/img/MatthiasReim26_Thumb-1835bcd2b3.jpg"
+  },
+  {
+    "title": "Riverdance",
+    "category": "Event",
+    "section": "Show",
+    "date": "2027-02-02",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/riverdance-27/2027-02-02-2000",
+    "img": "https://www.uber-arena.de/assets/img/Riverdance27_Thumb-42436e7ec0.jpg"
+  },
+  {
+    "title": "Unheilig",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2027-02-06",
+    "entryTime": "18:00",
+    "beginTime": "19:15",
+    "link": "https://www.uber-arena.de/events/detail/unheilig-27/2027-02-06-1915",
+    "img": "https://www.uber-arena.de/assets/img/Unheilig_Thumb-c785a6c505.jpg"
+  },
+  {
+    "title": "One Vision of Queen - feat. Marc Martel",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2027-02-09",
+    "entryTime": "18:00",
+    "beginTime": "19:30",
+    "link": "https://www.uber-arena.de/events/detail/one-vision-27/2027-02-09-1930",
+    "img": "https://www.uber-arena.de/assets/img/OVOQ27_Thumb-19ea1f8f69.jpg"
+  },
+  {
+    "title": "Martin Rütter",
+    "category": "Event",
+    "section": "Show",
+    "date": "2027-02-13",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/martin-ruetter-27/2027-02-13-2000",
+    "img": "https://www.uber-arena.de/assets/img/MartinRtter27_Thumb-8a293119f4.jpg"
+  },
+  {
+    "title": "Hazel Brugger",
+    "category": "Event",
+    "section": "Comedy",
+    "date": "2027-03-03",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/hazel-brugger/2027-03-03-2000",
+    "img": "https://www.uber-arena.de/assets/img/HazelBrugger_Thumb-9c2ae131cb.jpg"
+  },
+  {
+    "title": "Maite Kelly",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2027-03-18",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/maite-kelly-berlin/2027-03-18-2000",
+    "img": "https://www.uber-arena.de/assets/img/MaiteKelly_Thumb-bfe06217a0.jpg"
+  },
+  {
+    "title": "LEA",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2027-05-02",
+    "entryTime": "17:30",
+    "beginTime": "19:00",
+    "link": "https://www.uber-arena.de/events/detail/lea/2027-05-02-1900",
+    "img": "https://www.uber-arena.de/assets/img/LEA_Thumb-e89ae1b30d.jpg"
+  },
+  {
+    "title": "Torsten Sträter",
+    "category": "Event",
+    "section": "Comedy",
+    "date": "2027-05-08",
+    "entryTime": "18:00",
+    "beginTime": "20:00",
+    "link": "https://www.uber-arena.de/events/detail/torsten-straeter-27/2027-05-08-2000",
+    "img": "https://www.uber-arena.de/assets/img/Strter27_Thumb-807f7faed9.jpg"
+  },
+  {
+    "title": "Andrea Berg",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2027-10-30",
+    "entryTime": "17:30",
+    "beginTime": "19:30",
+    "link": "https://www.uber-arena.de/events/detail/andrea-berg-27/2027-10-30-1930",
+    "img": "https://www.uber-arena.de/assets/img/AndreaBerg27_Thumb-6f67ed7790.jpg"
   }
 ]
