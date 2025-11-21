@@ -1,37 +1,5 @@
 [
   {
-    "title": "Jamiroquai",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-19",
-    "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/jamiroquai-2025/2025-11-19-2000",
-    "img": "https://www.uber-arena.de/assets/img/2025_UA_Jamiroquai_WS_460x205_01_61-b67427277d.jpg"
-  },
-  {
-    "title": "Tom Odell",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-20",
-    "entryTime": "18:00",
-    "beginTime": "18:30",
-    "link": "https://www.uber-arena.de/events/detail/tom-odell-25/2025-11-20-1830",
-    "img": "https://www.uber-arena.de/assets/img/Eventkalender-feb1eec386.jpg"
-  },
-  {
-    "title": "Eisbären Berlin - EHC Red Bull München",
-    "category": "Eishockey",
-    "section": "DEL",
-    "date": "2025-11-21",
-    "entryTime": "18:00",
-    "beginTime": "19:30",
-    "link": "https://www.uber-arena.de/events/detail/eisbaeren-berlin-red-bull-muenchen-4/2025-11-21-1930",
-    "img": "https://www.uber-arena.de/assets/img/EBB-MUE-1fdb2c1e0d.jpg",
-    "home": "Berlin",
-    "away": "München"
-  },
-  {
     "title": "Die Schlagernacht des Jahres",
     "category": "Event",
     "section": "Konzert",
@@ -47,8 +15,8 @@
     "section": "Konzert",
     "date": "2025-11-23",
     "entryTime": "18:00",
-    "beginTime": "20:00",
-    "link": "https://www.uber-arena.de/events/detail/big-time-rush-2025/2025-11-23-2000",
+    "beginTime": "19:00",
+    "link": "https://www.uber-arena.de/events/detail/big-time-rush-2025/2025-11-23-1900",
     "img": "https://www.uber-arena.de/assets/img/Eventkalender-30159d3b13.jpg"
   },
   {
@@ -173,8 +141,8 @@
     "section": "Konzert",
     "date": "2025-12-08",
     "entryTime": "18:00",
-    "beginTime": "TBD",
-    "link": "https://www.uber-arena.de/events/detail/radiohead",
+    "beginTime": "19:30",
+    "link": "https://www.uber-arena.de/events/detail/radiohead/2025-12-08-1930",
     "img": "https://www.uber-arena.de/assets/img/Eventkalender-64b293d5cc.png"
   },
   {
@@ -183,8 +151,8 @@
     "section": "Konzert",
     "date": "2025-12-09",
     "entryTime": "18:00",
-    "beginTime": "TBD",
-    "link": "https://www.uber-arena.de/events/detail/radiohead",
+    "beginTime": "19:30",
+    "link": "https://www.uber-arena.de/events/detail/radiohead/2025-12-09-1930",
     "img": "https://www.uber-arena.de/assets/img/Eventkalender-64b293d5cc.png"
   },
   {
@@ -193,8 +161,8 @@
     "section": "Konzert",
     "date": "2025-12-11",
     "entryTime": "18:00",
-    "beginTime": "TBD",
-    "link": "https://www.uber-arena.de/events/detail/radiohead",
+    "beginTime": "19:30",
+    "link": "https://www.uber-arena.de/events/detail/radiohead/2025-12-11-1930",
     "img": "https://www.uber-arena.de/assets/img/Eventkalender-64b293d5cc.png"
   },
   {
@@ -203,8 +171,8 @@
     "section": "Konzert",
     "date": "2025-12-12",
     "entryTime": "18:00",
-    "beginTime": "TBD",
-    "link": "https://www.uber-arena.de/events/detail/radiohead",
+    "beginTime": "19:30",
+    "link": "https://www.uber-arena.de/events/detail/radiohead/2025-12-12-1930",
     "img": "https://www.uber-arena.de/assets/img/Eventkalender-64b293d5cc.png"
   },
   {
@@ -300,7 +268,7 @@
     "category": "Basketball",
     "section": "BBL",
     "date": "2025-12-30",
-    "entryTime": "19:00",
+    "entryTime": "17:00",
     "beginTime": "18:30",
     "link": "https://www.uber-arena.de/events/detail/alba-berlin-braunschweig-6/2025-12-30-1830",
     "img": "https://www.uber-arena.de/assets/img/ALBA-Braunschweig-1-9973650c64.png"
@@ -802,14 +770,15 @@
     "img": "https://www.uber-arena.de/assets/img/LouisTomlinson_Thumb-49e427d457.jpg"
   },
   {
-    "title": "Abgesagt: 7 vs. Wild",
+    "title": "7 vs. Wild",
     "category": "Event",
     "section": "Show",
     "date": "2026-04-07",
     "entryTime": "17:30",
     "beginTime": "19:30",
     "link": "https://www.uber-arena.de/events/detail/7-vs-wild/2026-04-07-1930",
-    "img": "https://www.uber-arena.de/assets/img/2026_UA_7vsWild_WS_460x205_02_61-34b73341aa.jpg"
+    "img": "https://www.uber-arena.de/assets/img/2026_UA_7vsWild_WS_460x205_02_61-34b73341aa.jpg",
+    "info": "Abgesagt"
   },
   {
     "title": "Santiano",
@@ -1192,6 +1161,16 @@
     "img": "https://www.uber-arena.de/assets/img/LetsDance_Thumb-116385e4f2.jpg"
   },
   {
+    "title": "Die Schlagernacht des Jahres",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-11-21",
+    "entryTime": "16:30",
+    "beginTime": "18:00",
+    "link": "https://www.uber-arena.de/events/detail/schlagernacht-2026/2026-11-21-1800",
+    "img": "https://www.uber-arena.de/assets/img/_Schlagern26Thumb-3dfdfe8a7c.jpg"
+  },
+  {
     "title": "Felix Lobrecht",
     "category": "Event",
     "section": "Comedy",
@@ -1270,6 +1249,16 @@
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/matthias-reim-26/2026-12-28-2000",
     "img": "https://www.uber-arena.de/assets/img/MatthiasReim26_Thumb-1835bcd2b3.jpg"
+  },
+  {
+    "title": "Unheilig",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2027-01-07",
+    "entryTime": "17:30",
+    "beginTime": "19:15",
+    "link": "https://www.uber-arena.de/events/detail/unheilig-27/2027-01-07-1915",
+    "img": "https://www.uber-arena.de/assets/img/Unheilig_Thumb-c785a6c505.jpg"
   },
   {
     "title": "Riverdance",
