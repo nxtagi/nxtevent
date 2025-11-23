@@ -1,1123 +1,939 @@
-[
-  {
-    "id": "251112-2000-01",
-    "title": "kwn",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-12",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-12-kwn",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7860/medium_kwn.png",
-    "ticket": "https://www.ticketmaster.de/event/1468961512",
-    "vendor": [
-      "ticketmaster"
-    ],
-    "eb-price": "",
-    "ps-price": 29,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251113-2000-01",
-    "title": "JOHN BUTLER",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-13",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-13-john-butler",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7820/medium_john-butler-live-berlin-1200x900.jpeg",
-    "ticket": "https://www.eventim.de/event/john-butler-uk-euro-tour-2025-astra-kulturhaus-20296999",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 35,
-    "bo-price": 48,
-    "info": ""
-  },
-  {
-    "id": "251114-2000-01",
-    "title": "NORTHERN LITE",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-14",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-14-northern-lite",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12436/medium_Berlin_5-4_Post.png",
-    "ticket": "https://www.eventim.de/event/northern-lite-vorwaerts-leben-tour-astra-kulturhaus-20068389",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 35,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251115-1830-01",
-    "title": "​NOTHING MORE",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-15",
-    "entryTime": "17:30",
-    "beginTime": "18:30",
-    "link": "https://www.astra-berlin.de/events/2025-11-15--nothing-more",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12655/medium_Berlin-Feed.jpg",
-    "ticket": "https://www.eventim.de/noapp/event/nothing-more-europe-fall-2025-tour-with-catch-your-breath-solence-ankor-astra-kulturhaus-20234320/?affiliate=LAS&utm_campaign=Landstreicher+Konzerte&utm_source=LAs&utm_medium=dp",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 42.4,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251116-1930-01",
-    "title": "D-A-D & THE 69 EYES",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-16",
-    "entryTime": "18:30",
-    "beginTime": "19:30",
-    "link": "https://www.astra-berlin.de/events/2025-11-16-d-a-d---the-69-eyes",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12369/medium_DAD_69-Feed.png",
-    "ticket": "https://www.eventim.de/noapp/event/d-a-d-the-69-eyes-astra-kulturhaus-19807950/",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 49.75,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251117-2000-01",
-    "title": "2hollis",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-17",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-17-2hollis",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7821/medium_2hollis-live-berlin-1200x800.jpeg",
-    "ticket": "https://www.eventim.de/event/2hollis-the-star-tour-europeuk-2025-astra-kulturhaus-20297559/",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 37.5,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251120-2000-01",
-    "title": "SNOW STRIPPERS",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-20",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-20-snow-strippers",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7993/medium_Snow_Strippers.jpg",
-    "ticket": "https://www.ticketmaster.de/event/snow-strippers-tickets/2091103145",
-    "vendor": [
-      "ticketmaster"
-    ],
-    "eb-price": "",
-    "ps-price": 30,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251121-2000-01",
-    "title": "KAKKMADDAFAKKA",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-21",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-21-kakkmaddafakka",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7573/medium_Kakkmaddafakka.jpg",
-    "ticket": "https://www.eventim.de/event/kakkmaddafakka-astra-kulturhaus-19573378",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": "",
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251122-2000-01",
-    "title": "LEBANON HANOVER",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-22",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-22-lebanon-hanover",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7658/medium_Lebanon-Hanover_3_2.png",
-    "ticket": "https://dice.fm/event/6dmo58-lebanon-hanover-22nd-nov-astra-kulturhaus-berlin-tickets",
-    "vendor": [
-      "dice.fm"
-    ],
-    "eb-price": "",
-    "ps-price": 32,
-    "bo-price": 38,
-    "info": "Ausverkauft"
-  },
-  {
-    "id": "251123-2000-01",
-    "title": "BLACK REBEL MOTORCYCLE CLUB",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-23",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-23-black-rebel-motorcycle-club",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12519/medium_2025_BlackRebelMotorcyleClub_Berlin_Feed_1080x1350.jpg",
-    "ticket": "https://www.eventim.de/artist/black-rebel-motorcycle-club/",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 46,
-    "bo-price": "",
-    "info": "Ausverkauft"
-  },
-  {
-    "id": "251124-2000-01",
-    "title": "ISABEL LAROSA",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-24",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-24-isabel-larosa",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7793/medium_isabel-larosa-live-berlin-scaled-e1746791892499-1082x1200.jpeg",
-    "ticket": "https://www.ticketmaster.de/artist/isabel-larosa-tickets/1148183",
-    "vendor": [
-      "ticketmaster"
-    ],
-    "eb-price": "",
-    "ps-price": 35,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251126-2130-01",
-    "title": "MONOBLOCO",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-26",
-    "entryTime": "20:00",
-    "beginTime": "21:30",
-    "link": "https://www.astra-berlin.de/events/2025-11-26-monobloco",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12760/medium_berlin-feed.png",
-    "ticket": "https://www.bossafm.com/concerts-berlin/astra-kulturhaus/2025/11/26/monobloco",
-    "vendor": [
-      "web"
-    ],
-    "eb-price": 30,
-    "ps-price": "",
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251127-2000-01",
-    "title": "ADEPT",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-27",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-27-adept",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12528/medium_Adept_2025_Berlin_Post_1080x1350px.jpg",
-    "ticket": "https://www.eventim.de/event/adept-live-2025-astra-kulturhaus-20252122/",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 40,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251128-1800-01",
-    "title": "OBSIDIAN ECHOES",
-    "category": "Event",
-    "section": "Festival",
-    "date": "2025-11-28",
-    "entryTime": "17:00",
-    "beginTime": "18:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-28-obsidian-echoes",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1840/medium_24_OE_BER_WEB_1080x1350_01.png",
-    "ticket": "https://liveembassy.ticket.io/70m3hc93/",
-    "vendor": [
-      "ticket.io"
-    ],
-    "eb-price": "",
-    "ps-price": 42,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251129-2000-01",
-    "title": "LARA HULO",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-29",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-29-lara-hulo",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7965/medium_LaraHulo_Presse_2__Jeanette_Friedrich_01.png",
-    "ticket": "https://www.eventim.de/event/lara-hulo-heartfix-tour-25-astra-kulturhaus-19806320/",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 30,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251130-2000-01",
-    "title": "THE SAINTS ’73-’78",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-11-30",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-11-30-the-saints",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12370/medium_Saints-Poster-WebNeu.jpg",
-    "ticket": "https://www.36-tickets.de/produkte/1012-tickets-the-saints-73-78-astra-kulturhaus-berlin-am-30-11-2025",
-    "vendor": [
-      "36-tickets"
-    ],
-    "eb-price": "",
-    "ps-price": 40,
-    "bo-price": 50,
-    "info": ""
-  },
-  {
-    "id": "251201-1930-01",
-    "title": "11FREUNDE KNEIPENQUIZ",
-    "category": "Event",
-    "section": "Kneipenquiz",
-    "date": "2025-12-01",
-    "entryTime": "18:30",
-    "beginTime": "19:30",
-    "link": "https://www.astra-berlin.de/events/2025-12-01-11freunde-kneipenquiz",
-    "img": "",
-    "ticket": "",
-    "vendor": [
-      ""
-    ],
-    "eb-price": "",
-    "ps-price": 22,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251204-2000-01",
-    "title": "LEISURE",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-04",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-12-04-leisure",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7838/medium_Leisure.png",
-    "ticket": "https://www.ticketmaster.de/event/leisure-welcome-to-the-mood-tour-tickets/432061881",
-    "vendor": [
-      "ticketmaster"
-    ],
-    "eb-price": "",
-    "ps-price": 29.5,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251205-2000-01",
-    "title": "DRITTE WAHL",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-05",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-12-05-dritte-wahl",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7726/medium_Dritte_Wahl.jpeg",
-    "ticket": "https://www.greyzone-tickets.de/produkte/1049",
-    "vendor": [
-      "greyzone"
-    ],
-    "eb-price": "",
-    "ps-price": 39,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251206-2000-01",
-    "title": "DRITTE WAHL",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-06",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-12-06-dritte-wahl",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/5107/medium_Dritte_Wahl_2_von_Tina_Himmelreich.jpg",
-    "ticket": "https://www.greyzone-tickets.de/produkte/1050",
-    "vendor": [
-      "greyzone"
-    ],
-    "eb-price": "",
-    "ps-price": 39,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251210-2000-01",
-    "title": "JOHN MAUS",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-10",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-12-10-john-maus",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12601/medium_John_Maus_Termine.jpg",
-    "ticket": "https://www.greyzone-tickets.de/produkte/1102",
-    "vendor": [
-      "greyzone"
-    ],
-    "eb-price": "",
-    "ps-price": 27,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251211-2000-01",
-    "title": "TARJA",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-11",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-12-11-tarja",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12722/medium_Tarja-XMAS_2025_NEW.jpg",
-    "ticket": "https://www.eventim.de/artist/tarja-turunen/tarja-the-spirit-of-christmas-2025-3849695",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 40,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251212-2000-01",
-    "title": "DANKO JONES",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-12",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-12-12-danko-jones",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12404/medium_Darko_Jones_Tour.jpg",
-    "ticket": "https://www.dodotickets.de/detail/index/sArticle/12641",
-    "vendor": [
-      "dodotickets"
-    ],
-    "eb-price": "",
-    "ps-price": 32,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251213-2000-01",
-    "title": "MILLENIUMKID",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-13",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-12-13-milleniumkid",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12193/medium_sold_out_251213_Berlin_MilleniumKid_Dystopie_Feed.png",
-    "ticket": "https://vvk.link/3il8haq",
-    "vendor": [
-      "web"
-    ],
-    "eb-price": "",
-    "ps-price": 32,
-    "bo-price": "",
-    "info": "Ausverkauft"
-  },
-  {
-    "id": "251213-2330-01",
-    "title": "A NIGHT LIKE THIS",
-    "category": "Event",
-    "section": "Party",
-    "date": "2025-12-13",
-    "entryTime": "23:30",
-    "beginTime": "23:30",
-    "link": "https://www.astra-berlin.de/events/2025-12-13-a-night-like-this",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1886/medium_https___cdn.evbuc.com_images_1154924363_372859778321_1_original.jpeg",
-    "ticket": "https://www.eventbrite.de/e/night-like-this-the-alternative-80s-party-astra-berlin-tickets-1828846512149",
-    "vendor": [
-      "eventbrite"
-    ],
-    "eb-price": 10,
-    "ps-price": 12,
-    "bo-price": 15,
-    "info": ""
-  },
-  {
-    "id": "251214-2000-01",
-    "title": "BIOSCOPE",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-14",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-12-14-bioscope",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7880/medium_Bioscope-e1752386846150.jpg",
-    "ticket": "https://www.eventim.de/event/bioscope-vanishing-point-tour-2025-rothery-quaeschning-reeves-astra-kulturhaus-20467943/",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 52,
-    "bo-price": "",
-    "info": "Abgesagt"
-  },
-  {
-    "id": "251217-2000-01",
-    "title": "KING PRINCESS",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-17",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-12-17-king-princess",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12545/medium_2025_King_Princess_Berlin_Astra_Portrait_1080x1350.jpg",
-    "ticket": "https://www.eventim.de/event/king-princess-the-girl-violence-tour-astra-kulturhaus-20330551/",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 35,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "251219-2000-01",
-    "title": "JASSIN",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-19",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-12-19-jassin",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7764/medium_Landstreicher-Konzerte-Jassin-3-c-Linda-Carl_162455f4796ce2aaec023cc0ccf19667.jpg",
-    "ticket": "https://jassin.krasserstoff.com/events/jassin-winter-tour-2025-astra-kulturhaus",
-    "vendor": [
-      "web"
-    ],
-    "eb-price": "",
-    "ps-price": 36.5,
-    "bo-price": "",
-    "info": "Ausverkauft"
-  },
-  {
-    "id": "251220-2000-01",
-    "title": "ENGST",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2025-12-20",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2025-12-20-engst",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7618/medium_engst-live-berlin-1200x822.jpeg",
-    "ticket": "https://www.eventim.de/noapp/event/engst-10-jahre-jubilaeumstour-astra-kulturhaus-19716495",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": "",
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260111-1900-01",
-    "title": "LIONHEART",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-01-11",
-    "entryTime": "18:00",
-    "beginTime": "19:00",
-    "link": "https://www.astra-berlin.de/events/2025-05-30-lionheart",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7819/medium_lionheart-live-berlin-1200x800.jpeg",
-    "ticket": "https://www.eventim.de/noapp/event/lionheart-europe-2025-metropol-19913762",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 40,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260121-2000-01",
-    "title": "MIDNIGHT TIL MORNING",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-01-21",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-01-21-midnight-til-mornig",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12731/medium_MTM_Tour26_Berlin_Portrait_1080x1350_v2.jpg",
-    "ticket": "https://www.eventim.de/event/midnight-til-morning-uk-european-tour-astra-kulturhaus-20688394/",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 26,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260124-2000-01",
-    "title": "JAMAL",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-01-24",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-01-24-jamal",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7905/medium_Jamal_Yardies-Tour2026_1080.jpg",
-    "ticket": "https://www.ticketmaster.de/event/jamal-tickets/168269934?CL_ORIGIN=ORIGIN8",
-    "vendor": [
-      "ticketmaster"
-    ],
-    "eb-price": "",
-    "ps-price": 30,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260207-1700-01",
-    "title": "THE EXPLOITED + DISCHARGE + GBH",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-02-07",
-    "entryTime": "16:00",
-    "beginTime": "17:00",
-    "link": "https://www.astra-berlin.de/events/2026-02-07-the-exploited---discharge---gbh",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7844/medium_Exploited-Webposter.jpg",
-    "ticket": "https://www.36-tickets.de/produkte/1030-tickets-the-exploited-discharge-gbh-astra-kulturhaus-berlin-am-07-02-2026",
-    "vendor": [
-      "36-tickets"
-    ],
-    "eb-price": "",
-    "ps-price": 44,
-    "bo-price": 52,
-    "info": ""
-  },
-  {
-    "id": "260213-1900-01",
-    "title": "NAPALM DEATH – CAMPAIGN FOR MUSICAL DESTRUCTION",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-02-13",
-    "entryTime": "18:00",
-    "beginTime": "19:00",
-    "link": "https://www.astra-berlin.de/events/2026-02-13-napalm-death---campaign-for-musical-destruction",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1944/medium_CMD-2026_Instagram_Square.jpg",
-    "ticket": "https://www.36-tickets.de/produkte/1045-tickets-napalm-death-whiplash-varukers-astra-kulturhaus-berlin-am-13-02-2026",
-    "vendor": [
-      "36-tickets"
-    ],
-    "eb-price": "",
-    "ps-price": 35,
-    "bo-price": 42,
-    "info": ""
-  },
-  {
-    "id": "260214-1900-01",
-    "title": "GLASS DANSE 2026",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-02-14",
-    "entryTime": "18:00",
-    "beginTime": "19:00",
-    "link": "https://www.astra-berlin.de/events/2026-02-14-glass-danse-2026",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1939/medium_4to5__1_.jpg",
-    "ticket": "https://www.outoflineshop.de/glass-danse-14-02-2026-astra-kulturhaus-berlin.html",
-    "vendor": [
-      "web"
-    ],
-    "eb-price": "",
-    "ps-price": 44.99,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260220-1900-01",
-    "title": "AGNOSTIC FRONT",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-02-20",
-    "entryTime": "18:00",
-    "beginTime": "19:00",
-    "link": "https://www.astra-berlin.de/events/2026-02-20-agnostic-front",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12764/medium_Agnostic-Poster-Web.jpg",
-    "ticket": "https://www.36-tickets.de/produkte/1040-tickets-agnostic-front-astra-kulturhaus-berlin-am-20-02-2026",
-    "vendor": [
-      "36-tickets"
-    ],
-    "eb-price": "",
-    "ps-price": 32,
-    "bo-price": 40,
-    "info": ""
-  },
-  {
-    "id": "260221-2000-01",
-    "title": "JINJER",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-02-21",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-02-21-jinjer",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12566/medium_Jinjer_Feed.png",
-    "ticket": "https://www.eventim.de/noapp/event/jinjer-astra-kulturhaus-20306902",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 49.25,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260228-1930-01",
-    "title": "CLOCKCLOCK",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-02-28",
-    "entryTime": "18:30",
-    "beginTime": "19:30",
-    "link": "https://www.astra-berlin.de/events/2026-02-28-clockclock",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7797/medium_clockclock-live-berlin-800x1200.jpeg",
-    "ticket": "https://www.eventim.de/noapp/event/clockclock-astra-kulturhaus-20196678/",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 38,
-    "bo-price": "",
-    "info": "Ausverkauft"
-  },
-  {
-    "id": "260306-1930-01",
-    "title": "LA DISPUTE",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-03-06",
-    "entryTime": "18:30",
-    "beginTime": "19:30",
-    "link": "https://www.astra-berlin.de/events/2026-03-06-la-dispute",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7921/medium_La_Dispute.png",
-    "ticket": "https://www.eventim.de/event/la-dispute-no-one-was-driving-the-car-tour-astra-kulturhaus-20541790",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 29,
-    "bo-price": 35,
-    "info": ""
-  },
-  {
-    "id": "260307-2000-01",
-    "title": "GLUECIFER",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-03-07",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-03-07-gluecifer",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7970/medium_h581_GLUECIFER_KJ_Grafik2-1384.jpg",
-    "ticket": "https://www.eventim.de/event/gluecifer-same-drug-new-high-astra-kulturhaus-20698578/",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 36,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260310-2000-01",
-    "title": "DER W",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-03-10",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-03-09-der-w",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12464/medium_Der_W_Tour.jpg",
-    "ticket": "https://www.eventim.de/event/der-w-astra-kulturhaus-20089564/",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": "",
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260314-1900-01",
-    "title": "YU",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-03-14",
-    "entryTime": "18:00",
-    "beginTime": "19:00",
-    "link": "https://www.astra-berlin.de/events/2026-03-14-yu",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7986/medium_Presse06_Andreas_Eisenach.jpg",
-    "ticket": "",
-    "vendor": [
-      ""
-    ],
-    "eb-price": "",
-    "ps-price": 37.5,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260315-2000-01",
-    "title": "GEESE",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-03-15",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-03-15-geese",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/8003/medium_GEESE42300_Lewis_Evans.jpg",
-    "ticket": "https://tickets.loft.de/event/geese-7gutfa",
-    "vendor": [
-      "loftix"
-    ],
-    "eb-price": "",
-    "ps-price": 25,
-    "bo-price": 30,
-    "info": ""
-  },
-  {
-    "id": "260317-2000-01",
-    "title": "CARPENTER BRUT",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-03-17",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-03-17-carpenter-brut",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7854/medium_Carpenter_Brut.jpg",
-    "ticket": "https://www.eventim.de/noapp/event/carpenter-brut-the-end-complete-tour-2026-astra-kulturhaus-20402223",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 40,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260321-1930-01",
-    "title": "WIZO",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-03-21",
-    "entryTime": "19:00",
-    "beginTime": "19:30",
-    "link": "https://www.astra-berlin.de/events/2026-03-21-wizo",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12548/medium_7-BERLIN-Ausverkauft_POST.jpg",
-    "ticket": "https://www.koka36.de/event_site.php?event=178353",
-    "vendor": [
-      "koka36"
-    ],
-    "eb-price": "",
-    "ps-price": 44,
-    "bo-price": 52,
-    "info": "Ausverkauft"
-  },
-  {
-    "id": "260322-1830-01",
-    "title": "WIZO",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-03-22",
-    "entryTime": "18:00",
-    "beginTime": "18:30",
-    "link": "https://www.astra-berlin.de/events/2026-03-22-wizo",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7812/medium_WIZO-2024-01_Bandfoto_KONZERTSUCHT-Sonja-Moeller_print.jpeg",
-    "ticket": "https://www.36-tickets.de/produkte/1044-tickets-wizo-zusatzshow-astra-kulturhaus-berlin-am-22-03-2026",
-    "vendor": [
-      "36-tickets"
-    ],
-    "eb-price": "",
-    "ps-price": 44,
-    "bo-price": 52,
-    "info": ""
-  },
-  {
-    "id": "260326-2000-01",
-    "title": "CMAT",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-03-26",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-03-26-cmat",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7940/medium_CMAT.jpg",
-    "ticket": "https://www.ticketmaster.de/event/cmat-tickets/1866197323",
-    "vendor": [
-      "ticketmaster"
-    ],
-    "eb-price": "",
-    "ps-price": 34,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260328-2000-01",
-    "title": "MEGALOH",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-03-28",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-03-28-megaloh",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12628/medium_03-28_Berlin__1_.jpg",
-    "ticket": "https://shop.megaloh.de/product/84907/megaloh-astra-kulturhaus-berlin-am-28-03-2026",
-    "vendor": [
-      "web"
-    ],
-    "eb-price": "",
-    "ps-price": 39.2,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260404-2000-01",
-    "title": "ZSÁ ZSÁ",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-04-04",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-04-04-zs--zs-",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7928/medium_Zsa_Zsa.jpg",
-    "ticket": "https://www.eventim.de/noapp/event/zsa-zsa-thirst-trap-tour-v2-2026-astra-kulturhaus-20387579",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 30,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260410-2000-01",
-    "title": "SAMMY VIRJI",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-04-10",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-04-10-sammy-virji",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7979/medium_Sammy_Virji.png",
-    "ticket": "https://www.ticketmaster.de/event/sammy-virji-europe-tour-2026-tickets/287311175",
-    "vendor": [
-      "ticketmaster"
-    ],
-    "eb-price": "",
-    "ps-price": 28.5,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260419-2000-01",
-    "title": "SMASH INTO PIECES",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-04-19",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-04-19-smash-into-pieces",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/8018/medium_Bildschirmfoto_2025-11-05_um_13.41.06.png",
-    "ticket": "https://www.eventim.de/noapp/event/smash-into-pieces-astra-kulturhaus-20891200/",
-    "vendor": [
-      "eventim"
-    ],
-    "eb-price": "",
-    "ps-price": 40,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260507-1845-01",
-    "title": "OUT OF LINE WEEKENDER 2026",
-    "category": "Event",
-    "section": "Festival",
-    "date": "2026-05-07",
-    "entryTime": "18:00",
-    "beginTime": "18:45",
-    "link": "https://www.astra-berlin.de/events/2026-05-07-out-of-line-weekender-2026",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1940/medium_Weekender_2026_-_IMG_-_4-5_-_2025-08-22.jpg",
-    "ticket": "https://www.outoflineshop.de/weekender/out-of-line-weekender-2026-07-05-09-05-2026-berlin-weekend-ticket.html",
-    "vendor": [
-      "web"
-    ],
-    "eb-price": "",
-    "ps-price": 79.99,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260508-1845-01",
-    "title": "OUT OF LINE WEEKENDER 2026",
-    "category": "Event",
-    "section": "Festival",
-    "date": "2026-05-08",
-    "entryTime": "18:00",
-    "beginTime": "18:45",
-    "link": "https://www.astra-berlin.de/events/2026-05-08-out-of-line-weekender-2026",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1940/medium_Weekender_2026_-_IMG_-_4-5_-_2025-08-22.jpg",
-    "ticket": "https://www.outoflineshop.de/weekender/out-of-line-weekender-2026-07-05-09-05-2026-berlin-weekend-ticket.html",
-    "vendor": [
-      "web"
-    ],
-    "eb-price": "",
-    "ps-price": 79.99,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260509-1745-01",
-    "title": "OUT OF LINE WEEKENDER 2026",
-    "category": "Event",
-    "section": "Festival",
-    "date": "2026-05-09",
-    "entryTime": "17:00",
-    "beginTime": "17:45",
-    "link": "https://www.astra-berlin.de/events/2026-05-09-out-of-line-weekender-2026",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1940/medium_Weekender_2026_-_IMG_-_4-5_-_2025-08-22.jpg",
-    "ticket": "https://www.outoflineshop.de/weekender/out-of-line-weekender-2026-07-05-09-05-2026-berlin-weekend-ticket.html",
-    "vendor": [
-      "web"
-    ],
-    "eb-price": "",
-    "ps-price": 79.99,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260513-2000-01",
-    "title": "VOODOO JÜRGENS",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-05-13",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-05-13-voodoo-j-rgens",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12823/medium_VJ_WEB_InstaPost_Dates.jpg",
-    "ticket": "https://www.greyzone-tickets.de/produkte/1179",
-    "vendor": [
-      "greyzone"
-    ],
-    "eb-price": "",
-    "ps-price": 30,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260516-2000-01",
-    "title": "TAKT32",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-05-16",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-05-16-takt32",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7888/medium_Takt32_Landstreicher-Konzerte__Marcus_Schuster.JPG",
-    "ticket": "https://landstreicher-konzerte.de/konzerte/takt32-b-26",
-    "vendor": [
-      "landstreicher"
-    ],
-    "eb-price": "",
-    "ps-price": 37.99,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260613-1400-01",
-    "title": "BERLIN BREAKOUT! 2026",
-    "category": "Event",
-    "section": "Festival",
-    "date": "2026-06-13",
-    "entryTime": "13:00",
-    "beginTime": "14:00",
-    "link": "https://www.astra-berlin.de/events/2026-06-13-berlin-breakout--2026",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12794/medium_BBO-Loft_Website-2026_1.jpg",
-    "ticket": "https://tickets.loft.de/event/berlin-breakout-o04d3d",
-    "vendor": [
-      "loftix"
-    ],
-    "eb-price": "",
-    "ps-price": 60,
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260818-2000-01",
-    "title": "ROSE TATTOO",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-08-18",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-08-18-rose-tattoo",
-    "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/8023/medium_Rose_Tattoo_Paul_Bosemaier.png",
-    "ticket": "",
-    "vendor": [
-      ""
-    ],
-    "eb-price": "",
-    "ps-price": "",
-    "bo-price": "",
-    "info": ""
-  },
-  {
-    "id": "260911-2000-01",
-    "title": "NIZI19",
-    "category": "Event",
-    "section": "Konzert",
-    "date": "2026-09-11",
-    "entryTime": "19:00",
-    "beginTime": "20:00",
-    "link": "https://www.astra-berlin.de/events/2026-09-11-nizi19",
-    "img": "",
-    "ticket": "",
-    "vendor": [
-      ""
-    ],
-    "eb-price": "",
-    "ps-price": "",
-    "bo-price": "",
-    "info": ""
-  }
-]
+{
+  "location": "ast",
+  "scrapedAt": "2025-11-23T09:50:17.222Z",
+  "events": [
+    {
+      "id": "AST-2511242000-sp62k2",
+      "title": "ISABEL LAROSA",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-11-24",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-11-24-isabel-larosa",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7793/medium_isabel-larosa-live-berlin-scaled-e1746791892499-1082x1200.jpeg",
+      "ticket": "https://www.ticketmaster.de/artist/isabel-larosa-tickets/1148183",
+      "vendor": [
+        "ticketmaster"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:07.803Z",
+      "ps-price": 35
+    },
+    {
+      "id": "AST-2511262130-nxylwy",
+      "title": "MONOBLOCO",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-11-26",
+      "entryTime": "20:00",
+      "beginTime": "21:30",
+      "link": "https://www.astra-berlin.de/events/2025-11-26-monobloco",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12760/medium_berlin-feed.png",
+      "ticket": "https://www.bossafm.com/concerts-berlin/astra-kulturhaus/2025/11/26/monobloco",
+      "vendor": [
+        "web"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:08.058Z",
+      "eb-price": 30
+    },
+    {
+      "id": "AST-2511272000-1j61wm",
+      "title": "ADEPT",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-11-27",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-11-27-adept",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12528/medium_Adept_2025_Berlin_Post_1080x1350px.jpg",
+      "ticket": "https://www.eventim.de/event/adept-live-2025-astra-kulturhaus-20252122/",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:08.278Z",
+      "ps-price": 40
+    },
+    {
+      "id": "AST-2511281800-f05vte",
+      "title": "OBSIDIAN ECHOES",
+      "category": "Event",
+      "section": "Festival",
+      "date": "2025-11-28",
+      "entryTime": "17:00",
+      "beginTime": "18:00",
+      "link": "https://www.astra-berlin.de/events/2025-11-28-obsidian-echoes",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1840/medium_24_OE_BER_WEB_1080x1350_01.png",
+      "ticket": "https://liveembassy.ticket.io/70m3hc93/",
+      "vendor": [
+        "ticketio"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:08.508Z",
+      "ps-price": 42
+    },
+    {
+      "id": "AST-2511292000-ow0zm4",
+      "title": "LARA HULO",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-11-29",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-11-29-lara-hulo",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7965/medium_LaraHulo_Presse_2__Jeanette_Friedrich_01.png",
+      "ticket": "https://www.eventim.de/event/lara-hulo-heartfix-tour-25-astra-kulturhaus-19806320/",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:08.746Z",
+      "ps-price": 30
+    },
+    {
+      "id": "AST-2511302000-6hc2o",
+      "title": "THE SAINTS ’73-’78",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-11-30",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-11-30-the-saints",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12370/medium_Saints-Poster-WebNeu.jpg",
+      "ticket": "https://www.36-tickets.de/produkte/1012-tickets-the-saints-73-78-astra-kulturhaus-berlin-am-30-11-2025",
+      "vendor": [
+        "koka36"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:08.986Z",
+      "bo-price": 50,
+      "ps-price": 40
+    },
+    {
+      "id": "AST-2512011930-sqs6ms",
+      "title": "11FREUNDE KNEIPENQUIZ",
+      "category": "Event",
+      "section": "Kneipenquiz",
+      "date": "2025-12-01",
+      "entryTime": "18:30",
+      "beginTime": "19:30",
+      "link": "https://www.astra-berlin.de/events/2025-12-01-11freunde-kneipenquiz",
+      "img": "",
+      "ticket": "",
+      "vendor": [],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:09.168Z",
+      "ps-price": 22
+    },
+    {
+      "id": "AST-2512042000-ynjtx",
+      "title": "LEISURE",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-12-04",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-12-04-leisure",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7838/medium_Leisure.png",
+      "ticket": "https://www.ticketmaster.de/event/leisure-welcome-to-the-mood-tour-tickets/432061881",
+      "vendor": [
+        "ticketmaster"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:09.384Z",
+      "ps-price": 34.62
+    },
+    {
+      "id": "AST-2512052000-clttu0",
+      "title": "DRITTE WAHL",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-12-05",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-12-05-dritte-wahl",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7726/medium_Dritte_Wahl.jpeg",
+      "ticket": "https://www.greyzone-tickets.de/produkte/1049",
+      "vendor": [
+        "greyzone"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:09.574Z",
+      "ps-price": 39
+    },
+    {
+      "id": "AST-2512062000-clttu0",
+      "title": "DRITTE WAHL",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-12-06",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-12-06-dritte-wahl",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/5107/medium_Dritte_Wahl_2_von_Tina_Himmelreich.jpg",
+      "ticket": "https://www.greyzone-tickets.de/produkte/1050",
+      "vendor": [
+        "greyzone"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:09.747Z",
+      "ps-price": 39
+    },
+    {
+      "id": "AST-2512102000-nn66gz",
+      "title": "JOHN MAUS",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-12-10",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-12-10-john-maus",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12601/medium_John_Maus_Termine.jpg",
+      "ticket": "https://www.greyzone-tickets.de/produkte/1102",
+      "vendor": [
+        "greyzone"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:09.957Z",
+      "ps-price": 27
+    },
+    {
+      "id": "AST-2512112000-1tkhp8",
+      "title": "TARJA",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-12-11",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-12-11-tarja",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12722/medium_Tarja-XMAS_2025_NEW.jpg",
+      "ticket": "https://www.eventim.de/artist/tarja-turunen/tarja-the-spirit-of-christmas-2025-3849695",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:10.184Z",
+      "ps-price": 40
+    },
+    {
+      "id": "AST-2512122000-827zqa",
+      "title": "DANKO JONES",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-12-12",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-12-12-danko-jones",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12404/medium_Darko_Jones_Tour.jpg",
+      "ticket": "https://www.dodotickets.de/detail/index/sArticle/12641",
+      "vendor": [
+        "dodotickets"
+      ],
+      "info": "Ausverkauft",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:10.376Z",
+      "ps-price": 32
+    },
+    {
+      "id": "AST-2512132000-rzmbu2",
+      "title": "MILLENIUMKID",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-12-13",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-12-13-milleniumkid",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12193/medium_sold_out_251213_Berlin_MilleniumKid_Dystopie_Feed.png",
+      "ticket": "https://vvk.link/3il8haq",
+      "vendor": [
+        "web"
+      ],
+      "info": "Ausverkauft",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:10.586Z",
+      "ps-price": 32
+    },
+    {
+      "id": "AST-2512132330-dczxf8",
+      "title": "A NIGHT LIKE THIS",
+      "category": "Event",
+      "section": "Party",
+      "date": "2025-12-13",
+      "entryTime": "23:30",
+      "beginTime": "23:30",
+      "link": "https://www.astra-berlin.de/events/2025-12-13-a-night-like-this",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1886/medium_https___cdn.evbuc.com_images_1154924363_372859778321_1_original.jpeg",
+      "ticket": "https://www.eventbrite.de/e/night-like-this-the-alternative-80s-party-astra-berlin-tickets-1828846512149",
+      "vendor": [
+        "eventbrite"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:10.806Z",
+      "bo-price": 15,
+      "ps-price": 12,
+      "eb-price": 10
+    },
+    {
+      "id": "AST-2512142000-g8wtos",
+      "title": "BIOSCOPE",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-12-14",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-12-14-bioscope",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7880/medium_Bioscope-e1752386846150.jpg",
+      "ticket": "https://www.eventim.de/event/bioscope-vanishing-point-tour-2025-rothery-quaeschning-reeves-astra-kulturhaus-20467943/",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "Abgesagt",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:11.014Z",
+      "ps-price": 52
+    },
+    {
+      "id": "AST-2512172000-px00zk",
+      "title": "KING PRINCESS",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-12-17",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-12-17-king-princess",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12545/medium_2025_King_Princess_Berlin_Astra_Portrait_1080x1350.jpg",
+      "ticket": "https://www.eventim.de/event/king-princess-the-girl-violence-tour-astra-kulturhaus-20330551/",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:11.190Z",
+      "ps-price": 35
+    },
+    {
+      "id": "AST-2512192000-jaw79g",
+      "title": "JASSIN",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-12-19",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-12-19-jassin",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7764/medium_Landstreicher-Konzerte-Jassin-3-c-Linda-Carl_162455f4796ce2aaec023cc0ccf19667.jpg",
+      "ticket": "https://jassin.krasserstoff.com/events/jassin-winter-tour-2025-astra-kulturhaus",
+      "vendor": [
+        "web"
+      ],
+      "info": "Ausverkauft",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:11.406Z",
+      "ps-price": 36.5
+    },
+    {
+      "id": "AST-2512202000-1ljnpb",
+      "title": "ENGST",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2025-12-20",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2025-12-20-engst",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7618/medium_engst-live-berlin-1200x822.jpeg",
+      "ticket": "https://www.eventim.de/noapp/event/engst-10-jahre-jubilaeumstour-astra-kulturhaus-19716495",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:11.618Z"
+    },
+    {
+      "id": "AST-2601111900-amun2u",
+      "title": "LIONHEART",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-01-11",
+      "entryTime": "18:00",
+      "beginTime": "19:00",
+      "link": "https://www.astra-berlin.de/events/2025-05-30-lionheart",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7819/medium_lionheart-live-berlin-1200x800.jpeg",
+      "ticket": "https://www.eventim.de/event/lionheart-europe-202526-astra-kulturhaus-19886130/",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:11.828Z",
+      "ps-price": 40
+    },
+    {
+      "id": "AST-2601212000-moyz31",
+      "title": "MIDNIGHT TIL MORNING",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-01-21",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-01-21-midnight-til-mornig",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12731/medium_MTM_Tour26_Berlin_Portrait_1080x1350_v2.jpg",
+      "ticket": "https://www.eventim.de/event/midnight-til-morning-uk-european-tour-astra-kulturhaus-20688394/",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:12.054Z",
+      "ps-price": 26
+    },
+    {
+      "id": "AST-2601242000-1o2fup",
+      "title": "JAMAL",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-01-24",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-01-24-jamal",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7905/medium_Jamal_Yardies-Tour2026_1080.jpg",
+      "ticket": "https://www.ticketmaster.de/event/jamal-tickets/168269934?CL_ORIGIN=ORIGIN8",
+      "vendor": [
+        "ticketmaster"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:12.258Z",
+      "ps-price": 30
+    },
+    {
+      "id": "AST-2602071700-xi4gvw",
+      "title": "THE EXPLOITED + DISCHARGE + GBH",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-02-07",
+      "entryTime": "16:00",
+      "beginTime": "17:00",
+      "link": "https://www.astra-berlin.de/events/2026-02-07-the-exploited---discharge---gbh",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7844/medium_Exploited-Webposter.jpg",
+      "ticket": "https://www.36-tickets.de/produkte/1030-tickets-the-exploited-discharge-gbh-astra-kulturhaus-berlin-am-07-02-2026",
+      "vendor": [
+        "koka36"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:12.472Z",
+      "bo-price": 52,
+      "ps-price": 44
+    },
+    {
+      "id": "AST-2602131900-ul3n33",
+      "title": "NAPALM DEATH – CAMPAIGN FOR MUSICAL DESTRUCTION",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-02-13",
+      "entryTime": "18:00",
+      "beginTime": "19:00",
+      "link": "https://www.astra-berlin.de/events/2026-02-13-napalm-death---campaign-for-musical-destruction",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1944/medium_CMD-2026_Instagram_Square.jpg",
+      "ticket": "https://www.36-tickets.de/produkte/1045-tickets-napalm-death-whiplash-varukers-astra-kulturhaus-berlin-am-13-02-2026",
+      "vendor": [
+        "koka36"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:12.677Z",
+      "bo-price": 42,
+      "ps-price": 35
+    },
+    {
+      "id": "AST-2602141900-btbj6f",
+      "title": "GLASS DANSE 2026",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-02-14",
+      "entryTime": "18:00",
+      "beginTime": "19:00",
+      "link": "https://www.astra-berlin.de/events/2026-02-14-glass-danse-2026",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1939/medium_4to5__1_.jpg",
+      "ticket": "https://www.outoflineshop.de/glass-danse-14-02-2026-astra-kulturhaus-berlin.html",
+      "vendor": [
+        "web"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:12.900Z",
+      "ps-price": 44.99
+    },
+    {
+      "id": "AST-2602201900-u0rs5j",
+      "title": "AGNOSTIC FRONT",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-02-20",
+      "entryTime": "18:00",
+      "beginTime": "19:00",
+      "link": "https://www.astra-berlin.de/events/2026-02-20-agnostic-front",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12764/medium_Agnostic-Poster-Web.jpg",
+      "ticket": "https://www.36-tickets.de/produkte/1040-tickets-agnostic-front-astra-kulturhaus-berlin-am-20-02-2026",
+      "vendor": [
+        "koka36"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:13.115Z",
+      "bo-price": 40,
+      "ps-price": 32
+    },
+    {
+      "id": "AST-2602212000-j6l87s",
+      "title": "JINJER",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-02-21",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-02-21-jinjer",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12566/medium_Jinjer_Feed.png",
+      "ticket": "https://www.eventim.de/noapp/event/jinjer-astra-kulturhaus-20306902",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:13.308Z",
+      "ps-price": 49.25
+    },
+    {
+      "id": "AST-2602281930-i31ayo",
+      "title": "CLOCKCLOCK",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-02-28",
+      "entryTime": "18:30",
+      "beginTime": "19:30",
+      "link": "https://www.astra-berlin.de/events/2026-02-28-clockclock",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7797/medium_clockclock-live-berlin-800x1200.jpeg",
+      "ticket": "https://www.eventim.de/noapp/event/clockclock-astra-kulturhaus-20196678/",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "Ausverkauft",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:13.516Z",
+      "ps-price": 38
+    },
+    {
+      "id": "AST-2603061930-lbhu3z",
+      "title": "LA DISPUTE",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-03-06",
+      "entryTime": "18:30",
+      "beginTime": "19:30",
+      "link": "https://www.astra-berlin.de/events/2026-03-06-la-dispute",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7921/medium_La_Dispute.png",
+      "ticket": "https://www.eventim.de/event/la-dispute-no-one-was-driving-the-car-tour-astra-kulturhaus-20541790",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:13.695Z",
+      "bo-price": 35,
+      "ps-price": 29
+    },
+    {
+      "id": "AST-2603072000-owfgbc",
+      "title": "GLUECIFER",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-03-07",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-03-07-gluecifer",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7970/medium_h581_GLUECIFER_KJ_Grafik2-1384.jpg",
+      "ticket": "https://www.eventim.de/event/gluecifer-same-drug-new-high-astra-kulturhaus-20698578/",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:13.899Z",
+      "ps-price": 36
+    },
+    {
+      "id": "AST-2603102000-1u0ee",
+      "title": "DER W",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-03-10",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-03-09-der-w",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12464/medium_Der_W_Tour.jpg",
+      "ticket": "https://www.eventim.de/event/der-w-astra-kulturhaus-20089564/",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:14.094Z"
+    },
+    {
+      "id": "AST-2603141900-02zg",
+      "title": "YU",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-03-14",
+      "entryTime": "18:00",
+      "beginTime": "19:00",
+      "link": "https://www.astra-berlin.de/events/2026-03-14-yu",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7986/medium_Presse06_Andreas_Eisenach.jpg",
+      "ticket": "",
+      "vendor": [],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:14.293Z",
+      "ps-price": 37.5
+    },
+    {
+      "id": "AST-2603152000-1mhgih",
+      "title": "GEESE",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-03-15",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-03-15-geese",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/8003/medium_GEESE42300_Lewis_Evans.jpg",
+      "ticket": "https://tickets.loft.de/event/geese-7gutfa",
+      "vendor": [
+        "loftix"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:14.484Z",
+      "bo-price": 30,
+      "ps-price": 25
+    },
+    {
+      "id": "AST-2603172000-9dzrcb",
+      "title": "CARPENTER BRUT",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-03-17",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-03-17-carpenter-brut",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7854/medium_Carpenter_Brut.jpg",
+      "ticket": "https://www.eventim.de/noapp/event/carpenter-brut-the-end-complete-tour-2026-astra-kulturhaus-20402223",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:14.665Z",
+      "ps-price": 40
+    },
+    {
+      "id": "AST-2603211930-268av",
+      "title": "WIZO",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-03-21",
+      "entryTime": "19:00",
+      "beginTime": "19:30",
+      "link": "https://www.astra-berlin.de/events/2026-03-21-wizo",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12548/medium_7-BERLIN-Ausverkauft_POST.jpg",
+      "ticket": "https://www.koka36.de/event_site.php?event=178353",
+      "vendor": [
+        "koka36"
+      ],
+      "info": "Ausverkauft",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:14.897Z",
+      "bo-price": 52,
+      "ps-price": 44
+    },
+    {
+      "id": "AST-2603221830-268av",
+      "title": "WIZO",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-03-22",
+      "entryTime": "18:00",
+      "beginTime": "18:30",
+      "link": "https://www.astra-berlin.de/events/2026-03-22-wizo",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7812/medium_WIZO-2024-01_Bandfoto_KONZERTSUCHT-Sonja-Moeller_print.jpeg",
+      "ticket": "https://www.36-tickets.de/produkte/1044-tickets-wizo-zusatzshow-astra-kulturhaus-berlin-am-22-03-2026",
+      "vendor": [
+        "koka36"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:15.096Z",
+      "bo-price": 52,
+      "ps-price": 44
+    },
+    {
+      "id": "AST-2603262000-1tixp",
+      "title": "CMAT",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-03-26",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-03-26-cmat",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7940/medium_CMAT.jpg",
+      "ticket": "https://www.ticketmaster.de/event/cmat-tickets/1866197323",
+      "vendor": [
+        "ticketmaster"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:15.294Z",
+      "ps-price": 44.6
+    },
+    {
+      "id": "AST-2603282000-flmkcz",
+      "title": "MEGALOH",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-03-28",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-03-28-megaloh",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12628/medium_03-28_Berlin__1_.jpg",
+      "ticket": "https://shop.megaloh.de/product/84907/megaloh-astra-kulturhaus-berlin-am-28-03-2026",
+      "vendor": [
+        "web"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:15.457Z",
+      "ps-price": 39.2
+    },
+    {
+      "id": "AST-2604042000-bglam8",
+      "title": "ZSÁ ZSÁ",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-04-04",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-04-04-zs--zs-",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7928/medium_Zsa_Zsa.jpg",
+      "ticket": "https://www.eventim.de/noapp/event/zsa-zsa-thirst-trap-tour-v2-2026-astra-kulturhaus-20387579",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:15.625Z",
+      "ps-price": 30
+    },
+    {
+      "id": "AST-2604102000-z8nej1",
+      "title": "SAMMY VIRJI",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-04-10",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-04-10-sammy-virji",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7979/medium_Sammy_Virji.png",
+      "ticket": "https://www.ticketmaster.de/event/sammy-virji-europe-tour-2026-tickets/287311175",
+      "vendor": [
+        "ticketmaster"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:15.796Z",
+      "ps-price": 33.5
+    },
+    {
+      "id": "AST-2604192000-x2dmyn",
+      "title": "SMASH INTO PIECES",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-04-19",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-04-19-smash-into-pieces",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/8018/medium_Bildschirmfoto_2025-11-05_um_13.41.06.png",
+      "ticket": "https://www.eventim.de/noapp/event/smash-into-pieces-astra-kulturhaus-20891200/",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:15.950Z",
+      "ps-price": 40
+    },
+    {
+      "id": "AST-2605071845-441ot9",
+      "title": "OUT OF LINE WEEKENDER 2026",
+      "category": "Event",
+      "section": "Festival",
+      "date": "2026-05-07",
+      "entryTime": "18:00",
+      "beginTime": "18:45",
+      "link": "https://www.astra-berlin.de/events/2026-05-07-out-of-line-weekender-2026",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1940/medium_Weekender_2026_-_IMG_-_4-5_-_2025-08-22.jpg",
+      "ticket": "https://www.outoflineshop.de/weekender/out-of-line-weekender-2026-07-05-09-05-2026-berlin-weekend-ticket.html",
+      "vendor": [
+        "web"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:16.102Z",
+      "ps-price": 79.99
+    },
+    {
+      "id": "AST-2605081845-441ot9",
+      "title": "OUT OF LINE WEEKENDER 2026",
+      "category": "Event",
+      "section": "Festival",
+      "date": "2026-05-08",
+      "entryTime": "18:00",
+      "beginTime": "18:45",
+      "link": "https://www.astra-berlin.de/events/2026-05-08-out-of-line-weekender-2026",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1940/medium_Weekender_2026_-_IMG_-_4-5_-_2025-08-22.jpg",
+      "ticket": "https://www.outoflineshop.de/weekender/out-of-line-weekender-2026-07-05-09-05-2026-berlin-weekend-ticket.html",
+      "vendor": [
+        "web"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:16.266Z",
+      "ps-price": 79.99
+    },
+    {
+      "id": "AST-2605091745-441ot9",
+      "title": "OUT OF LINE WEEKENDER 2026",
+      "category": "Event",
+      "section": "Festival",
+      "date": "2026-05-09",
+      "entryTime": "17:00",
+      "beginTime": "17:45",
+      "link": "https://www.astra-berlin.de/events/2026-05-09-out-of-line-weekender-2026",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/party/image/1940/medium_Weekender_2026_-_IMG_-_4-5_-_2025-08-22.jpg",
+      "ticket": "https://www.outoflineshop.de/weekender/out-of-line-weekender-2026-07-05-09-05-2026-berlin-weekend-ticket.html",
+      "vendor": [
+        "web"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:16.462Z",
+      "ps-price": 79.99
+    },
+    {
+      "id": "AST-2605132000-l3e1to",
+      "title": "VOODOO JÜRGENS",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-05-13",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-05-13-voodoo-j-rgens",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12823/medium_VJ_WEB_InstaPost_Dates.jpg",
+      "ticket": "https://www.greyzone-tickets.de/produkte/1179",
+      "vendor": [
+        "greyzone"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:16.624Z",
+      "ps-price": 30
+    },
+    {
+      "id": "AST-2605162000-ekl3t7",
+      "title": "TAKT32",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-05-16",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-05-16-takt32",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/7888/medium_Takt32_Landstreicher-Konzerte__Marcus_Schuster.JPG",
+      "ticket": "https://landstreicher-konzerte.de/konzerte/takt32-b-26",
+      "vendor": [
+        "landstreicher"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:16.769Z",
+      "ps-price": 37.99
+    },
+    {
+      "id": "AST-2606131400-xpui25",
+      "title": "BERLIN BREAKOUT! 2026",
+      "category": "Event",
+      "section": "Festival",
+      "date": "2026-06-13",
+      "entryTime": "13:00",
+      "beginTime": "14:00",
+      "link": "https://www.astra-berlin.de/events/2026-06-13-berlin-breakout--2026",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12794/medium_BBO-Loft_Website-2026_1.jpg",
+      "ticket": "https://tickets.loft.de/event/berlin-breakout-o04d3d",
+      "vendor": [
+        "loftix"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:16.919Z",
+      "ps-price": 60
+    },
+    {
+      "id": "AST-2608182000-sjgfoc",
+      "title": "ROSE TATTOO",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-08-18",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-08-18-rose-tattoo",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/event/image/12824/medium_rose-tattoo_26_poster.jpg",
+      "ticket": "https://www.eventim.de/noapp/event/rose-tattoo-rocknroll-outlaws-one-last-ride-astra-kulturhaus-20933453/",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:17.075Z"
+    },
+    {
+      "id": "AST-2609112000-ha74tq",
+      "title": "NIZI19",
+      "category": "Event",
+      "section": "Konzert",
+      "date": "2026-09-11",
+      "entryTime": "19:00",
+      "beginTime": "20:00",
+      "link": "https://www.astra-berlin.de/events/2026-09-11-nizi19",
+      "img": "https://kulturhaeuser-production.s3.eu-central-1.amazonaws.com/uploads/artist/image/8026/medium_Nizi19.jpg",
+      "ticket": "https://www.eventim.de/event/nizi19-risiken-nebenwirkungen-tour-astra-kulturhaus-20935339/",
+      "vendor": [
+        "eventim"
+      ],
+      "info": "",
+      "location": "astra",
+      "scrapedAt": "2025-11-23T09:50:17.221Z"
+    }
+  ]
+}
