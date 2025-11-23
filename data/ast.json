@@ -1,6 +1,6 @@
 {
   "location": "ast",
-  "scrapedAt": "2025-11-23T23:04:40.827Z",
+  "scrapedAt": "2025-11-23T23:20:23.826Z",
   "events": [
     {
       "id": "AST-2511242000-sp62k2",
@@ -18,7 +18,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:32.431Z",
+      "scrapedAt": "2025-11-23T23:20:16.062Z",
       "ps-price": 35
     },
     {
@@ -37,7 +37,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:32.620Z",
+      "scrapedAt": "2025-11-23T23:20:16.242Z",
       "eb-price": 30
     },
     {
@@ -56,7 +56,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:32.769Z",
+      "scrapedAt": "2025-11-23T23:20:16.418Z",
       "ps-price": 40
     },
     {
@@ -75,7 +75,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:32.933Z",
+      "scrapedAt": "2025-11-23T23:20:16.573Z",
       "ps-price": 42
     },
     {
@@ -94,7 +94,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:33.100Z",
+      "scrapedAt": "2025-11-23T23:20:16.734Z",
       "ps-price": 30
     },
     {
@@ -113,7 +113,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:33.278Z",
+      "scrapedAt": "2025-11-23T23:20:16.894Z",
       "bo-price": 50,
       "ps-price": 40
     },
@@ -131,7 +131,7 @@
       "vendor": [],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:33.448Z",
+      "scrapedAt": "2025-11-23T23:20:17.046Z",
       "ps-price": 22
     },
     {
@@ -150,7 +150,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:33.601Z",
+      "scrapedAt": "2025-11-23T23:20:17.208Z",
       "ps-price": 34.62
     },
     {
@@ -169,7 +169,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:33.768Z",
+      "scrapedAt": "2025-11-23T23:20:17.374Z",
       "ps-price": 39
     },
     {
@@ -188,7 +188,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:33.930Z",
+      "scrapedAt": "2025-11-23T23:20:17.535Z",
       "ps-price": 39
     },
     {
@@ -207,7 +207,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:34.095Z",
+      "scrapedAt": "2025-11-23T23:20:17.689Z",
       "ps-price": 27
     },
     {
@@ -226,7 +226,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:34.321Z",
+      "scrapedAt": "2025-11-23T23:20:17.846Z",
       "ps-price": 40
     },
     {
@@ -245,7 +245,7 @@
       ],
       "info": "Ausverkauft",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:34.497Z",
+      "scrapedAt": "2025-11-23T23:20:18.025Z",
       "ps-price": 32
     },
     {
@@ -264,7 +264,7 @@
       ],
       "info": "Ausverkauft",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:34.649Z",
+      "scrapedAt": "2025-11-23T23:20:18.185Z",
       "ps-price": 32
     },
     {
@@ -283,7 +283,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:34.844Z",
+      "scrapedAt": "2025-11-23T23:20:18.342Z",
       "bo-price": 15,
       "ps-price": 12,
       "eb-price": 10
@@ -304,7 +304,7 @@
       ],
       "info": "Abgesagt",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:35.030Z",
+      "scrapedAt": "2025-11-23T23:20:18.488Z",
       "ps-price": 52
     },
     {
@@ -323,7 +323,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:35.184Z",
+      "scrapedAt": "2025-11-23T23:20:18.648Z",
       "ps-price": 35
     },
     {
@@ -342,7 +342,7 @@
       ],
       "info": "Ausverkauft",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:35.343Z",
+      "scrapedAt": "2025-11-23T23:20:18.815Z",
       "ps-price": 36.5
     },
     {
@@ -361,7 +361,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:35.516Z"
+      "scrapedAt": "2025-11-23T23:20:18.963Z"
     },
     {
       "id": "AST-2601111900-amun2u",
@@ -379,7 +379,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:35.683Z",
+      "scrapedAt": "2025-11-23T23:20:19.126Z",
       "ps-price": 40
     },
     {
@@ -398,7 +398,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:35.859Z",
+      "scrapedAt": "2025-11-23T23:20:19.278Z",
       "ps-price": 26
     },
     {
@@ -417,7 +417,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:36.005Z",
+      "scrapedAt": "2025-11-23T23:20:19.428Z",
       "ps-price": 30
     },
     {
@@ -436,7 +436,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:36.210Z",
+      "scrapedAt": "2025-11-23T23:20:19.591Z",
       "bo-price": 52,
       "ps-price": 44
     },
@@ -456,7 +456,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:36.369Z",
+      "scrapedAt": "2025-11-23T23:20:19.793Z",
       "bo-price": 42,
       "ps-price": 35
     },
@@ -476,7 +476,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:36.544Z",
+      "scrapedAt": "2025-11-23T23:20:19.959Z",
       "ps-price": 44.99
     },
     {
@@ -495,7 +495,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:36.707Z",
+      "scrapedAt": "2025-11-23T23:20:20.144Z",
       "bo-price": 40,
       "ps-price": 32
     },
@@ -515,7 +515,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:36.863Z",
+      "scrapedAt": "2025-11-23T23:20:20.315Z",
       "ps-price": 49.25
     },
     {
@@ -534,7 +534,7 @@
       ],
       "info": "Ausverkauft",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:37.043Z",
+      "scrapedAt": "2025-11-23T23:20:20.512Z",
       "ps-price": 38
     },
     {
@@ -553,7 +553,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:37.244Z",
+      "scrapedAt": "2025-11-23T23:20:20.709Z",
       "bo-price": 35,
       "ps-price": 29
     },
@@ -573,7 +573,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:37.422Z",
+      "scrapedAt": "2025-11-23T23:20:20.887Z",
       "ps-price": 36
     },
     {
@@ -592,7 +592,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:37.602Z"
+      "scrapedAt": "2025-11-23T23:20:21.046Z"
     },
     {
       "id": "AST-2603141900-02zg",
@@ -608,7 +608,7 @@
       "vendor": [],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:37.804Z",
+      "scrapedAt": "2025-11-23T23:20:21.202Z",
       "ps-price": 37.5
     },
     {
@@ -627,7 +627,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:37.980Z",
+      "scrapedAt": "2025-11-23T23:20:21.353Z",
       "bo-price": 30,
       "ps-price": 25
     },
@@ -647,7 +647,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:38.174Z",
+      "scrapedAt": "2025-11-23T23:20:21.521Z",
       "ps-price": 40
     },
     {
@@ -666,7 +666,7 @@
       ],
       "info": "Ausverkauft",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:38.351Z",
+      "scrapedAt": "2025-11-23T23:20:21.679Z",
       "bo-price": 52,
       "ps-price": 44
     },
@@ -686,7 +686,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:38.536Z",
+      "scrapedAt": "2025-11-23T23:20:21.826Z",
       "bo-price": 52,
       "ps-price": 44
     },
@@ -706,7 +706,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:38.702Z",
+      "scrapedAt": "2025-11-23T23:20:21.974Z",
       "ps-price": 44.6
     },
     {
@@ -725,7 +725,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:38.875Z",
+      "scrapedAt": "2025-11-23T23:20:22.129Z",
       "ps-price": 39.2
     },
     {
@@ -744,7 +744,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:39.067Z",
+      "scrapedAt": "2025-11-23T23:20:22.274Z",
       "ps-price": 30
     },
     {
@@ -763,7 +763,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:39.259Z",
+      "scrapedAt": "2025-11-23T23:20:22.451Z",
       "ps-price": 33.5
     },
     {
@@ -782,7 +782,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:39.423Z",
+      "scrapedAt": "2025-11-23T23:20:22.598Z",
       "ps-price": 40
     },
     {
@@ -801,7 +801,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:39.600Z",
+      "scrapedAt": "2025-11-23T23:20:22.748Z",
       "ps-price": 79.99
     },
     {
@@ -820,7 +820,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:39.799Z",
+      "scrapedAt": "2025-11-23T23:20:22.917Z",
       "ps-price": 79.99
     },
     {
@@ -839,7 +839,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:39.963Z",
+      "scrapedAt": "2025-11-23T23:20:23.077Z",
       "ps-price": 79.99
     },
     {
@@ -858,7 +858,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:40.129Z",
+      "scrapedAt": "2025-11-23T23:20:23.252Z",
       "ps-price": 30
     },
     {
@@ -877,7 +877,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:40.306Z",
+      "scrapedAt": "2025-11-23T23:20:23.391Z",
       "ps-price": 37.99
     },
     {
@@ -896,7 +896,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:40.461Z",
+      "scrapedAt": "2025-11-23T23:20:23.537Z",
       "ps-price": 60
     },
     {
@@ -915,7 +915,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:40.656Z"
+      "scrapedAt": "2025-11-23T23:20:23.678Z"
     },
     {
       "id": "AST-2609112000-ha74tq",
@@ -933,7 +933,7 @@
       ],
       "info": "",
       "location": "astra",
-      "scrapedAt": "2025-11-23T23:04:40.824Z"
+      "scrapedAt": "2025-11-23T23:20:23.825Z"
     }
   ]
 }
