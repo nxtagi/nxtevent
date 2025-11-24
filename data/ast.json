@@ -1,9 +1,9 @@
 {
   "location": "ast",
-  "scrapedAt": "2025-11-24T15:58:44.517Z",
+  "scrapedAt": "2025-11-24T16:09:24.513Z",
   "events": [
     {
-      "id": "AST-2511262130-nxylwy",
+      "id": "EVT-2511262130-nxylwy",
       "title": "MONOBLOCO",
       "category": "Event",
       "section": "Konzert",
@@ -17,12 +17,12 @@
         "web"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:36.090Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:13.976Z",
       "eb-price": 30
     },
     {
-      "id": "AST-2511272000-1j61wm",
+      "id": "EVT-2511272000-1j61wm",
       "title": "ADEPT",
       "category": "Event",
       "section": "Konzert",
@@ -36,12 +36,12 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:36.297Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:14.177Z",
       "ps-price": 40
     },
     {
-      "id": "AST-2511281800-f05vte",
+      "id": "EVT-2511281800-f05vte",
       "title": "OBSIDIAN ECHOES",
       "category": "Event",
       "section": "Festival",
@@ -55,12 +55,12 @@
         "ticketio"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:36.498Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:14.390Z",
       "ps-price": 42
     },
     {
-      "id": "AST-2511292000-ow0zm4",
+      "id": "EVT-2511292000-ow0zm4",
       "title": "LARA HULO",
       "category": "Event",
       "section": "Konzert",
@@ -74,12 +74,12 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:36.700Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:14.603Z",
       "ps-price": 30
     },
     {
-      "id": "AST-2511302000-6hc2o",
+      "id": "EVT-2511302000-6hc2o",
       "title": "THE SAINTS ’73-’78",
       "category": "Event",
       "section": "Konzert",
@@ -93,13 +93,13 @@
         "koka36"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:36.918Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:14.870Z",
       "bo-price": 50,
       "ps-price": 40
     },
     {
-      "id": "AST-2512011930-sqs6ms",
+      "id": "EVT-2512011930-sqs6ms",
       "title": "11FREUNDE KNEIPENQUIZ",
       "category": "Event",
       "section": "Kneipenquiz",
@@ -111,12 +111,12 @@
       "ticket": "",
       "vendor": [],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:37.100Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:15.065Z",
       "ps-price": 22
     },
     {
-      "id": "AST-2512042000-ynjtx",
+      "id": "EVT-2512042000-ynjtx",
       "title": "LEISURE",
       "category": "Event",
       "section": "Konzert",
@@ -130,12 +130,12 @@
         "ticketmaster"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:37.286Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:15.268Z",
       "ps-price": 34.62
     },
     {
-      "id": "AST-2512052000-clttu0",
+      "id": "EVT-2512052000-clttu0",
       "title": "DRITTE WAHL",
       "category": "Event",
       "section": "Konzert",
@@ -149,12 +149,12 @@
         "greyzone"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:37.480Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:15.465Z",
       "ps-price": 39
     },
     {
-      "id": "AST-2512062000-clttu0",
+      "id": "EVT-2512062000-clttu0",
       "title": "DRITTE WAHL",
       "category": "Event",
       "section": "Konzert",
@@ -168,12 +168,12 @@
         "greyzone"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:37.682Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:15.693Z",
       "ps-price": 39
     },
     {
-      "id": "AST-2512102000-nn66gz",
+      "id": "EVT-2512102000-nn66gz",
       "title": "JOHN MAUS",
       "category": "Event",
       "section": "Konzert",
@@ -187,12 +187,12 @@
         "greyzone"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:37.875Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:15.876Z",
       "ps-price": 27
     },
     {
-      "id": "AST-2512112000-1tkhp8",
+      "id": "EVT-2512112000-1tkhp8",
       "title": "TARJA",
       "category": "Event",
       "section": "Konzert",
@@ -206,12 +206,12 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:38.045Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:16.058Z",
       "ps-price": 40
     },
     {
-      "id": "AST-2512122000-827zqa",
+      "id": "EVT-2512122000-827zqa",
       "title": "DANKO JONES",
       "category": "Event",
       "section": "Konzert",
@@ -225,12 +225,12 @@
         "dodotickets"
       ],
       "info": "Ausverkauft",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:38.227Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:16.269Z",
       "ps-price": 32
     },
     {
-      "id": "AST-2512132000-rzmbu2",
+      "id": "EVT-2512132000-rzmbu2",
       "title": "MILLENIUMKID",
       "category": "Event",
       "section": "Konzert",
@@ -244,12 +244,12 @@
         "web"
       ],
       "info": "Ausverkauft",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:38.403Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:16.482Z",
       "ps-price": 32
     },
     {
-      "id": "AST-2512132330-dczxf8",
+      "id": "EVT-2512132330-dczxf8",
       "title": "A NIGHT LIKE THIS",
       "category": "Event",
       "section": "Party",
@@ -263,14 +263,14 @@
         "eventbrite"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:38.591Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:16.732Z",
       "bo-price": 15,
       "ps-price": 12,
       "eb-price": 10
     },
     {
-      "id": "AST-2512142000-g8wtos",
+      "id": "EVT-2512142000-g8wtos",
       "title": "BIOSCOPE",
       "category": "Event",
       "section": "Konzert",
@@ -284,12 +284,12 @@
         "eventim"
       ],
       "info": "Abgesagt",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:38.791Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:16.928Z",
       "ps-price": 52
     },
     {
-      "id": "AST-2512172000-px00zk",
+      "id": "EVT-2512172000-px00zk",
       "title": "KING PRINCESS",
       "category": "Event",
       "section": "Konzert",
@@ -303,12 +303,12 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:38.958Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:17.120Z",
       "ps-price": 35
     },
     {
-      "id": "AST-2512192000-jaw79g",
+      "id": "EVT-2512192000-jaw79g",
       "title": "JASSIN",
       "category": "Event",
       "section": "Konzert",
@@ -322,12 +322,12 @@
         "web"
       ],
       "info": "Ausverkauft",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:39.134Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:17.339Z",
       "ps-price": 36.5
     },
     {
-      "id": "AST-2512202000-1ljnpb",
+      "id": "EVT-2512202000-1ljnpb",
       "title": "ENGST",
       "category": "Event",
       "section": "Konzert",
@@ -341,11 +341,11 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:39.312Z"
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:17.565Z"
     },
     {
-      "id": "AST-2601111900-amun2u",
+      "id": "EVT-2601111900-amun2u",
       "title": "LIONHEART",
       "category": "Event",
       "section": "Konzert",
@@ -359,12 +359,12 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:39.487Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:17.801Z",
       "ps-price": 40
     },
     {
-      "id": "AST-2601212000-moyz31",
+      "id": "EVT-2601212000-moyz31",
       "title": "MIDNIGHT TIL MORNING",
       "category": "Event",
       "section": "Konzert",
@@ -378,12 +378,12 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:39.666Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:18.041Z",
       "ps-price": 26
     },
     {
-      "id": "AST-2601242000-1o2fup",
+      "id": "EVT-2601242000-1o2fup",
       "title": "JAMAL",
       "category": "Event",
       "section": "Konzert",
@@ -397,12 +397,12 @@
         "ticketmaster"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:39.840Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:18.277Z",
       "ps-price": 30
     },
     {
-      "id": "AST-2602071700-xi4gvw",
+      "id": "EVT-2602071700-xi4gvw",
       "title": "THE EXPLOITED + DISCHARGE + GBH",
       "category": "Event",
       "section": "Konzert",
@@ -416,13 +416,13 @@
         "koka36"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:40.032Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:18.550Z",
       "bo-price": 52,
       "ps-price": 44
     },
     {
-      "id": "AST-2602131900-ul3n33",
+      "id": "EVT-2602131900-ul3n33",
       "title": "NAPALM DEATH – CAMPAIGN FOR MUSICAL DESTRUCTION",
       "category": "Event",
       "section": "Konzert",
@@ -436,13 +436,13 @@
         "koka36"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:40.196Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:18.813Z",
       "bo-price": 42,
       "ps-price": 35
     },
     {
-      "id": "AST-2602141900-btbj6f",
+      "id": "EVT-2602141900-btbj6f",
       "title": "GLASS DANSE 2026",
       "category": "Event",
       "section": "Konzert",
@@ -456,12 +456,12 @@
         "web"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:40.381Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:19.052Z",
       "ps-price": 44.99
     },
     {
-      "id": "AST-2602201900-u0rs5j",
+      "id": "EVT-2602201900-u0rs5j",
       "title": "AGNOSTIC FRONT",
       "category": "Event",
       "section": "Konzert",
@@ -475,13 +475,13 @@
         "koka36"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:40.549Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:19.300Z",
       "bo-price": 40,
       "ps-price": 32
     },
     {
-      "id": "AST-2602212000-j6l87s",
+      "id": "EVT-2602212000-j6l87s",
       "title": "JINJER",
       "category": "Event",
       "section": "Konzert",
@@ -495,12 +495,12 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:40.704Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:19.580Z",
       "ps-price": 49.25
     },
     {
-      "id": "AST-2602281930-i31ayo",
+      "id": "EVT-2602281930-i31ayo",
       "title": "CLOCKCLOCK",
       "category": "Event",
       "section": "Konzert",
@@ -514,12 +514,12 @@
         "eventim"
       ],
       "info": "Ausverkauft",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:40.893Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:19.824Z",
       "ps-price": 38
     },
     {
-      "id": "AST-2603061930-lbhu3z",
+      "id": "EVT-2603061930-lbhu3z",
       "title": "LA DISPUTE",
       "category": "Event",
       "section": "Konzert",
@@ -533,13 +533,13 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:41.070Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:20.064Z",
       "bo-price": 35,
       "ps-price": 29
     },
     {
-      "id": "AST-2603072000-owfgbc",
+      "id": "EVT-2603072000-owfgbc",
       "title": "GLUECIFER",
       "category": "Event",
       "section": "Konzert",
@@ -553,12 +553,12 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:41.246Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:20.300Z",
       "ps-price": 36
     },
     {
-      "id": "AST-2603102000-1u0ee",
+      "id": "EVT-2603102000-1u0ee",
       "title": "DER W",
       "category": "Event",
       "section": "Konzert",
@@ -572,11 +572,11 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:41.442Z"
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:20.532Z"
     },
     {
-      "id": "AST-2603141900-02zg",
+      "id": "EVT-2603141900-02zg",
       "title": "YU",
       "category": "Event",
       "section": "Konzert",
@@ -588,12 +588,12 @@
       "ticket": "",
       "vendor": [],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:41.606Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:20.747Z",
       "ps-price": 37.5
     },
     {
-      "id": "AST-2603152000-1mhgih",
+      "id": "EVT-2603152000-1mhgih",
       "title": "GEESE",
       "category": "Event",
       "section": "Konzert",
@@ -607,13 +607,13 @@
         "loftix"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:41.796Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:20.940Z",
       "bo-price": 30,
       "ps-price": 25
     },
     {
-      "id": "AST-2603172000-9dzrcb",
+      "id": "EVT-2603172000-9dzrcb",
       "title": "CARPENTER BRUT",
       "category": "Event",
       "section": "Konzert",
@@ -627,12 +627,12 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:42.011Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:21.129Z",
       "ps-price": 40
     },
     {
-      "id": "AST-2603211930-268av",
+      "id": "EVT-2603211930-268av",
       "title": "WIZO",
       "category": "Event",
       "section": "Konzert",
@@ -646,13 +646,13 @@
         "koka36"
       ],
       "info": "Ausverkauft",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:42.188Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:21.315Z",
       "bo-price": 52,
       "ps-price": 44
     },
     {
-      "id": "AST-2603221830-268av",
+      "id": "EVT-2603221830-268av",
       "title": "WIZO",
       "category": "Event",
       "section": "Konzert",
@@ -666,13 +666,13 @@
         "koka36"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:42.356Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:21.505Z",
       "bo-price": 52,
       "ps-price": 44
     },
     {
-      "id": "AST-2603262000-1tixp",
+      "id": "EVT-2603262000-1tixp",
       "title": "CMAT",
       "category": "Event",
       "section": "Konzert",
@@ -686,12 +686,12 @@
         "ticketmaster"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:42.516Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:21.687Z",
       "ps-price": 44.6
     },
     {
-      "id": "AST-2603282000-flmkcz",
+      "id": "EVT-2603282000-flmkcz",
       "title": "MEGALOH",
       "category": "Event",
       "section": "Konzert",
@@ -705,12 +705,12 @@
         "web"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:42.713Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:21.938Z",
       "ps-price": 39.2
     },
     {
-      "id": "AST-2604042000-bglam8",
+      "id": "EVT-2604042000-bglam8",
       "title": "ZSÁ ZSÁ",
       "category": "Event",
       "section": "Konzert",
@@ -724,12 +724,12 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:42.891Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:22.114Z",
       "ps-price": 30
     },
     {
-      "id": "AST-2604102000-z8nej1",
+      "id": "EVT-2604102000-z8nej1",
       "title": "SAMMY VIRJI",
       "category": "Event",
       "section": "Konzert",
@@ -743,12 +743,12 @@
         "ticketmaster"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:43.049Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:22.345Z",
       "ps-price": 33.5
     },
     {
-      "id": "AST-2604192000-x2dmyn",
+      "id": "EVT-2604192000-x2dmyn",
       "title": "SMASH INTO PIECES",
       "category": "Event",
       "section": "Konzert",
@@ -762,12 +762,12 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:43.209Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:22.608Z",
       "ps-price": 40
     },
     {
-      "id": "AST-2605071845-441ot9",
+      "id": "EVT-2605071845-441ot9",
       "title": "OUT OF LINE WEEKENDER 2026",
       "category": "Event",
       "section": "Festival",
@@ -781,12 +781,12 @@
         "web"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:43.360Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:22.835Z",
       "ps-price": 79.99
     },
     {
-      "id": "AST-2605081845-441ot9",
+      "id": "EVT-2605081845-441ot9",
       "title": "OUT OF LINE WEEKENDER 2026",
       "category": "Event",
       "section": "Festival",
@@ -800,12 +800,12 @@
         "web"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:43.519Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:23.078Z",
       "ps-price": 79.99
     },
     {
-      "id": "AST-2605091745-441ot9",
+      "id": "EVT-2605091745-441ot9",
       "title": "OUT OF LINE WEEKENDER 2026",
       "category": "Event",
       "section": "Festival",
@@ -819,12 +819,12 @@
         "web"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:43.681Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:23.323Z",
       "ps-price": 79.99
     },
     {
-      "id": "AST-2605132000-l3e1to",
+      "id": "EVT-2605132000-l3e1to",
       "title": "VOODOO JÜRGENS",
       "category": "Event",
       "section": "Konzert",
@@ -838,12 +838,12 @@
         "greyzone"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:43.858Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:23.565Z",
       "ps-price": 30
     },
     {
-      "id": "AST-2605162000-ekl3t7",
+      "id": "EVT-2605162000-ekl3t7",
       "title": "TAKT32",
       "category": "Event",
       "section": "Konzert",
@@ -857,12 +857,12 @@
         "landstreicher"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:44.069Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:23.817Z",
       "ps-price": 37.99
     },
     {
-      "id": "AST-2606131400-xpui25",
+      "id": "EVT-2606131400-xpui25",
       "title": "BERLIN BREAKOUT! 2026",
       "category": "Event",
       "section": "Festival",
@@ -876,12 +876,12 @@
         "loftix"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:44.220Z",
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:24.052Z",
       "ps-price": 60
     },
     {
-      "id": "AST-2608182000-sjgfoc",
+      "id": "EVT-2608182000-sjgfoc",
       "title": "ROSE TATTOO",
       "category": "Event",
       "section": "Konzert",
@@ -895,11 +895,11 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:44.368Z"
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:24.279Z"
     },
     {
-      "id": "AST-2609112000-ha74tq",
+      "id": "EVT-2609112000-ha74tq",
       "title": "NIZI19",
       "category": "Event",
       "section": "Konzert",
@@ -913,8 +913,8 @@
         "eventim"
       ],
       "info": "",
-      "location": "astra",
-      "scrapedAt": "2025-11-24T15:58:44.516Z"
+      "location": "AST",
+      "scrapedAt": "2025-11-24T16:09:24.512Z"
     }
   ]
 }
