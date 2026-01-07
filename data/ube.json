@@ -1,8 +1,8 @@
 [
   {
     "title": "WWE Live SmackDown",
-    "category": "Sport",
-    "section": "Sport",
+    "category": "Wrestling",
+    "section": "WWE",
     "date": "2026-01-09",
     "entryTime": "17:30",
     "beginTime": "19:30",
@@ -299,7 +299,7 @@
     "entryTime": "18:00",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/mgk/2026-02-24-2000",
-    "img": "https://www.uber-arena.de/assets/img/MGK_Thumb-9f5000bc9d.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-6672295479.png"
   },
   {
     "title": "Eisbären Berlin - Straubing Tigers",
@@ -365,7 +365,7 @@
     "entryTime": "18:00",
     "beginTime": "20:00",
     "link": "https://www.uber-arena.de/events/detail/wu-tang-clan/2026-03-03-2000",
-    "img": "https://www.uber-arena.de/assets/img/WuTangClan_Thumb-0acbe8622a.jpg"
+    "img": "https://www.uber-arena.de/assets/img/Eventkalender-9c1b9ddd63.png"
   },
   {
     "title": "ISTAF INDOOR",
