@@ -1,61 +1,5 @@
 [
   {
-    "title": "BERLIN RECYCLING Volleys - SWD powervolleys Düren",
-    "category": "Volleyball",
-    "section": "VBL",
-    "date": "2026-01-11",
-    "entryTime": "14:00",
-    "beginTime": "15:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/berlin-recycling-volleys-vs-swd-powervolleys-dueren-4206",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-dueren.jpg",
-    "home": "Berlin",
-    "away": "Düren"
-  },
-  {
-    "title": "BERLIN RECYCLING Volleys - Helios Grizzlys Giesen",
-    "category": "Volleyball",
-    "section": "VBL",
-    "date": "2026-01-18",
-    "entryTime": "14:00",
-    "beginTime": "15:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/berlin-recycling-volleys-vs-helios-grizzlys-giesen-4207",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-giessen-va.jpg",
-    "home": "Berlin",
-    "away": "Giesen"
-  },
-  {
-    "title": "Alba Berlin - BMA365 Bamberg Baskets",
-    "category": "Basketball",
-    "section": "BBL",
-    "date": "2026-01-25",
-    "entryTime": "15:30",
-    "beginTime": "16:30",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/alba-berlin-vs-bamberg-bakets-4230",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/alba-bamberg-va.jpg"
-  },
-  {
-    "title": "BERLIN RECYCLING Volleys - VK Lvi Prag",
-    "category": "Volleyball",
-    "section": "CEV",
-    "date": "2026-01-27",
-    "entryTime": "18:30",
-    "beginTime": "19:30",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/berlin-recycling-volleys-vs-vk-lvi-prag-4033",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-prag.jpg"
-  },
-  {
-    "title": "BERLIN RECYCLING Volleys - FT 1844 Freiburg",
-    "category": "Volleyball",
-    "section": "VBL",
-    "date": "2026-01-31",
-    "entryTime": "17:00",
-    "beginTime": "18:00",
-    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/berlin-recycling-volleys-vs-ft-1844-freiburg-4208",
-    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-ft-freiburg-neu.jpg",
-    "home": "Berlin",
-    "away": "Freiburg"
-  },
-  {
     "title": "Deftones",
     "category": "Event",
     "section": "Konzert",
@@ -78,7 +22,7 @@
     "away": "Karlsruhe"
   },
   {
-    "title": "Füchse Berlin - TBV Stuttgart",
+    "title": "Füchse Berlin - TVB Stuttgart",
     "category": "Handball",
     "section": "HBL",
     "date": "2026-02-15",
@@ -87,7 +31,7 @@
     "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/fuechse-berlin-vs-tbv-stuttgart-4238",
     "img": "https://www.max-schmeling-halle.de/fileadmin/events/fuechse-tvb-stuttgart-va.jpg",
     "home": "Berlin",
-    "away": "Unbekannt"
+    "away": "Stuttgart"
   },
   {
     "title": "Biffy Clyro",
@@ -174,7 +118,7 @@
     "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/fuechse-nantes-va.jpg"
   },
   {
-    "title": "WTF EU&UK TOUR",
+    "title": "Ken Carson",
     "category": "Event",
     "section": "Konzert",
     "date": "2026-03-13",
@@ -184,7 +128,7 @@
     "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/ken-carson-2026_kl.jpg"
   },
   {
-    "title": "BERLIN RECYCLING Volleys - Energiequelle Netzhoppers KW",
+    "title": "Doppelspieltag",
     "category": "Volleyball",
     "section": "VBL",
     "date": "2026-03-14",
@@ -192,8 +136,8 @@
     "beginTime": "18:00",
     "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/berlin-recycling-volleys-vs-energiequelle-netzhoppers-kw-4211",
     "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/br-volleys-kw-nue.jpg",
-    "home": "Berlin",
-    "away": "Wusterhausen"
+    "home": "",
+    "away": ""
   },
   {
     "title": "Füchse Berlin - HC Erlangen",
@@ -268,6 +212,16 @@
     "beginTime": "20:00",
     "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/bosse-4196",
     "img": "https://www.max-schmeling-halle.de/fileadmin/_processed_/6/4/csm_BOSSE_2025-26_kl_40cfac5608.jpg"
+  },
+  {
+    "title": "Madison Beer",
+    "category": "Event",
+    "section": "Konzert",
+    "date": "2026-05-19",
+    "entryTime": "18:30",
+    "beginTime": "20:00",
+    "link": "https://www.max-schmeling-halle.de/events-tickets/event/detail/madison-beer-4244",
+    "img": "https://www.max-schmeling-halle.de/fileadmin/user_upload/MB_2026_Thelocket_kl.jpg"
   },
   {
     "title": "Die Deutschen Podcast",
